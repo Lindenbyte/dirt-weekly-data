@@ -1,0 +1,56 @@
+{
+    "maps": [
+        {
+            "name": "MayThe4th",
+            "author": "Presets",
+            "tmx_id": 111111,
+            "released": true,
+            "week": 1
+        },
+        {
+            "name": "Sparkles",
+            "author": "Palli",
+            "tmx_id": 111111,
+            "released": true,
+            "week": 2
+        },
+        {
+            "name": "Mama",
+            "author": "Joe",
+            "tmx_id": 111111,
+            "released": true,
+            "active": true,
+            "week": 3
+        },
+        {
+            "name": "TBA",
+            "author": "TBA",
+            "tmx_id": 111111,
+            "week": 4
+        },
+        {
+            "name": "TBA",
+            "author": "TBA",
+            "tmx_id": 111111,
+            "week": 5
+        },
+        {
+            "name": "TBA",
+            "author": "TBA",
+            "tmx_id": 111111,
+            "week": 6
+        },
+        {
+            "name": "TBA",
+            "author": "TBA",
+            "tmx_id": 111111,
+            "week": 7
+        },
+        {
+            "name": "TBA",
+            "author": "TBA",
+            "tmx_id": 111111,
+            "week": 8
+        }
+    ]
+}
