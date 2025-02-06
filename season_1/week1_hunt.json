@@ -1,4 +1,10 @@
 [
-    "T9GM3NDMQVuzewG3Urpp1g",
-    "h-iguf6PQuCgjY857VZUGw"
+    {
+        "player_id": "T9GM3NDMQVuzewG3Urpp1g",
+        "finish_time": 23.321
+    },
+    {
+        "player_id": "h-iguf6PQuCgjY857VZUGw",
+        "finish_time": 24.321
+    }
 ]
