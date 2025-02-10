@@ -5,8 +5,8 @@
     "rounds": [
       {
         "position": 1,
-        "accumulated_points": 550,
-        "finish_time": 11931,
+        "points": 550,
+        "time": 11931,
         "checkpoints": [
           7045,
           11931
@@ -14,8 +14,8 @@
       },
       {
         "position": 1,
-        "accumulated_points": 1100,
-        "finish_time": 11876,
+        "points": 1100,
+        "time": 11876,
         "checkpoints": [
           7015,
           11876
@@ -29,8 +29,8 @@
     "rounds": [
       {
         "position": 3,
-        "accumulated_points": 450,
-        "finish_time": 13871,
+        "points": 450,
+        "time": 13871,
         "checkpoints": [
           7087,
           13871
@@ -38,8 +38,8 @@
       },
       {
         "position": 2,
-        "accumulated_points": 950,
-        "finish_time": 12802,
+        "points": 950,
+        "time": 12802,
         "checkpoints": [
           7035,
           12802
@@ -53,8 +53,8 @@
     "rounds": [
       {
         "position": 2,
-        "accumulated_points": 500,
-        "finish_time": 13755,
+        "points": 500,
+        "time": 13755,
         "checkpoints": [
           8620,
           13755
@@ -62,8 +62,8 @@
       },
       {
         "position": 3,
-        "accumulated_points": 950,
-        "finish_time": 12818,
+        "points": 950,
+        "time": 12818,
         "checkpoints": [
           7010,
           12818
