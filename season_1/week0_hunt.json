@@ -1,10 +1,12 @@
 [
     {
         "player_id": "T9GM3NDMQVuzewG3Urpp1g",
-        "finish_time": 23.321
+        "rank": 1,
+        "time": 23.321
     },
     {
         "player_id": "h-iguf6PQuCgjY857VZUGw",
-        "finish_time": 24.321
+        "rank": 2,
+        "time": 24.321
     }
 ]

@@ -1,12 +1,15 @@
 [
   {
     "player_id": "T9GM3NDMQVuzewG3Urpp1g",
+    "rank": 1,
     "total_points": 890,
+    "best_time": 11111,
     "rounds": [
       {
         "position": 37,
+        "rank": 11,
         "accumulated_points": 61,
-        "finish_time": 49960,
+        "time": 49960,
         "checkpoints": [
           5498,
           10457,
@@ -24,7 +27,7 @@
       {
         "position": 42,
         "accumulated_points": 556,
-        "finish_time": 52694,
+        "time": 52694,
         "checkpoints": [
           5516,
           10847,
@@ -42,7 +45,7 @@
       {
         "position": 43,
         "accumulated_points": 646,
-        "finish_time": 50277,
+        "time": 50277,
         "checkpoints": [
           5478,
           10498,
@@ -60,7 +63,7 @@
       {
         "position": 65,
         "accumulated_points": 725,
-        "finish_time": 50570,
+        "time": 50570,
         "checkpoints": [
           5481,
           10520,
@@ -78,7 +81,7 @@
       {
         "position": 68,
         "accumulated_points": 811,
-        "finish_time": 50222,
+        "time": 50222,
         "checkpoints": [
           5478,
           10545,
@@ -96,7 +99,7 @@
       {
         "position": 84,
         "accumulated_points": 890,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       }
     ]
@@ -108,31 +111,31 @@
       {
         "position": 89,
         "accumulated_points": 450,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       },
       {
         "position": 90,
         "accumulated_points": 560,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       },
       {
         "position": 90,
         "accumulated_points": 670,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       },
       {
         "position": 90,
         "accumulated_points": 780,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       },
       {
         "position": 86,
         "accumulated_points": 890,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       }
     ]
@@ -144,7 +147,7 @@
       {
         "position": 73,
         "accumulated_points": 530,
-        "finish_time": 52544,
+        "time": 52544,
         "checkpoints": [
           5662,
           10687,
@@ -162,7 +165,7 @@
       {
         "position": 79,
         "accumulated_points": 620,
-        "finish_time": 58721,
+        "time": 58721,
         "checkpoints": [
           5675,
           10765,
@@ -180,7 +183,7 @@
       {
         "position": 81,
         "accumulated_points": 710,
-        "finish_time": 58991,
+        "time": 58991,
         "checkpoints": [
           5772,
           15665,
@@ -198,7 +201,7 @@
       {
         "position": 78,
         "accumulated_points": 800,
-        "finish_time": 58498,
+        "time": 58498,
         "checkpoints": [
           5658,
           15271,
@@ -216,7 +219,7 @@
       {
         "position": 79,
         "accumulated_points": 890,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       }
     ]
@@ -228,7 +231,7 @@
       {
         "position": 64,
         "accumulated_points": 533,
-        "finish_time": 50577,
+        "time": 50577,
         "checkpoints": [
           5538,
           10422,
@@ -246,7 +249,7 @@
       {
         "position": 69,
         "accumulated_points": 620,
-        "finish_time": 51713,
+        "time": 51713,
         "checkpoints": [
           5531,
           10462,
@@ -264,7 +267,7 @@
       {
         "position": 69,
         "accumulated_points": 710,
-        "finish_time": 50906,
+        "time": 50906,
         "checkpoints": [
           5531,
           10465,
@@ -282,7 +285,7 @@
       {
         "position": 72,
         "accumulated_points": 800,
-        "finish_time": 50936,
+        "time": 50936,
         "checkpoints": [
           5574,
           10533,
@@ -300,7 +303,7 @@
       {
         "position": 87,
         "accumulated_points": 890,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       }
     ]
@@ -312,7 +315,7 @@
       {
         "position": 70,
         "accumulated_points": 530,
-        "finish_time": 52287,
+        "time": 52287,
         "checkpoints": [
           5474,
           10500,
@@ -330,7 +333,7 @@
       {
         "position": 71,
         "accumulated_points": 620,
-        "finish_time": 51771,
+        "time": 51771,
         "checkpoints": [
           5504,
           10487,
@@ -348,7 +351,7 @@
       {
         "position": 75,
         "accumulated_points": 710,
-        "finish_time": 55257,
+        "time": 55257,
         "checkpoints": [
           5566,
           10587,
@@ -366,7 +369,7 @@
       {
         "position": 75,
         "accumulated_points": 800,
-        "finish_time": 57426,
+        "time": 57426,
         "checkpoints": [
           5521,
           10508,
@@ -384,7 +387,7 @@
       {
         "position": 90,
         "accumulated_points": 890,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       }
     ]
@@ -396,7 +399,7 @@
       {
         "position": 80,
         "accumulated_points": 510,
-        "finish_time": 52646,
+        "time": 52646,
         "checkpoints": [
           5601,
           10620,
@@ -414,7 +417,7 @@
       {
         "position": 81,
         "accumulated_points": 600,
-        "finish_time": 53694,
+        "time": 53694,
         "checkpoints": [
           5501,
           10874,
@@ -432,7 +435,7 @@
       {
         "position": 82,
         "accumulated_points": 690,
-        "finish_time": 52847,
+        "time": 52847,
         "checkpoints": [
           5584,
           10592,
@@ -450,13 +453,13 @@
       {
         "position": 84,
         "accumulated_points": 780,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       },
       {
         "position": 80,
         "accumulated_points": 890,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       }
     ]
@@ -468,31 +471,31 @@
       {
         "position": 91,
         "accumulated_points": 450,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       },
       {
         "position": 91,
         "accumulated_points": 560,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       },
       {
         "position": 91,
         "accumulated_points": 670,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       },
       {
         "position": 91,
         "accumulated_points": 780,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       },
       {
         "position": 91,
         "accumulated_points": 890,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       }
     ]
@@ -504,31 +507,31 @@
       {
         "position": 90,
         "accumulated_points": 450,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       },
       {
         "position": 87,
         "accumulated_points": 560,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       },
       {
         "position": 87,
         "accumulated_points": 670,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       },
       {
         "position": 87,
         "accumulated_points": 780,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       },
       {
         "position": 88,
         "accumulated_points": 890,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       }
     ]
@@ -540,31 +543,31 @@
       {
         "position": 88,
         "accumulated_points": 450,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       },
       {
         "position": 89,
         "accumulated_points": 560,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       },
       {
         "position": 88,
         "accumulated_points": 670,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       },
       {
         "position": 88,
         "accumulated_points": 780,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       },
       {
         "position": 89,
         "accumulated_points": 890,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       }
     ]
@@ -576,13 +579,13 @@
       {
         "position": 83,
         "accumulated_points": 510,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       },
       {
         "position": 76,
         "accumulated_points": 620,
-        "finish_time": 54193,
+        "time": 54193,
         "checkpoints": [
           5471,
           10490,
@@ -600,7 +603,7 @@
       {
         "position": 78,
         "accumulated_points": 710,
-        "finish_time": 56636,
+        "time": 56636,
         "checkpoints": [
           5464,
           10460,
@@ -618,7 +621,7 @@
       {
         "position": 74,
         "accumulated_points": 800,
-        "finish_time": 55606,
+        "time": 55606,
         "checkpoints": [
           5508,
           10562,
@@ -636,7 +639,7 @@
       {
         "position": 73,
         "accumulated_points": 890,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       }
     ]
@@ -648,7 +651,7 @@
       {
         "position": 79,
         "accumulated_points": 510,
-        "finish_time": 57190,
+        "time": 57190,
         "checkpoints": [
           5602,
           10665,
@@ -666,7 +669,7 @@
       {
         "position": 80,
         "accumulated_points": 600,
-        "finish_time": 52243,
+        "time": 52243,
         "checkpoints": [
           5645,
           10742,
@@ -684,7 +687,7 @@
       {
         "position": 83,
         "accumulated_points": 690,
-        "finish_time": 55208,
+        "time": 55208,
         "checkpoints": [
           5506,
           10480,
@@ -702,13 +705,13 @@
       {
         "position": 83,
         "accumulated_points": 780,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       },
       {
         "position": 77,
         "accumulated_points": 890,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       }
     ]
@@ -720,31 +723,31 @@
       {
         "position": 87,
         "accumulated_points": 450,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       },
       {
         "position": 88,
         "accumulated_points": 560,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       },
       {
         "position": 89,
         "accumulated_points": 670,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       },
       {
         "position": 89,
         "accumulated_points": 780,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       },
       {
         "position": 85,
         "accumulated_points": 890,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       }
     ]
@@ -756,7 +759,7 @@
       {
         "position": 72,
         "accumulated_points": 530,
-        "finish_time": 58630,
+        "time": 58630,
         "checkpoints": [
           5474,
           13295,
@@ -774,7 +777,7 @@
       {
         "position": 74,
         "accumulated_points": 620,
-        "finish_time": 52448,
+        "time": 52448,
         "checkpoints": [
           5526,
           10555,
@@ -792,7 +795,7 @@
       {
         "position": 79,
         "accumulated_points": 710,
-        "finish_time": 56474,
+        "time": 56474,
         "checkpoints": [
           5534,
           10508,
@@ -810,7 +813,7 @@
       {
         "position": 76,
         "accumulated_points": 800,
-        "finish_time": 57708,
+        "time": 57708,
         "checkpoints": [
           6184,
           11318,
@@ -828,7 +831,7 @@
       {
         "position": 75,
         "accumulated_points": 890,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       }
     ]
@@ -840,7 +843,7 @@
       {
         "position": 10,
         "accumulated_points": 246,
-        "finish_time": 56401,
+        "time": 56401,
         "checkpoints": [
           5491,
           17323,
@@ -858,7 +861,7 @@
       {
         "position": 9,
         "accumulated_points": 318,
-        "finish_time": 50140,
+        "time": 50140,
         "checkpoints": [
           5528,
           10440,
@@ -876,7 +879,7 @@
       {
         "position": 8,
         "accumulated_points": 392,
-        "finish_time": 49253,
+        "time": 49253,
         "checkpoints": [
           5491,
           10382,
@@ -894,7 +897,7 @@
       {
         "position": 9,
         "accumulated_points": 422,
-        "finish_time": 49118,
+        "time": 49118,
         "checkpoints": [
           5488,
           10360,
@@ -912,7 +915,7 @@
       {
         "position": 10,
         "accumulated_points": 446,
-        "finish_time": 49718,
+        "time": 49718,
         "checkpoints": [
           5564,
           10513,
@@ -930,7 +933,7 @@
       {
         "position": 17,
         "accumulated_points": 685,
-        "finish_time": 49730,
+        "time": 49730,
         "checkpoints": [
           5466,
           10347,
@@ -948,7 +951,7 @@
       {
         "position": 17,
         "accumulated_points": 753,
-        "finish_time": 49402,
+        "time": 49402,
         "checkpoints": [
           5491,
           10370,
@@ -966,7 +969,7 @@
       {
         "position": 23,
         "accumulated_points": 789,
-        "finish_time": 49341,
+        "time": 49341,
         "checkpoints": [
           5468,
           10355,
@@ -984,7 +987,7 @@
       {
         "position": 38,
         "accumulated_points": 828,
-        "finish_time": 49725,
+        "time": 49725,
         "checkpoints": [
           5496,
           10395,
@@ -1002,7 +1005,7 @@
       {
         "position": 76,
         "accumulated_points": 890,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       }
     ]
@@ -1014,19 +1017,19 @@
       {
         "position": 86,
         "accumulated_points": 470,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       },
       {
         "position": 86,
         "accumulated_points": 580,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       },
       {
         "position": 84,
         "accumulated_points": 690,
-        "finish_time": 58058,
+        "time": 58058,
         "checkpoints": [
           5491,
           10573,
@@ -1044,13 +1047,13 @@
       {
         "position": 86,
         "accumulated_points": 780,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       },
       {
         "position": 74,
         "accumulated_points": 890,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       }
     ]
@@ -1062,13 +1065,13 @@
       {
         "position": 81,
         "accumulated_points": 510,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       },
       {
         "position": 75,
         "accumulated_points": 620,
-        "finish_time": 52897,
+        "time": 52897,
         "checkpoints": [
           5506,
           10550,
@@ -1086,7 +1089,7 @@
       {
         "position": 74,
         "accumulated_points": 710,
-        "finish_time": 53397,
+        "time": 53397,
         "checkpoints": [
           5574,
           10590,
@@ -1104,7 +1107,7 @@
       {
         "position": 80,
         "accumulated_points": 800,
-        "finish_time": 60144,
+        "time": 60144,
         "checkpoints": [
           5555,
           10681,
@@ -1122,7 +1125,7 @@
       {
         "position": 81,
         "accumulated_points": 890,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       }
     ]
@@ -1134,7 +1137,7 @@
       {
         "position": 47,
         "accumulated_points": 17,
-        "finish_time": 50315,
+        "time": 50315,
         "checkpoints": [
           5546,
           10560,
@@ -1152,7 +1155,7 @@
       {
         "position": 60,
         "accumulated_points": 549,
-        "finish_time": 50376,
+        "time": 50376,
         "checkpoints": [
           5508,
           10537,
@@ -1170,7 +1173,7 @@
       {
         "position": 64,
         "accumulated_points": 632,
-        "finish_time": 57406,
+        "time": 57406,
         "checkpoints": [
           5478,
           10507,
@@ -1188,7 +1191,7 @@
       {
         "position": 66,
         "accumulated_points": 722,
-        "finish_time": 50473,
+        "time": 50473,
         "checkpoints": [
           5464,
           10430,
@@ -1206,7 +1209,7 @@
       {
         "position": 69,
         "accumulated_points": 807,
-        "finish_time": 50351,
+        "time": 50351,
         "checkpoints": [
           5494,
           10515,
@@ -1224,7 +1227,7 @@
       {
         "position": 72,
         "accumulated_points": 890,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       }
     ]
@@ -1236,7 +1239,7 @@
       {
         "position": 77,
         "accumulated_points": 530,
-        "finish_time": 56490,
+        "time": 56490,
         "checkpoints": [
           5648,
           10647,
@@ -1254,7 +1257,7 @@
       {
         "position": 78,
         "accumulated_points": 620,
-        "finish_time": 60765,
+        "time": 60765,
         "checkpoints": [
           5698,
           10722,
@@ -1272,7 +1275,7 @@
       {
         "position": 80,
         "accumulated_points": 710,
-        "finish_time": 59457,
+        "time": 59457,
         "checkpoints": [
           6045,
           11123,
@@ -1290,7 +1293,7 @@
       {
         "position": 77,
         "accumulated_points": 800,
-        "finish_time": 58236,
+        "time": 58236,
         "checkpoints": [
           5845,
           10938,
@@ -1308,7 +1311,7 @@
       {
         "position": 82,
         "accumulated_points": 890,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       }
     ]
@@ -1320,7 +1323,7 @@
       {
         "position": 62,
         "accumulated_points": 537,
-        "finish_time": 51234,
+        "time": 51234,
         "checkpoints": [
           5581,
           10533,
@@ -1338,7 +1341,7 @@
       {
         "position": 66,
         "accumulated_points": 627,
-        "finish_time": 50567,
+        "time": 50567,
         "checkpoints": [
           5558,
           10527,
@@ -1356,7 +1359,7 @@
       {
         "position": 71,
         "accumulated_points": 710,
-        "finish_time": 51257,
+        "time": 51257,
         "checkpoints": [
           5516,
           10447,
@@ -1374,7 +1377,7 @@
       {
         "position": 73,
         "accumulated_points": 800,
-        "finish_time": 54416,
+        "time": 54416,
         "checkpoints": [
           5518,
           10448,
@@ -1392,7 +1395,7 @@
       {
         "position": 78,
         "accumulated_points": 890,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       }
     ]
@@ -1404,7 +1407,7 @@
       {
         "position": 84,
         "accumulated_points": 490,
-        "finish_time": 54693,
+        "time": 54693,
         "checkpoints": [
           5685,
           10752,
@@ -1422,7 +1425,7 @@
       {
         "position": 85,
         "accumulated_points": 580,
-        "finish_time": 55482,
+        "time": 55482,
         "checkpoints": [
           5672,
           10732,
@@ -1440,19 +1443,19 @@
       {
         "position": 86,
         "accumulated_points": 670,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       },
       {
         "position": 85,
         "accumulated_points": 780,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       },
       {
         "position": 83,
         "accumulated_points": 890,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       }
     ]
@@ -1464,7 +1467,7 @@
       {
         "position": 51,
         "accumulated_points": 550,
-        "finish_time": 51423,
+        "time": 51423,
         "checkpoints": [
           5434,
           10522,
@@ -1482,7 +1485,7 @@
       {
         "position": 53,
         "accumulated_points": 640,
-        "finish_time": 51253,
+        "time": 51253,
         "checkpoints": [
           5438,
           10468,
@@ -1500,7 +1503,7 @@
       {
         "position": 52,
         "accumulated_points": 730,
-        "finish_time": 51464,
+        "time": 51464,
         "checkpoints": [
           5911,
           10973,
@@ -1518,7 +1521,7 @@
       {
         "position": 52,
         "accumulated_points": 820,
-        "finish_time": 60984,
+        "time": 60984,
         "checkpoints": [
           5411,
           10522,
@@ -1536,7 +1539,7 @@
       {
         "position": 42,
         "accumulated_points": 910,
-        "finish_time": 51537,
+        "time": 51537,
         "checkpoints": [
           5461,
           10483,
@@ -1560,7 +1563,7 @@
       {
         "position": 16,
         "accumulated_points": 142,
-        "finish_time": 49406,
+        "time": 49406,
         "checkpoints": [
           5483,
           10383,
@@ -1578,7 +1581,7 @@
       {
         "position": 18,
         "accumulated_points": 184,
-        "finish_time": 49572,
+        "time": 49572,
         "checkpoints": [
           5466,
           10362,
@@ -1596,7 +1599,7 @@
       {
         "position": 18,
         "accumulated_points": 244,
-        "finish_time": 49560,
+        "time": 49560,
         "checkpoints": [
           5541,
           10465,
@@ -1614,7 +1617,7 @@
       {
         "position": 18,
         "accumulated_points": 302,
-        "finish_time": 49257,
+        "time": 49257,
         "checkpoints": [
           5486,
           10373,
@@ -1632,7 +1635,7 @@
       {
         "position": 18,
         "accumulated_points": 335,
-        "finish_time": 49830,
+        "time": 49830,
         "checkpoints": [
           5474,
           10367,
@@ -1650,7 +1653,7 @@
       {
         "position": 26,
         "accumulated_points": 632,
-        "finish_time": 49738,
+        "time": 49738,
         "checkpoints": [
           5474,
           10410,
@@ -1668,7 +1671,7 @@
       {
         "position": 26,
         "accumulated_points": 702,
-        "finish_time": 49578,
+        "time": 49578,
         "checkpoints": [
           5566,
           10530,
@@ -1686,7 +1689,7 @@
       {
         "position": 31,
         "accumulated_points": 754,
-        "finish_time": 49905,
+        "time": 49905,
         "checkpoints": [
           5508,
           10487,
@@ -1704,7 +1707,7 @@
       {
         "position": 39,
         "accumulated_points": 826,
-        "finish_time": 50353,
+        "time": 50353,
         "checkpoints": [
           5508,
           10418,
@@ -1722,7 +1725,7 @@
       {
         "position": 48,
         "accumulated_points": 910,
-        "finish_time": 51851,
+        "time": 51851,
         "checkpoints": [
           5738,
           10948,
@@ -1746,7 +1749,7 @@
       {
         "position": 42,
         "accumulated_points": 38,
-        "finish_time": 50568,
+        "time": 50568,
         "checkpoints": [
           5501,
           10393,
@@ -1764,7 +1767,7 @@
       {
         "position": 48,
         "accumulated_points": 550,
-        "finish_time": 51070,
+        "time": 51070,
         "checkpoints": [
           5498,
           10437,
@@ -1782,7 +1785,7 @@
       {
         "position": 49,
         "accumulated_points": 640,
-        "finish_time": 50667,
+        "time": 50667,
         "checkpoints": [
           5514,
           10508,
@@ -1800,7 +1803,7 @@
       {
         "position": 49,
         "accumulated_points": 730,
-        "finish_time": 51115,
+        "time": 51115,
         "checkpoints": [
           5448,
           10395,
@@ -1818,7 +1821,7 @@
       {
         "position": 48,
         "accumulated_points": 820,
-        "finish_time": 50934,
+        "time": 50934,
         "checkpoints": [
           5484,
           10492,
@@ -1836,7 +1839,7 @@
       {
         "position": 62,
         "accumulated_points": 910,
-        "finish_time": 55780,
+        "time": 55780,
         "checkpoints": [
           5496,
           10465,
@@ -1860,7 +1863,7 @@
       {
         "position": 69,
         "accumulated_points": 530,
-        "finish_time": 57556,
+        "time": 57556,
         "checkpoints": [
           5536,
           10488,
@@ -1878,7 +1881,7 @@
       {
         "position": 70,
         "accumulated_points": 620,
-        "finish_time": 51700,
+        "time": 51700,
         "checkpoints": [
           5536,
           10507,
@@ -1896,7 +1899,7 @@
       {
         "position": 72,
         "accumulated_points": 710,
-        "finish_time": 51310,
+        "time": 51310,
         "checkpoints": [
           5568,
           10568,
@@ -1914,13 +1917,13 @@
       {
         "position": 79,
         "accumulated_points": 800,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       },
       {
         "position": 66,
         "accumulated_points": 910,
-        "finish_time": 58708,
+        "time": 58708,
         "checkpoints": [
           5891,
           10947,
@@ -1944,13 +1947,13 @@
       {
         "position": 75,
         "accumulated_points": 530,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       },
       {
         "position": 61,
         "accumulated_points": 640,
-        "finish_time": 56336,
+        "time": 56336,
         "checkpoints": [
           5481,
           10532,
@@ -1968,7 +1971,7 @@
       {
         "position": 59,
         "accumulated_points": 730,
-        "finish_time": 56640,
+        "time": 56640,
         "checkpoints": [
           5548,
           14503,
@@ -1986,7 +1989,7 @@
       {
         "position": 58,
         "accumulated_points": 820,
-        "finish_time": 60986,
+        "time": 60986,
         "checkpoints": [
           5788,
           10875,
@@ -2004,7 +2007,7 @@
       {
         "position": 53,
         "accumulated_points": 910,
-        "finish_time": 53121,
+        "time": 53121,
         "checkpoints": [
           5655,
           10778,
@@ -2028,7 +2031,7 @@
       {
         "position": 44,
         "accumulated_points": 29,
-        "finish_time": 50760,
+        "time": 50760,
         "checkpoints": [
           5446,
           10443,
@@ -2046,7 +2049,7 @@
       {
         "position": 41,
         "accumulated_points": 557,
-        "finish_time": 50744,
+        "time": 50744,
         "checkpoints": [
           5574,
           10617,
@@ -2064,7 +2067,7 @@
       {
         "position": 42,
         "accumulated_points": 647,
-        "finish_time": 50641,
+        "time": 50641,
         "checkpoints": [
           5496,
           10382,
@@ -2082,7 +2085,7 @@
       {
         "position": 43,
         "accumulated_points": 733,
-        "finish_time": 50640,
+        "time": 50640,
         "checkpoints": [
           5456,
           10402,
@@ -2100,7 +2103,7 @@
       {
         "position": 46,
         "accumulated_points": 820,
-        "finish_time": 50918,
+        "time": 50918,
         "checkpoints": [
           5561,
           10577,
@@ -2118,7 +2121,7 @@
       {
         "position": 43,
         "accumulated_points": 910,
-        "finish_time": 51603,
+        "time": 51603,
         "checkpoints": [
           5531,
           10492,
@@ -2142,7 +2145,7 @@
       {
         "position": 74,
         "accumulated_points": 530,
-        "finish_time": 52851,
+        "time": 52851,
         "checkpoints": [
           5862,
           10960,
@@ -2160,13 +2163,13 @@
       {
         "position": 77,
         "accumulated_points": 620,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       },
       {
         "position": 64,
         "accumulated_points": 730,
-        "finish_time": 55668,
+        "time": 55668,
         "checkpoints": [
           5581,
           10473,
@@ -2184,7 +2187,7 @@
       {
         "position": 67,
         "accumulated_points": 820,
-        "finish_time": 60108,
+        "time": 60108,
         "checkpoints": [
           5694,
           10703,
@@ -2202,7 +2205,7 @@
       {
         "position": 71,
         "accumulated_points": 910,
-        "finish_time": 62923,
+        "time": 62923,
         "checkpoints": [
           9198,
           14375,
@@ -2226,7 +2229,7 @@
       {
         "position": 33,
         "accumulated_points": 46,
-        "finish_time": 50070,
+        "time": 50070,
         "checkpoints": [
           5478,
           10423,
@@ -2244,7 +2247,7 @@
       {
         "position": 33,
         "accumulated_points": 125,
-        "finish_time": 50074,
+        "time": 50074,
         "checkpoints": [
           5461,
           10398,
@@ -2262,7 +2265,7 @@
       {
         "position": 35,
         "accumulated_points": 582,
-        "finish_time": 56562,
+        "time": 56562,
         "checkpoints": [
           5474,
           16595,
@@ -2280,7 +2283,7 @@
       {
         "position": 34,
         "accumulated_points": 672,
-        "finish_time": 50343,
+        "time": 50343,
         "checkpoints": [
           5494,
           10413,
@@ -2298,7 +2301,7 @@
       {
         "position": 34,
         "accumulated_points": 752,
-        "finish_time": 50170,
+        "time": 50170,
         "checkpoints": [
           5484,
           10403,
@@ -2316,7 +2319,7 @@
       {
         "position": 35,
         "accumulated_points": 832,
-        "finish_time": 50064,
+        "time": 50064,
         "checkpoints": [
           5471,
           10407,
@@ -2334,7 +2337,7 @@
       {
         "position": 52,
         "accumulated_points": 910,
-        "finish_time": 52796,
+        "time": 52796,
         "checkpoints": [
           5725,
           11088,
@@ -2358,7 +2361,7 @@
       {
         "position": 38,
         "accumulated_points": 59,
-        "finish_time": 50508,
+        "time": 50508,
         "checkpoints": [
           5558,
           10437,
@@ -2376,7 +2379,7 @@
       {
         "position": 46,
         "accumulated_points": 552,
-        "finish_time": 51686,
+        "time": 51686,
         "checkpoints": [
           5518,
           10460,
@@ -2394,7 +2397,7 @@
       {
         "position": 47,
         "accumulated_points": 642,
-        "finish_time": 60091,
+        "time": 60091,
         "checkpoints": [
           5511,
           10490,
@@ -2412,7 +2415,7 @@
       {
         "position": 45,
         "accumulated_points": 732,
-        "finish_time": 50733,
+        "time": 50733,
         "checkpoints": [
           5508,
           10423,
@@ -2430,7 +2433,7 @@
       {
         "position": 42,
         "accumulated_points": 822,
-        "finish_time": 50683,
+        "time": 50683,
         "checkpoints": [
           5518,
           10477,
@@ -2448,7 +2451,7 @@
       {
         "position": 57,
         "accumulated_points": 910,
-        "finish_time": 53983,
+        "time": 53983,
         "checkpoints": [
           5531,
           10422,
@@ -2472,7 +2475,7 @@
       {
         "position": 56,
         "accumulated_points": 550,
-        "finish_time": 51574,
+        "time": 51574,
         "checkpoints": [
           5584,
           10598,
@@ -2490,7 +2493,7 @@
       {
         "position": 60,
         "accumulated_points": 640,
-        "finish_time": 59460,
+        "time": 59460,
         "checkpoints": [
           5571,
           10610,
@@ -2508,7 +2511,7 @@
       {
         "position": 55,
         "accumulated_points": 730,
-        "finish_time": 51973,
+        "time": 51973,
         "checkpoints": [
           5536,
           10588,
@@ -2526,7 +2529,7 @@
       {
         "position": 59,
         "accumulated_points": 820,
-        "finish_time": 57117,
+        "time": 57117,
         "checkpoints": [
           5684,
           15288,
@@ -2544,7 +2547,7 @@
       {
         "position": 54,
         "accumulated_points": 910,
-        "finish_time": 53528,
+        "time": 53528,
         "checkpoints": [
           6402,
           11515,
@@ -2568,7 +2571,7 @@
       {
         "position": 66,
         "accumulated_points": 531,
-        "finish_time": 50694,
+        "time": 50694,
         "checkpoints": [
           5528,
           10488,
@@ -2586,7 +2589,7 @@
       {
         "position": 72,
         "accumulated_points": 620,
-        "finish_time": 52467,
+        "time": 52467,
         "checkpoints": [
           5544,
           10582,
@@ -2604,13 +2607,13 @@
       {
         "position": 73,
         "accumulated_points": 710,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       },
       {
         "position": 55,
         "accumulated_points": 820,
-        "finish_time": 56993,
+        "time": 56993,
         "checkpoints": [
           5656,
           10725,
@@ -2628,7 +2631,7 @@
       {
         "position": 50,
         "accumulated_points": 910,
-        "finish_time": 52171,
+        "time": 52171,
         "checkpoints": [
           5624,
           10677,
@@ -2652,7 +2655,7 @@
       {
         "position": 48,
         "accumulated_points": 17,
-        "finish_time": 50703,
+        "time": 50703,
         "checkpoints": [
           5524,
           10473,
@@ -2670,7 +2673,7 @@
       {
         "position": 45,
         "accumulated_points": 552,
-        "finish_time": 51121,
+        "time": 51121,
         "checkpoints": [
           5634,
           10707,
@@ -2688,7 +2691,7 @@
       {
         "position": 46,
         "accumulated_points": 642,
-        "finish_time": 51458,
+        "time": 51458,
         "checkpoints": [
           5826,
           10850,
@@ -2706,7 +2709,7 @@
       {
         "position": 44,
         "accumulated_points": 732,
-        "finish_time": 50667,
+        "time": 50667,
         "checkpoints": [
           5548,
           10492,
@@ -2724,7 +2727,7 @@
       {
         "position": 49,
         "accumulated_points": 820,
-        "finish_time": 51161,
+        "time": 51161,
         "checkpoints": [
           5518,
           10503,
@@ -2742,7 +2745,7 @@
       {
         "position": 41,
         "accumulated_points": 910,
-        "finish_time": 51451,
+        "time": 51451,
         "checkpoints": [
           5576,
           10552,
@@ -2766,7 +2769,7 @@
       {
         "position": 30,
         "accumulated_points": 5,
-        "finish_time": 50488,
+        "time": 50488,
         "checkpoints": [
           5498,
           10383,
@@ -2784,7 +2787,7 @@
       {
         "position": 29,
         "accumulated_points": 90,
-        "finish_time": 56310,
+        "time": 56310,
         "checkpoints": [
           5513,
           10388,
@@ -2802,7 +2805,7 @@
       {
         "position": 27,
         "accumulated_points": 180,
-        "finish_time": 53246,
+        "time": 53246,
         "checkpoints": [
           5488,
           10385,
@@ -2820,7 +2823,7 @@
       {
         "position": 27,
         "accumulated_points": 618,
-        "finish_time": 49738,
+        "time": 49738,
         "checkpoints": [
           5481,
           10360,
@@ -2838,7 +2841,7 @@
       {
         "position": 27,
         "accumulated_points": 690,
-        "finish_time": 49773,
+        "time": 49773,
         "checkpoints": [
           5561,
           10472,
@@ -2856,7 +2859,7 @@
       {
         "position": 30,
         "accumulated_points": 756,
-        "finish_time": 50148,
+        "time": 50148,
         "checkpoints": [
           5501,
           10438,
@@ -2874,7 +2877,7 @@
       {
         "position": 32,
         "accumulated_points": 835,
-        "finish_time": 50006,
+        "time": 50006,
         "checkpoints": [
           5478,
           10373,
@@ -2892,7 +2895,7 @@
       {
         "position": 60,
         "accumulated_points": 910,
-        "finish_time": 55543,
+        "time": 55543,
         "checkpoints": [
           5524,
           10435,
@@ -2916,7 +2919,7 @@
       {
         "position": 71,
         "accumulated_points": 530,
-        "finish_time": 52850,
+        "time": 52850,
         "checkpoints": [
           5470,
           10930,
@@ -2934,13 +2937,13 @@
       {
         "position": 73,
         "accumulated_points": 620,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       },
       {
         "position": 58,
         "accumulated_points": 730,
-        "finish_time": 52360,
+        "time": 52360,
         "checkpoints": [
           5500,
           10500,
@@ -2958,7 +2961,7 @@
       {
         "position": 62,
         "accumulated_points": 820,
-        "finish_time": 56810,
+        "time": 56810,
         "checkpoints": [
           5550,
           14500,
@@ -2976,7 +2979,7 @@
       {
         "position": 56,
         "accumulated_points": 910,
-        "finish_time": 53880,
+        "time": 53880,
         "checkpoints": [
           5610,
           10620,
@@ -3000,7 +3003,7 @@
       {
         "position": 51,
         "accumulated_points": 10,
-        "finish_time": 52038,
+        "time": 52038,
         "checkpoints": [
           5801,
           10858,
@@ -3018,7 +3021,7 @@
       {
         "position": 58,
         "accumulated_points": 550,
-        "finish_time": 55497,
+        "time": 55497,
         "checkpoints": [
           5496,
           14271,
@@ -3036,7 +3039,7 @@
       {
         "position": 58,
         "accumulated_points": 640,
-        "finish_time": 51947,
+        "time": 51947,
         "checkpoints": [
           5534,
           10515,
@@ -3054,7 +3057,7 @@
       {
         "position": 57,
         "accumulated_points": 730,
-        "finish_time": 58830,
+        "time": 58830,
         "checkpoints": [
           5582,
           10542,
@@ -3072,7 +3075,7 @@
       {
         "position": 57,
         "accumulated_points": 820,
-        "finish_time": 55498,
+        "time": 55498,
         "checkpoints": [
           5955,
           11028,
@@ -3090,7 +3093,7 @@
       {
         "position": 51,
         "accumulated_points": 910,
-        "finish_time": 52330,
+        "time": 52330,
         "checkpoints": [
           5642,
           10768,
@@ -3114,7 +3117,7 @@
       {
         "position": 52,
         "accumulated_points": 10,
-        "finish_time": 52551,
+        "time": 52551,
         "checkpoints": [
           5491,
           10658,
@@ -3132,7 +3135,7 @@
       {
         "position": 50,
         "accumulated_points": 550,
-        "finish_time": 51184,
+        "time": 51184,
         "checkpoints": [
           5498,
           10465,
@@ -3150,7 +3153,7 @@
       {
         "position": 52,
         "accumulated_points": 640,
-        "finish_time": 51481,
+        "time": 51481,
         "checkpoints": [
           5516,
           10532,
@@ -3168,7 +3171,7 @@
       {
         "position": 50,
         "accumulated_points": 730,
-        "finish_time": 53188,
+        "time": 53188,
         "checkpoints": [
           5478,
           11121,
@@ -3186,7 +3189,7 @@
       {
         "position": 50,
         "accumulated_points": 820,
-        "finish_time": 51216,
+        "time": 51216,
         "checkpoints": [
           5476,
           10483,
@@ -3204,7 +3207,7 @@
       {
         "position": 45,
         "accumulated_points": 910,
-        "finish_time": 51716,
+        "time": 51716,
         "checkpoints": [
           5494,
           10545,
@@ -3228,7 +3231,7 @@
       {
         "position": 28,
         "accumulated_points": 26,
-        "finish_time": 49856,
+        "time": 49856,
         "checkpoints": [
           5496,
           10427,
@@ -3246,7 +3249,7 @@
       {
         "position": 28,
         "accumulated_points": 100,
-        "finish_time": 50038,
+        "time": 50038,
         "checkpoints": [
           5466,
           10428,
@@ -3264,7 +3267,7 @@
       {
         "position": 29,
         "accumulated_points": 175,
-        "finish_time": 50100,
+        "time": 50100,
         "checkpoints": [
           5524,
           10462,
@@ -3282,7 +3285,7 @@
       {
         "position": 32,
         "accumulated_points": 594,
-        "finish_time": 63831,
+        "time": 63831,
         "checkpoints": [
           5508,
           10455,
@@ -3300,7 +3303,7 @@
       {
         "position": 29,
         "accumulated_points": 684,
-        "finish_time": 54946,
+        "time": 54946,
         "checkpoints": [
           5478,
           10477,
@@ -3318,7 +3321,7 @@
       {
         "position": 27,
         "accumulated_points": 774,
-        "finish_time": 49857,
+        "time": 49857,
         "checkpoints": [
           5528,
           10462,
@@ -3336,7 +3339,7 @@
       {
         "position": 29,
         "accumulated_points": 842,
-        "finish_time": 49840,
+        "time": 49840,
         "checkpoints": [
           5521,
           10522,
@@ -3354,7 +3357,7 @@
       {
         "position": 63,
         "accumulated_points": 910,
-        "finish_time": 56021,
+        "time": 56021,
         "checkpoints": [
           5501,
           10390,
@@ -3378,7 +3381,7 @@
       {
         "position": 53,
         "accumulated_points": 550,
-        "finish_time": 51313,
+        "time": 51313,
         "checkpoints": [
           5578,
           10577,
@@ -3396,7 +3399,7 @@
       {
         "position": 55,
         "accumulated_points": 640,
-        "finish_time": 57536,
+        "time": 57536,
         "checkpoints": [
           5586,
           10610,
@@ -3414,7 +3417,7 @@
       {
         "position": 53,
         "accumulated_points": 730,
-        "finish_time": 51480,
+        "time": 51480,
         "checkpoints": [
           5601,
           10590,
@@ -3432,7 +3435,7 @@
       {
         "position": 53,
         "accumulated_points": 820,
-        "finish_time": 51568,
+        "time": 51568,
         "checkpoints": [
           5624,
           10675,
@@ -3450,7 +3453,7 @@
       {
         "position": 44,
         "accumulated_points": 910,
-        "finish_time": 51658,
+        "time": 51658,
         "checkpoints": [
           5584,
           10645,
@@ -3474,7 +3477,7 @@
       {
         "position": 41,
         "accumulated_points": 40,
-        "finish_time": 54783,
+        "time": 54783,
         "checkpoints": [
           5514,
           10480,
@@ -3492,7 +3495,7 @@
       {
         "position": 52,
         "accumulated_points": 550,
-        "finish_time": 51286,
+        "time": 51286,
         "checkpoints": [
           5481,
           10485,
@@ -3510,7 +3513,7 @@
       {
         "position": 56,
         "accumulated_points": 640,
-        "finish_time": 51530,
+        "time": 51530,
         "checkpoints": [
           5466,
           10525,
@@ -3528,7 +3531,7 @@
       {
         "position": 61,
         "accumulated_points": 730,
-        "finish_time": 55827,
+        "time": 55827,
         "checkpoints": [
           5486,
           10473,
@@ -3546,7 +3549,7 @@
       {
         "position": 60,
         "accumulated_points": 820,
-        "finish_time": 53593,
+        "time": 53593,
         "checkpoints": [
           5568,
           10487,
@@ -3564,7 +3567,7 @@
       {
         "position": 67,
         "accumulated_points": 910,
-        "finish_time": 59341,
+        "time": 59341,
         "checkpoints": [
           5508,
           10498,
@@ -3588,13 +3591,13 @@
       {
         "position": 68,
         "accumulated_points": 530,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       },
       {
         "position": 51,
         "accumulated_points": 640,
-        "finish_time": 59938,
+        "time": 59938,
         "checkpoints": [
           5481,
           14260,
@@ -3612,7 +3615,7 @@
       {
         "position": 48,
         "accumulated_points": 730,
-        "finish_time": 50857,
+        "time": 50857,
         "checkpoints": [
           5491,
           10468,
@@ -3630,7 +3633,7 @@
       {
         "position": 64,
         "accumulated_points": 820,
-        "finish_time": 54986,
+        "time": 54986,
         "checkpoints": [
           5561,
           10477,
@@ -3648,7 +3651,7 @@
       {
         "position": 61,
         "accumulated_points": 910,
-        "finish_time": 55656,
+        "time": 55656,
         "checkpoints": [
           5508,
           10535,
@@ -3672,7 +3675,7 @@
       {
         "position": 46,
         "accumulated_points": 18,
-        "finish_time": 55663,
+        "time": 55663,
         "checkpoints": [
           5578,
           10682,
@@ -3690,7 +3693,7 @@
       {
         "position": 54,
         "accumulated_points": 550,
-        "finish_time": 51320,
+        "time": 51320,
         "checkpoints": [
           5516,
           10610,
@@ -3708,7 +3711,7 @@
       {
         "position": 57,
         "accumulated_points": 640,
-        "finish_time": 57468,
+        "time": 57468,
         "checkpoints": [
           5484,
           10607,
@@ -3726,7 +3729,7 @@
       {
         "position": 54,
         "accumulated_points": 730,
-        "finish_time": 51701,
+        "time": 51701,
         "checkpoints": [
           5518,
           10608,
@@ -3744,7 +3747,7 @@
       {
         "position": 54,
         "accumulated_points": 820,
-        "finish_time": 51778,
+        "time": 51778,
         "checkpoints": [
           5501,
           10602,
@@ -3762,7 +3765,7 @@
       {
         "position": 49,
         "accumulated_points": 910,
-        "finish_time": 52031,
+        "time": 52031,
         "checkpoints": [
           5494,
           10592,
@@ -3786,7 +3789,7 @@
       {
         "position": 59,
         "accumulated_points": 550,
-        "finish_time": 62216,
+        "time": 62216,
         "checkpoints": [
           5568,
           10552,
@@ -3804,7 +3807,7 @@
       {
         "position": 63,
         "accumulated_points": 640,
-        "finish_time": 63622,
+        "time": 63622,
         "checkpoints": [
           5576,
           10605,
@@ -3822,7 +3825,7 @@
       {
         "position": 62,
         "accumulated_points": 730,
-        "finish_time": 56702,
+        "time": 56702,
         "checkpoints": [
           5598,
           10562,
@@ -3840,7 +3843,7 @@
       {
         "position": 61,
         "accumulated_points": 820,
-        "finish_time": 60287,
+        "time": 60287,
         "checkpoints": [
           5556,
           10823,
@@ -3858,7 +3861,7 @@
       {
         "position": 55,
         "accumulated_points": 910,
-        "finish_time": 53761,
+        "time": 53761,
         "checkpoints": [
           5581,
           10498,
@@ -3882,7 +3885,7 @@
       {
         "position": 57,
         "accumulated_points": 550,
-        "finish_time": 51748,
+        "time": 51748,
         "checkpoints": [
           5518,
           10458,
@@ -3900,7 +3903,7 @@
       {
         "position": 59,
         "accumulated_points": 640,
-        "finish_time": 51957,
+        "time": 51957,
         "checkpoints": [
           5514,
           10432,
@@ -3918,7 +3921,7 @@
       {
         "position": 56,
         "accumulated_points": 730,
-        "finish_time": 57088,
+        "time": 57088,
         "checkpoints": [
           5521,
           10440,
@@ -3936,7 +3939,7 @@
       {
         "position": 56,
         "accumulated_points": 820,
-        "finish_time": 52208,
+        "time": 52208,
         "checkpoints": [
           5476,
           10447,
@@ -3954,7 +3957,7 @@
       {
         "position": 64,
         "accumulated_points": 910,
-        "finish_time": 56074,
+        "time": 56074,
         "checkpoints": [
           9361,
           14350,
@@ -3978,7 +3981,7 @@
       {
         "position": 54,
         "accumulated_points": 9,
-        "finish_time": 51006,
+        "time": 51006,
         "checkpoints": [
           5501,
           10425,
@@ -3996,7 +3999,7 @@
       {
         "position": 63,
         "accumulated_points": 534,
-        "finish_time": 50546,
+        "time": 50546,
         "checkpoints": [
           5536,
           10463,
@@ -4014,7 +4017,7 @@
       {
         "position": 68,
         "accumulated_points": 620,
-        "finish_time": 50863,
+        "time": 50863,
         "checkpoints": [
           5511,
           10440,
@@ -4032,13 +4035,13 @@
       {
         "position": 70,
         "accumulated_points": 710,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       },
       {
         "position": 47,
         "accumulated_points": 820,
-        "finish_time": 50933,
+        "time": 50933,
         "checkpoints": [
           5534,
           10497,
@@ -4056,7 +4059,7 @@
       {
         "position": 46,
         "accumulated_points": 910,
-        "finish_time": 51751,
+        "time": 51751,
         "checkpoints": [
           5536,
           10462,
@@ -4080,7 +4083,7 @@
       {
         "position": 78,
         "accumulated_points": 510,
-        "finish_time": 51858,
+        "time": 51858,
         "checkpoints": [
           5621,
           10625,
@@ -4098,7 +4101,7 @@
       {
         "position": 84,
         "accumulated_points": 600,
-        "finish_time": 63437,
+        "time": 63437,
         "checkpoints": [
           5641,
           10748,
@@ -4116,19 +4119,19 @@
       {
         "position": 85,
         "accumulated_points": 690,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       },
       {
         "position": 81,
         "accumulated_points": 800,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       },
       {
         "position": 69,
         "accumulated_points": 910,
-        "finish_time": 60320,
+        "time": 60320,
         "checkpoints": [
           6465,
           18322,
@@ -4152,7 +4155,7 @@
       {
         "position": 38,
         "accumulated_points": 569,
-        "finish_time": 50403,
+        "time": 50403,
         "checkpoints": [
           5518,
           10432,
@@ -4170,7 +4173,7 @@
       {
         "position": 39,
         "accumulated_points": 653,
-        "finish_time": 50213,
+        "time": 50213,
         "checkpoints": [
           5461,
           10408,
@@ -4188,7 +4191,7 @@
       {
         "position": 63,
         "accumulated_points": 730,
-        "finish_time": 55786,
+        "time": 55786,
         "checkpoints": [
           5464,
           10457,
@@ -4206,7 +4209,7 @@
       {
         "position": 66,
         "accumulated_points": 820,
-        "finish_time": 55478,
+        "time": 55478,
         "checkpoints": [
           5516,
           10440,
@@ -4224,7 +4227,7 @@
       {
         "position": 65,
         "accumulated_points": 910,
-        "finish_time": 56240,
+        "time": 56240,
         "checkpoints": [
           6838,
           11737,
@@ -4248,7 +4251,7 @@
       {
         "position": 82,
         "accumulated_points": 510,
-        "finish_time": 53716,
+        "time": 53716,
         "checkpoints": [
           5606,
           10623,
@@ -4266,13 +4269,13 @@
       {
         "position": 82,
         "accumulated_points": 600,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       },
       {
         "position": 76,
         "accumulated_points": 710,
-        "finish_time": 55318,
+        "time": 55318,
         "checkpoints": [
           6102,
           11695,
@@ -4290,13 +4293,13 @@
       {
         "position": 82,
         "accumulated_points": 800,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       },
       {
         "position": 70,
         "accumulated_points": 910,
-        "finish_time": 61424,
+        "time": 61424,
         "checkpoints": [
           5718,
           10733,
@@ -4320,7 +4323,7 @@
       {
         "position": 24,
         "accumulated_points": 6,
-        "finish_time": 51087,
+        "time": 51087,
         "checkpoints": [
           5544,
           10614,
@@ -4338,7 +4341,7 @@
       {
         "position": 23,
         "accumulated_points": 84,
-        "finish_time": 49721,
+        "time": 49721,
         "checkpoints": [
           5506,
           10420,
@@ -4356,7 +4359,7 @@
       {
         "position": 23,
         "accumulated_points": 150,
-        "finish_time": 49721,
+        "time": 49721,
         "checkpoints": [
           5538,
           10438,
@@ -4374,7 +4377,7 @@
       {
         "position": 24,
         "accumulated_points": 212,
-        "finish_time": 49910,
+        "time": 49910,
         "checkpoints": [
           5528,
           10455,
@@ -4392,13 +4395,13 @@
       {
         "position": 36,
         "accumulated_points": 576,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       },
       {
         "position": 28,
         "accumulated_points": 686,
-        "finish_time": 49741,
+        "time": 49741,
         "checkpoints": [
           5516,
           10435,
@@ -4416,7 +4419,7 @@
       {
         "position": 36,
         "accumulated_points": 748,
-        "finish_time": 54938,
+        "time": 54938,
         "checkpoints": [
           10458,
           15373,
@@ -4434,7 +4437,7 @@
       {
         "position": 30,
         "accumulated_points": 838,
-        "finish_time": 49956,
+        "time": 49956,
         "checkpoints": [
           5511,
           10458,
@@ -4452,7 +4455,7 @@
       {
         "position": 59,
         "accumulated_points": 910,
-        "finish_time": 54614,
+        "time": 54614,
         "checkpoints": [
           5506,
           10433,
@@ -4476,25 +4479,25 @@
       {
         "position": 85,
         "accumulated_points": 490,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       },
       {
         "position": 83,
         "accumulated_points": 600,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       },
       {
         "position": 77,
         "accumulated_points": 710,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       },
       {
         "position": 65,
         "accumulated_points": 820,
-        "finish_time": 55334,
+        "time": 55334,
         "checkpoints": [
           5558,
           10548,
@@ -4512,7 +4515,7 @@
       {
         "position": 68,
         "accumulated_points": 910,
-        "finish_time": 60108,
+        "time": 60108,
         "checkpoints": [
           5511,
           10520,
@@ -4536,13 +4539,13 @@
       {
         "position": 76,
         "accumulated_points": 530,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       },
       {
         "position": 62,
         "accumulated_points": 640,
-        "finish_time": 55138,
+        "time": 55138,
         "checkpoints": [
           10024,
           14993,
@@ -4560,7 +4563,7 @@
       {
         "position": 60,
         "accumulated_points": 730,
-        "finish_time": 53443,
+        "time": 53443,
         "checkpoints": [
           5496,
           10447,
@@ -4578,7 +4581,7 @@
       {
         "position": 63,
         "accumulated_points": 820,
-        "finish_time": 54768,
+        "time": 54768,
         "checkpoints": [
           5516,
           10467,
@@ -4596,7 +4599,7 @@
       {
         "position": 58,
         "accumulated_points": 910,
-        "finish_time": 53996,
+        "time": 53996,
         "checkpoints": [
           5504,
           10488,
@@ -4620,7 +4623,7 @@
       {
         "position": 53,
         "accumulated_points": 10,
-        "finish_time": 56821,
+        "time": 56821,
         "checkpoints": [
           10758,
           15780,
@@ -4638,7 +4641,7 @@
       {
         "position": 55,
         "accumulated_points": 550,
-        "finish_time": 51494,
+        "time": 51494,
         "checkpoints": [
           5581,
           10575,
@@ -4656,7 +4659,7 @@
       {
         "position": 54,
         "accumulated_points": 640,
-        "finish_time": 52423,
+        "time": 52423,
         "checkpoints": [
           5584,
           10608,
@@ -4674,7 +4677,7 @@
       {
         "position": 51,
         "accumulated_points": 730,
-        "finish_time": 52126,
+        "time": 52126,
         "checkpoints": [
           5548,
           10487,
@@ -4692,7 +4695,7 @@
       {
         "position": 51,
         "accumulated_points": 820,
-        "finish_time": 51424,
+        "time": 51424,
         "checkpoints": [
           5574,
           10567,
@@ -4710,7 +4713,7 @@
       {
         "position": 47,
         "accumulated_points": 910,
-        "finish_time": 51847,
+        "time": 51847,
         "checkpoints": [
           5601,
           10640,
@@ -4734,7 +4737,7 @@
       {
         "position": 50,
         "accumulated_points": 10,
-        "finish_time": 50770,
+        "time": 50770,
         "checkpoints": [
           5498,
           10462,
@@ -4752,7 +4755,7 @@
       {
         "position": 49,
         "accumulated_points": 550,
-        "finish_time": 50990,
+        "time": 50990,
         "checkpoints": [
           5538,
           10497,
@@ -4770,7 +4773,7 @@
       {
         "position": 50,
         "accumulated_points": 640,
-        "finish_time": 50956,
+        "time": 50956,
         "checkpoints": [
           5551,
           10483,
@@ -4788,7 +4791,7 @@
       {
         "position": 47,
         "accumulated_points": 730,
-        "finish_time": 53923,
+        "time": 53923,
         "checkpoints": [
           5548,
           10533,
@@ -4806,7 +4809,7 @@
       {
         "position": 45,
         "accumulated_points": 820,
-        "finish_time": 50840,
+        "time": 50840,
         "checkpoints": [
           5504,
           10527,
@@ -4824,7 +4827,7 @@
       {
         "position": 40,
         "accumulated_points": 910,
-        "finish_time": 51320,
+        "time": 51320,
         "checkpoints": [
           5531,
           10490,
@@ -4848,13 +4851,13 @@
       {
         "position": 67,
         "accumulated_points": 531,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       },
       {
         "position": 48,
         "accumulated_points": 641,
-        "finish_time": 57390,
+        "time": 57390,
         "checkpoints": [
           5556,
           10463,
@@ -4872,7 +4875,7 @@
       {
         "position": 46,
         "accumulated_points": 731,
-        "finish_time": 51285,
+        "time": 51285,
         "checkpoints": [
           5494,
           10422,
@@ -4890,7 +4893,7 @@
       {
         "position": 44,
         "accumulated_points": 821,
-        "finish_time": 55081,
+        "time": 55081,
         "checkpoints": [
           5551,
           14690,
@@ -4908,7 +4911,7 @@
       {
         "position": 39,
         "accumulated_points": 911,
-        "finish_time": 51293,
+        "time": 51293,
         "checkpoints": [
           5581,
           10525,
@@ -4932,7 +4935,7 @@
       {
         "position": 45,
         "accumulated_points": 27,
-        "finish_time": 50366,
+        "time": 50366,
         "checkpoints": [
           5494,
           10465,
@@ -4950,7 +4953,7 @@
       {
         "position": 40,
         "accumulated_points": 560,
-        "finish_time": 50937,
+        "time": 50937,
         "checkpoints": [
           5461,
           10463,
@@ -4968,7 +4971,7 @@
       {
         "position": 40,
         "accumulated_points": 650,
-        "finish_time": 50690,
+        "time": 50690,
         "checkpoints": [
           5448,
           10465,
@@ -4986,7 +4989,7 @@
       {
         "position": 40,
         "accumulated_points": 740,
-        "finish_time": 50241,
+        "time": 50241,
         "checkpoints": [
           5474,
           10430,
@@ -5004,7 +5007,7 @@
       {
         "position": 43,
         "accumulated_points": 822,
-        "finish_time": 51041,
+        "time": 51041,
         "checkpoints": [
           5546,
           10552,
@@ -5022,7 +5025,7 @@
       {
         "position": 38,
         "accumulated_points": 912,
-        "finish_time": 51213,
+        "time": 51213,
         "checkpoints": [
           5464,
           10455,
@@ -5046,7 +5049,7 @@
       {
         "position": 55,
         "accumulated_points": 8,
-        "finish_time": 51371,
+        "time": 51371,
         "checkpoints": [
           5494,
           10512,
@@ -5064,7 +5067,7 @@
       {
         "position": 65,
         "accumulated_points": 533,
-        "finish_time": 50954,
+        "time": 50954,
         "checkpoints": [
           5514,
           10497,
@@ -5082,7 +5085,7 @@
       {
         "position": 67,
         "accumulated_points": 623,
-        "finish_time": 50754,
+        "time": 50754,
         "checkpoints": [
           5494,
           10435,
@@ -5100,7 +5103,7 @@
       {
         "position": 68,
         "accumulated_points": 713,
-        "finish_time": 58481,
+        "time": 58481,
         "checkpoints": [
           5466,
           10408,
@@ -5118,13 +5121,13 @@
       {
         "position": 71,
         "accumulated_points": 803,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       },
       {
         "position": 37,
         "accumulated_points": 913,
-        "finish_time": 51138,
+        "time": 51138,
         "checkpoints": [
           5466,
           10463,
@@ -5148,7 +5151,7 @@
       {
         "position": 40,
         "accumulated_points": 54,
-        "finish_time": 50996,
+        "time": 50996,
         "checkpoints": [
           5568,
           10523,
@@ -5166,7 +5169,7 @@
       {
         "position": 37,
         "accumulated_points": 570,
-        "finish_time": 50432,
+        "time": 50432,
         "checkpoints": [
           5568,
           10518,
@@ -5184,7 +5187,7 @@
       {
         "position": 37,
         "accumulated_points": 655,
-        "finish_time": 50657,
+        "time": 50657,
         "checkpoints": [
           5544,
           10510,
@@ -5202,7 +5205,7 @@
       {
         "position": 38,
         "accumulated_points": 743,
-        "finish_time": 50708,
+        "time": 50708,
         "checkpoints": [
           5554,
           10422,
@@ -5220,7 +5223,7 @@
       {
         "position": 36,
         "accumulated_points": 832,
-        "finish_time": 50286,
+        "time": 50286,
         "checkpoints": [
           5534,
           10533,
@@ -5238,7 +5241,7 @@
       {
         "position": 36,
         "accumulated_points": 914,
-        "finish_time": 50968,
+        "time": 50968,
         "checkpoints": [
           5531,
           10502,
@@ -5262,7 +5265,7 @@
       {
         "position": 49,
         "accumulated_points": 16,
-        "finish_time": 51853,
+        "time": 51853,
         "checkpoints": [
           5501,
           10701,
@@ -5280,7 +5283,7 @@
       {
         "position": 44,
         "accumulated_points": 555,
-        "finish_time": 50786,
+        "time": 50786,
         "checkpoints": [
           5456,
           10460,
@@ -5298,7 +5301,7 @@
       {
         "position": 45,
         "accumulated_points": 645,
-        "finish_time": 54543,
+        "time": 54543,
         "checkpoints": [
           5511,
           10452,
@@ -5316,7 +5319,7 @@
       {
         "position": 42,
         "accumulated_points": 735,
-        "finish_time": 51007,
+        "time": 51007,
         "checkpoints": [
           5466,
           10512,
@@ -5334,7 +5337,7 @@
       {
         "position": 41,
         "accumulated_points": 825,
-        "finish_time": 51218,
+        "time": 51218,
         "checkpoints": [
           5516,
           10485,
@@ -5352,7 +5355,7 @@
       {
         "position": 35,
         "accumulated_points": 915,
-        "finish_time": 50847,
+        "time": 50847,
         "checkpoints": [
           5508,
           10485,
@@ -5376,7 +5379,7 @@
       {
         "position": 43,
         "accumulated_points": 556,
-        "finish_time": 50750,
+        "time": 50750,
         "checkpoints": [
           5566,
           10573,
@@ -5394,7 +5397,7 @@
       {
         "position": 44,
         "accumulated_points": 646,
-        "finish_time": 50968,
+        "time": 50968,
         "checkpoints": [
           5534,
           10550,
@@ -5412,7 +5415,7 @@
       {
         "position": 41,
         "accumulated_points": 736,
-        "finish_time": 50748,
+        "time": 50748,
         "checkpoints": [
           5534,
           10462,
@@ -5430,7 +5433,7 @@
       {
         "position": 40,
         "accumulated_points": 826,
-        "finish_time": 50924,
+        "time": 50924,
         "checkpoints": [
           5564,
           10587,
@@ -5448,7 +5451,7 @@
       {
         "position": 34,
         "accumulated_points": 916,
-        "finish_time": 50820,
+        "time": 50820,
         "checkpoints": [
           5538,
           10563,
@@ -5472,7 +5475,7 @@
       {
         "position": 43,
         "accumulated_points": 33,
-        "finish_time": 50671,
+        "time": 50671,
         "checkpoints": [
           5501,
           10463,
@@ -5490,7 +5493,7 @@
       {
         "position": 61,
         "accumulated_points": 540,
-        "finish_time": 50650,
+        "time": 50650,
         "checkpoints": [
           5511,
           10477,
@@ -5508,7 +5511,7 @@
       {
         "position": 65,
         "accumulated_points": 628,
-        "finish_time": 50663,
+        "time": 50663,
         "checkpoints": [
           5494,
           10435,
@@ -5526,7 +5529,7 @@
       {
         "position": 67,
         "accumulated_points": 717,
-        "finish_time": 51291,
+        "time": 51291,
         "checkpoints": [
           5504,
           10493,
@@ -5544,13 +5547,13 @@
       {
         "position": 70,
         "accumulated_points": 807,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       },
       {
         "position": 33,
         "accumulated_points": 917,
-        "finish_time": 50768,
+        "time": 50768,
         "checkpoints": [
           5521,
           10477,
@@ -5574,7 +5577,7 @@
       {
         "position": 32,
         "accumulated_points": 79,
-        "finish_time": 63066,
+        "time": 63066,
         "checkpoints": [
           5496,
           10368,
@@ -5592,7 +5595,7 @@
       {
         "position": 30,
         "accumulated_points": 169,
-        "finish_time": 49775,
+        "time": 49775,
         "checkpoints": [
           5508,
           10400,
@@ -5610,7 +5613,7 @@
       {
         "position": 25,
         "accumulated_points": 644,
-        "finish_time": 50003,
+        "time": 50003,
         "checkpoints": [
           5518,
           10477,
@@ -5628,7 +5631,7 @@
       {
         "position": 24,
         "accumulated_points": 723,
-        "finish_time": 49717,
+        "time": 49717,
         "checkpoints": [
           5511,
           10420,
@@ -5646,7 +5649,7 @@
       {
         "position": 25,
         "accumulated_points": 783,
-        "finish_time": 50006,
+        "time": 50006,
         "checkpoints": [
           5526,
           10480,
@@ -5664,7 +5667,7 @@
       {
         "position": 22,
         "accumulated_points": 858,
-        "finish_time": 49708,
+        "time": 49708,
         "checkpoints": [
           5488,
           10413,
@@ -5682,7 +5685,7 @@
       {
         "position": 32,
         "accumulated_points": 918,
-        "finish_time": 50626,
+        "time": 50626,
         "checkpoints": [
           5468,
           10417,
@@ -5706,7 +5709,7 @@
       {
         "position": 39,
         "accumulated_points": 58,
-        "finish_time": 50700,
+        "time": 50700,
         "checkpoints": [
           5501,
           10505,
@@ -5724,7 +5727,7 @@
       {
         "position": 39,
         "accumulated_points": 565,
-        "finish_time": 51374,
+        "time": 51374,
         "checkpoints": [
           5501,
           10452,
@@ -5742,7 +5745,7 @@
       {
         "position": 38,
         "accumulated_points": 655,
-        "finish_time": 50641,
+        "time": 50641,
         "checkpoints": [
           5494,
           10438,
@@ -5760,7 +5763,7 @@
       {
         "position": 39,
         "accumulated_points": 742,
-        "finish_time": 51248,
+        "time": 51248,
         "checkpoints": [
           5461,
           10497,
@@ -5778,7 +5781,7 @@
       {
         "position": 37,
         "accumulated_points": 832,
-        "finish_time": 50647,
+        "time": 50647,
         "checkpoints": [
           5538,
           10492,
@@ -5796,7 +5799,7 @@
       {
         "position": 31,
         "accumulated_points": 919,
-        "finish_time": 50584,
+        "time": 50584,
         "checkpoints": [
           5501,
           10463,
@@ -5820,7 +5823,7 @@
       {
         "position": 31,
         "accumulated_points": 81,
-        "finish_time": 49994,
+        "time": 49994,
         "checkpoints": [
           5511,
           10442,
@@ -5838,7 +5841,7 @@
       {
         "position": 31,
         "accumulated_points": 153,
-        "finish_time": 49911,
+        "time": 49911,
         "checkpoints": [
           5528,
           10460,
@@ -5856,7 +5859,7 @@
       {
         "position": 33,
         "accumulated_points": 593,
-        "finish_time": 50200,
+        "time": 50200,
         "checkpoints": [
           5531,
           10500,
@@ -5874,7 +5877,7 @@
       {
         "position": 33,
         "accumulated_points": 675,
-        "finish_time": 50271,
+        "time": 50271,
         "checkpoints": [
           5524,
           10505,
@@ -5892,7 +5895,7 @@
       {
         "position": 33,
         "accumulated_points": 753,
-        "finish_time": 50178,
+        "time": 50178,
         "checkpoints": [
           5476,
           10503,
@@ -5910,7 +5913,7 @@
       {
         "position": 34,
         "accumulated_points": 834,
-        "finish_time": 50417,
+        "time": 50417,
         "checkpoints": [
           5494,
           10447,
@@ -5928,7 +5931,7 @@
       {
         "position": 30,
         "accumulated_points": 920,
-        "finish_time": 50463,
+        "time": 50463,
         "checkpoints": [
           5506,
           10428,
@@ -5952,13 +5955,13 @@
       {
         "position": 47,
         "accumulated_points": 551,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       },
       {
         "position": 36,
         "accumulated_points": 661,
-        "finish_time": 50618,
+        "time": 50618,
         "checkpoints": [
           5564,
           10602,
@@ -5976,7 +5979,7 @@
       {
         "position": 37,
         "accumulated_points": 746,
-        "finish_time": 50887,
+        "time": 50887,
         "checkpoints": [
           5486,
           10447,
@@ -5994,7 +5997,7 @@
       {
         "position": 31,
         "accumulated_points": 836,
-        "finish_time": 50367,
+        "time": 50367,
         "checkpoints": [
           5538,
           10507,
@@ -6012,7 +6015,7 @@
       {
         "position": 29,
         "accumulated_points": 921,
-        "finish_time": 50375,
+        "time": 50375,
         "checkpoints": [
           5506,
           10498,
@@ -6036,7 +6039,7 @@
       {
         "position": 27,
         "accumulated_points": 46,
-        "finish_time": 50106,
+        "time": 50106,
         "checkpoints": [
           5491,
           10437,
@@ -6054,7 +6057,7 @@
       {
         "position": 26,
         "accumulated_points": 124,
-        "finish_time": 50041,
+        "time": 50041,
         "checkpoints": [
           5516,
           10432,
@@ -6072,7 +6075,7 @@
       {
         "position": 25,
         "accumulated_points": 201,
-        "finish_time": 50706,
+        "time": 50706,
         "checkpoints": [
           5564,
           10828,
@@ -6090,7 +6093,7 @@
       {
         "position": 23,
         "accumulated_points": 650,
-        "finish_time": 50027,
+        "time": 50027,
         "checkpoints": [
           5524,
           10453,
@@ -6108,7 +6111,7 @@
       {
         "position": 22,
         "accumulated_points": 730,
-        "finish_time": 49763,
+        "time": 49763,
         "checkpoints": [
           5506,
           10395,
@@ -6126,7 +6129,7 @@
       {
         "position": 21,
         "accumulated_points": 794,
-        "finish_time": 49552,
+        "time": 49552,
         "checkpoints": [
           5488,
           10413,
@@ -6144,7 +6147,7 @@
       {
         "position": 25,
         "accumulated_points": 848,
-        "finish_time": 49997,
+        "time": 49997,
         "checkpoints": [
           5511,
           10443,
@@ -6162,7 +6165,7 @@
       {
         "position": 28,
         "accumulated_points": 922,
-        "finish_time": 50286,
+        "time": 50286,
         "checkpoints": [
           5508,
           10467,
@@ -6186,7 +6189,7 @@
       {
         "position": 20,
         "accumulated_points": 3,
-        "finish_time": 49751,
+        "time": 49751,
         "checkpoints": [
           5496,
           10408,
@@ -6204,7 +6207,7 @@
       {
         "position": 20,
         "accumulated_points": 63,
-        "finish_time": 49487,
+        "time": 49487,
         "checkpoints": [
           5516,
           10447,
@@ -6222,7 +6225,7 @@
       {
         "position": 22,
         "accumulated_points": 113,
-        "finish_time": 49671,
+        "time": 49671,
         "checkpoints": [
           5501,
           10382,
@@ -6240,7 +6243,7 @@
       {
         "position": 22,
         "accumulated_points": 177,
-        "finish_time": 49523,
+        "time": 49523,
         "checkpoints": [
           5473,
           10368,
@@ -6258,7 +6261,7 @@
       {
         "position": 22,
         "accumulated_points": 229,
-        "finish_time": 49487,
+        "time": 49487,
         "checkpoints": [
           5494,
           10397,
@@ -6276,7 +6279,7 @@
       {
         "position": 28,
         "accumulated_points": 617,
-        "finish_time": 49630,
+        "time": 49630,
         "checkpoints": [
           5504,
           10530,
@@ -6294,7 +6297,7 @@
       {
         "position": 30,
         "accumulated_points": 681,
-        "finish_time": 49877,
+        "time": 49877,
         "checkpoints": [
           5498,
           10427,
@@ -6312,7 +6315,7 @@
       {
         "position": 35,
         "accumulated_points": 751,
-        "finish_time": 50356,
+        "time": 50356,
         "checkpoints": [
           5476,
           10445,
@@ -6330,7 +6333,7 @@
       {
         "position": 33,
         "accumulated_points": 834,
-        "finish_time": 50810,
+        "time": 50810,
         "checkpoints": [
           5518,
           10448,
@@ -6348,7 +6351,7 @@
       {
         "position": 27,
         "accumulated_points": 923,
-        "finish_time": 50250,
+        "time": 50250,
         "checkpoints": [
           5524,
           10430,
@@ -6372,7 +6375,7 @@
       {
         "position": 35,
         "accumulated_points": 28,
-        "finish_time": 50396,
+        "time": 50396,
         "checkpoints": [
           5488,
           10380,
@@ -6390,7 +6393,7 @@
       {
         "position": 35,
         "accumulated_points": 109,
-        "finish_time": 50203,
+        "time": 50203,
         "checkpoints": [
           5491,
           10430,
@@ -6408,7 +6411,7 @@
       {
         "position": 30,
         "accumulated_points": 601,
-        "finish_time": 49960,
+        "time": 49960,
         "checkpoints": [
           5516,
           10417,
@@ -6426,7 +6429,7 @@
       {
         "position": 32,
         "accumulated_points": 679,
-        "finish_time": 49938,
+        "time": 49938,
         "checkpoints": [
           5486,
           10375,
@@ -6444,7 +6447,7 @@
       {
         "position": 32,
         "accumulated_points": 754,
-        "finish_time": 56311,
+        "time": 56311,
         "checkpoints": [
           5516,
           10427,
@@ -6462,7 +6465,7 @@
       {
         "position": 28,
         "accumulated_points": 844,
-        "finish_time": 50226,
+        "time": 50226,
         "checkpoints": [
           5488,
           10355,
@@ -6480,7 +6483,7 @@
       {
         "position": 26,
         "accumulated_points": 924,
-        "finish_time": 50247,
+        "time": 50247,
         "checkpoints": [
           5504,
           10373,
@@ -6504,7 +6507,7 @@
       {
         "position": 29,
         "accumulated_points": 19,
-        "finish_time": 49810,
+        "time": 49810,
         "checkpoints": [
           5506,
           10447,
@@ -6522,7 +6525,7 @@
       {
         "position": 30,
         "accumulated_points": 89,
-        "finish_time": 49628,
+        "time": 49628,
         "checkpoints": [
           5543,
           10428,
@@ -6540,7 +6543,7 @@
       {
         "position": 32,
         "accumulated_points": 147,
-        "finish_time": 50198,
+        "time": 50198,
         "checkpoints": [
           5516,
           10385,
@@ -6558,7 +6561,7 @@
       {
         "position": 24,
         "accumulated_points": 649,
-        "finish_time": 49861,
+        "time": 49861,
         "checkpoints": [
           5501,
           10432,
@@ -6576,7 +6579,7 @@
       {
         "position": 23,
         "accumulated_points": 725,
-        "finish_time": 49890,
+        "time": 49890,
         "checkpoints": [
           5488,
           10405,
@@ -6594,7 +6597,7 @@
       {
         "position": 20,
         "accumulated_points": 797,
-        "finish_time": 49736,
+        "time": 49736,
         "checkpoints": [
           5478,
           10388,
@@ -6612,7 +6615,7 @@
       {
         "position": 21,
         "accumulated_points": 859,
-        "finish_time": 49827,
+        "time": 49827,
         "checkpoints": [
           5514,
           10453,
@@ -6630,7 +6633,7 @@
       {
         "position": 25,
         "accumulated_points": 925,
-        "finish_time": 50150,
+        "time": 50150,
         "checkpoints": [
           5476,
           10428,
@@ -6654,7 +6657,7 @@
       {
         "position": 36,
         "accumulated_points": 1,
-        "finish_time": 49964,
+        "time": 49964,
         "checkpoints": [
           5484,
           10430,
@@ -6672,7 +6675,7 @@
       {
         "position": 36,
         "accumulated_points": 69,
-        "finish_time": 52172,
+        "time": 52172,
         "checkpoints": [
           5498,
           10433,
@@ -6690,7 +6693,7 @@
       {
         "position": 31,
         "accumulated_points": 599,
-        "finish_time": 50113,
+        "time": 50113,
         "checkpoints": [
           5524,
           10433,
@@ -6708,7 +6711,7 @@
       {
         "position": 31,
         "accumulated_points": 680,
-        "finish_time": 50402,
+        "time": 50402,
         "checkpoints": [
           5484,
           10445,
@@ -6726,7 +6729,7 @@
       {
         "position": 28,
         "accumulated_points": 761,
-        "finish_time": 50417,
+        "time": 50417,
         "checkpoints": [
           5558,
           10572,
@@ -6744,7 +6747,7 @@
       {
         "position": 26,
         "accumulated_points": 845,
-        "finish_time": 50272,
+        "time": 50272,
         "checkpoints": [
           5511,
           10437,
@@ -6762,7 +6765,7 @@
       {
         "position": 24,
         "accumulated_points": 926,
-        "finish_time": 50068,
+        "time": 50068,
         "checkpoints": [
           5521,
           10498,
@@ -6786,7 +6789,7 @@
       {
         "position": 17,
         "accumulated_points": 138,
-        "finish_time": 49644,
+        "time": 49644,
         "checkpoints": [
           5541,
           10477,
@@ -6804,7 +6807,7 @@
       {
         "position": 17,
         "accumulated_points": 192,
-        "finish_time": 49596,
+        "time": 49596,
         "checkpoints": [
           5511,
           10390,
@@ -6822,7 +6825,7 @@
       {
         "position": 16,
         "accumulated_points": 254,
-        "finish_time": 49647,
+        "time": 49647,
         "checkpoints": [
           5488,
           10383,
@@ -6840,7 +6843,7 @@
       {
         "position": 16,
         "accumulated_points": 316,
-        "finish_time": 49548,
+        "time": 49548,
         "checkpoints": [
           5496,
           10413,
@@ -6858,7 +6861,7 @@
       {
         "position": 17,
         "accumulated_points": 370,
-        "finish_time": 49472,
+        "time": 49472,
         "checkpoints": [
           5528,
           10465,
@@ -6876,7 +6879,7 @@
       {
         "position": 20,
         "accumulated_points": 671,
-        "finish_time": 49927,
+        "time": 49927,
         "checkpoints": [
           5501,
           10373,
@@ -6894,7 +6897,7 @@
       {
         "position": 19,
         "accumulated_points": 748,
-        "finish_time": 49621,
+        "time": 49621,
         "checkpoints": [
           5481,
           10347,
@@ -6912,7 +6915,7 @@
       {
         "position": 18,
         "accumulated_points": 804,
-        "finish_time": 49406,
+        "time": 49406,
         "checkpoints": [
           5496,
           10408,
@@ -6930,7 +6933,7 @@
       {
         "position": 24,
         "accumulated_points": 852,
-        "finish_time": 50014,
+        "time": 50014,
         "checkpoints": [
           5544,
           10422,
@@ -6948,7 +6951,7 @@
       {
         "position": 23,
         "accumulated_points": 928,
-        "finish_time": 49961,
+        "time": 49961,
         "checkpoints": [
           5478,
           10392,
@@ -6972,7 +6975,7 @@
       {
         "position": 34,
         "accumulated_points": 36,
-        "finish_time": 50387,
+        "time": 50387,
         "checkpoints": [
           5476,
           10500,
@@ -6990,7 +6993,7 @@
       {
         "position": 34,
         "accumulated_points": 116,
-        "finish_time": 49961,
+        "time": 49961,
         "checkpoints": [
           5516,
           10492,
@@ -7008,7 +7011,7 @@
       {
         "position": 29,
         "accumulated_points": 607,
-        "finish_time": 49621,
+        "time": 49621,
         "checkpoints": [
           5493,
           10457,
@@ -7026,13 +7029,13 @@
       {
         "position": 35,
         "accumulated_points": 669,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       },
       {
         "position": 26,
         "accumulated_points": 779,
-        "finish_time": 49984,
+        "time": 49984,
         "checkpoints": [
           5501,
           10448,
@@ -7050,7 +7053,7 @@
       {
         "position": 23,
         "accumulated_points": 853,
-        "finish_time": 50047,
+        "time": 50047,
         "checkpoints": [
           5484,
           10403,
@@ -7068,7 +7071,7 @@
       {
         "position": 22,
         "accumulated_points": 930,
-        "finish_time": 49927,
+        "time": 49927,
         "checkpoints": [
           5516,
           10448,
@@ -7092,7 +7095,7 @@
       {
         "position": 22,
         "accumulated_points": 45,
-        "finish_time": 54658,
+        "time": 54658,
         "checkpoints": [
           5466,
           14437,
@@ -7110,7 +7113,7 @@
       {
         "position": 20,
         "accumulated_points": 125,
-        "finish_time": 49437,
+        "time": 49437,
         "checkpoints": [
           5496,
           10518,
@@ -7128,7 +7131,7 @@
       {
         "position": 20,
         "accumulated_points": 179,
-        "finish_time": 50038,
+        "time": 50038,
         "checkpoints": [
           5498,
           10473,
@@ -7146,7 +7149,7 @@
       {
         "position": 19,
         "accumulated_points": 255,
-        "finish_time": 49885,
+        "time": 49885,
         "checkpoints": [
           5484,
           10465,
@@ -7164,7 +7167,7 @@
       {
         "position": 34,
         "accumulated_points": 590,
-        "finish_time": 49545,
+        "time": 49545,
         "checkpoints": [
           5494,
           10422,
@@ -7182,19 +7185,19 @@
       {
         "position": 41,
         "accumulated_points": 648,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       },
       {
         "position": 29,
         "accumulated_points": 758,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       },
       {
         "position": 19,
         "accumulated_points": 868,
-        "finish_time": 49758,
+        "time": 49758,
         "checkpoints": [
           5488,
           10418,
@@ -7212,7 +7215,7 @@
       {
         "position": 21,
         "accumulated_points": 932,
-        "finish_time": 49923,
+        "time": 49923,
         "checkpoints": [
           5501,
           10435,
@@ -7236,7 +7239,7 @@
       {
         "position": 26,
         "accumulated_points": 52,
-        "finish_time": 49888,
+        "time": 49888,
         "checkpoints": [
           5496,
           10448,
@@ -7254,7 +7257,7 @@
       {
         "position": 25,
         "accumulated_points": 128,
-        "finish_time": 51271,
+        "time": 51271,
         "checkpoints": [
           5524,
           10546,
@@ -7272,7 +7275,7 @@
       {
         "position": 23,
         "accumulated_points": 218,
-        "finish_time": 49978,
+        "time": 49978,
         "checkpoints": [
           5476,
           10468,
@@ -7290,7 +7293,7 @@
       {
         "position": 22,
         "accumulated_points": 654,
-        "finish_time": 49477,
+        "time": 49477,
         "checkpoints": [
           5484,
           10408,
@@ -7308,7 +7311,7 @@
       {
         "position": 25,
         "accumulated_points": 708,
-        "finish_time": 50591,
+        "time": 50591,
         "checkpoints": [
           5488,
           10450,
@@ -7326,7 +7329,7 @@
       {
         "position": 22,
         "accumulated_points": 792,
-        "finish_time": 49533,
+        "time": 49533,
         "checkpoints": [
           5471,
           10382,
@@ -7344,7 +7347,7 @@
       {
         "position": 27,
         "accumulated_points": 844,
-        "finish_time": 53621,
+        "time": 53621,
         "checkpoints": [
           5524,
           10417,
@@ -7362,7 +7365,7 @@
       {
         "position": 20,
         "accumulated_points": 934,
-        "finish_time": 49880,
+        "time": 49880,
         "checkpoints": [
           5456,
           10398,
@@ -7386,7 +7389,7 @@
       {
         "position": 11,
         "accumulated_points": 181,
-        "finish_time": 49268,
+        "time": 49268,
         "checkpoints": [
           5484,
           10372,
@@ -7404,7 +7407,7 @@
       {
         "position": 13,
         "accumulated_points": 208,
-        "finish_time": 49528,
+        "time": 49528,
         "checkpoints": [
           5454,
           10332,
@@ -7422,7 +7425,7 @@
       {
         "position": 15,
         "accumulated_points": 262,
-        "finish_time": 50280,
+        "time": 50280,
         "checkpoints": [
           5446,
           10495,
@@ -7440,7 +7443,7 @@
       {
         "position": 12,
         "accumulated_points": 343,
-        "finish_time": 49301,
+        "time": 49301,
         "checkpoints": [
           5464,
           10343,
@@ -7458,7 +7461,7 @@
       {
         "position": 15,
         "accumulated_points": 379,
-        "finish_time": 49468,
+        "time": 49468,
         "checkpoints": [
           5466,
           10377,
@@ -7476,7 +7479,7 @@
       {
         "position": 13,
         "accumulated_points": 739,
-        "finish_time": 49414,
+        "time": 49414,
         "checkpoints": [
           5501,
           10415,
@@ -7494,7 +7497,7 @@
       {
         "position": 14,
         "accumulated_points": 784,
-        "finish_time": 49434,
+        "time": 49434,
         "checkpoints": [
           5504,
           10405,
@@ -7512,7 +7515,7 @@
       {
         "position": 15,
         "accumulated_points": 826,
-        "finish_time": 49620,
+        "time": 49620,
         "checkpoints": [
           5518,
           10500,
@@ -7530,7 +7533,7 @@
       {
         "position": 16,
         "accumulated_points": 886,
-        "finish_time": 49608,
+        "time": 49608,
         "checkpoints": [
           5494,
           10370,
@@ -7548,7 +7551,7 @@
       {
         "position": 19,
         "accumulated_points": 936,
-        "finish_time": 49821,
+        "time": 49821,
         "checkpoints": [
           5468,
           10402,
@@ -7572,7 +7575,7 @@
       {
         "position": 3,
         "accumulated_points": 13,
-        "finish_time": 49141,
+        "time": 49141,
         "checkpoints": [
           5464,
           10383,
@@ -7590,7 +7593,7 @@
       {
         "position": 3,
         "accumulated_points": 37,
-        "finish_time": 49028,
+        "time": 49028,
         "checkpoints": [
           5481,
           10377,
@@ -7608,7 +7611,7 @@
       {
         "position": 4,
         "accumulated_points": 146,
-        "finish_time": 49231,
+        "time": 49231,
         "checkpoints": [
           5494,
           10412,
@@ -7626,7 +7629,7 @@
       {
         "position": 4,
         "accumulated_points": 170,
-        "finish_time": 49372,
+        "time": 49372,
         "checkpoints": [
           5451,
           10457,
@@ -7644,7 +7647,7 @@
       {
         "position": 4,
         "accumulated_points": 200,
-        "finish_time": 49234,
+        "time": 49234,
         "checkpoints": [
           5464,
           10393,
@@ -7662,7 +7665,7 @@
       {
         "position": 4,
         "accumulated_points": 227,
-        "finish_time": 49207,
+        "time": 49207,
         "checkpoints": [
           5454,
           10407,
@@ -7680,7 +7683,7 @@
       {
         "position": 4,
         "accumulated_points": 254,
-        "finish_time": 49424,
+        "time": 49424,
         "checkpoints": [
           5478,
           10415,
@@ -7698,7 +7701,7 @@
       {
         "position": 3,
         "accumulated_points": 439,
-        "finish_time": 49127,
+        "time": 49127,
         "checkpoints": [
           5478,
           10362,
@@ -7716,7 +7719,7 @@
       {
         "position": 4,
         "accumulated_points": 463,
-        "finish_time": 49186,
+        "time": 49186,
         "checkpoints": [
           5464,
           10377,
@@ -7734,7 +7737,7 @@
       {
         "position": 4,
         "accumulated_points": 487,
-        "finish_time": 49067,
+        "time": 49067,
         "checkpoints": [
           5464,
           10392,
@@ -7752,7 +7755,7 @@
       {
         "position": 4,
         "accumulated_points": 507,
-        "finish_time": 49326,
+        "time": 49326,
         "checkpoints": [
           5471,
           10395,
@@ -7770,7 +7773,7 @@
       {
         "position": 4,
         "accumulated_points": 552,
-        "finish_time": 49321,
+        "time": 49321,
         "checkpoints": [
           5464,
           10418,
@@ -7788,7 +7791,7 @@
       {
         "position": 8,
         "accumulated_points": 771,
-        "finish_time": 49451,
+        "time": 49451,
         "checkpoints": [
           5478,
           10447,
@@ -7806,7 +7809,7 @@
       {
         "position": 7,
         "accumulated_points": 821,
-        "finish_time": 50414,
+        "time": 50414,
         "checkpoints": [
           5471,
           10403,
@@ -7824,7 +7827,7 @@
       {
         "position": 4,
         "accumulated_points": 903,
-        "finish_time": 49147,
+        "time": 49147,
         "checkpoints": [
           5471,
           10390,
@@ -7842,7 +7845,7 @@
       {
         "position": 6,
         "accumulated_points": 923,
-        "finish_time": 49122,
+        "time": 49122,
         "checkpoints": [
           5468,
           10385,
@@ -7860,7 +7863,7 @@
       {
         "position": 18,
         "accumulated_points": 938,
-        "finish_time": 49801,
+        "time": 49801,
         "checkpoints": [
           5503,
           10423,
@@ -7884,7 +7887,7 @@
       {
         "position": 23,
         "accumulated_points": 10,
-        "finish_time": 49657,
+        "time": 49657,
         "checkpoints": [
           5478,
           10375,
@@ -7902,7 +7905,7 @@
       {
         "position": 24,
         "accumulated_points": 74,
-        "finish_time": 49305,
+        "time": 49305,
         "checkpoints": [
           5548,
           10485,
@@ -7920,7 +7923,7 @@
       {
         "position": 27,
         "accumulated_points": 107,
-        "finish_time": 49966,
+        "time": 49966,
         "checkpoints": [
           5558,
           10472,
@@ -7938,7 +7941,7 @@
       {
         "position": 28,
         "accumulated_points": 177,
-        "finish_time": 49658,
+        "time": 49658,
         "checkpoints": [
           5496,
           10412,
@@ -7956,7 +7959,7 @@
       {
         "position": 19,
         "accumulated_points": 674,
-        "finish_time": 61376,
+        "time": 61376,
         "checkpoints": [
           5906,
           10957,
@@ -7974,7 +7977,7 @@
       {
         "position": 15,
         "accumulated_points": 764,
-        "finish_time": 49498,
+        "time": 49498,
         "checkpoints": [
           5511,
           10362,
@@ -7992,7 +7995,7 @@
       {
         "position": 17,
         "accumulated_points": 812,
-        "finish_time": 50042,
+        "time": 50042,
         "checkpoints": [
           5501,
           10395,
@@ -8010,7 +8013,7 @@
       {
         "position": 15,
         "accumulated_points": 888,
-        "finish_time": 49610,
+        "time": 49610,
         "checkpoints": [
           5531,
           10440,
@@ -8028,7 +8031,7 @@
       {
         "position": 17,
         "accumulated_points": 940,
-        "finish_time": 49756,
+        "time": 49756,
         "checkpoints": [
           5486,
           10412,
@@ -8052,7 +8055,7 @@
       {
         "position": 25,
         "accumulated_points": 67,
-        "finish_time": 49837,
+        "time": 49837,
         "checkpoints": [
           5511,
           10418,
@@ -8070,7 +8073,7 @@
       {
         "position": 24,
         "accumulated_points": 139,
-        "finish_time": 49468,
+        "time": 49468,
         "checkpoints": [
           5518,
           10392,
@@ -8088,7 +8091,7 @@
       {
         "position": 26,
         "accumulated_points": 189,
-        "finish_time": 49966,
+        "time": 49966,
         "checkpoints": [
           5514,
           10412,
@@ -8106,7 +8109,7 @@
       {
         "position": 18,
         "accumulated_points": 682,
-        "finish_time": 49562,
+        "time": 49562,
         "checkpoints": [
           5536,
           10385,
@@ -8124,7 +8127,7 @@
       {
         "position": 20,
         "accumulated_points": 742,
-        "finish_time": 49928,
+        "time": 49928,
         "checkpoints": [
           5568,
           10425,
@@ -8142,7 +8145,7 @@
       {
         "position": 16,
         "accumulated_points": 816,
-        "finish_time": 49566,
+        "time": 49566,
         "checkpoints": [
           5534,
           10395,
@@ -8160,7 +8163,7 @@
       {
         "position": 17,
         "accumulated_points": 872,
-        "finish_time": 49947,
+        "time": 49947,
         "checkpoints": [
           5544,
           10405,
@@ -8178,7 +8181,7 @@
       {
         "position": 16,
         "accumulated_points": 942,
-        "finish_time": 49733,
+        "time": 49733,
         "checkpoints": [
           5514,
           10370,
@@ -8202,7 +8205,7 @@
       {
         "position": 5,
         "accumulated_points": 136,
-        "finish_time": 49521,
+        "time": 49521,
         "checkpoints": [
           5491,
           10387,
@@ -8220,7 +8223,7 @@
       {
         "position": 5,
         "accumulated_points": 169,
-        "finish_time": 49546,
+        "time": 49546,
         "checkpoints": [
           5456,
           10340,
@@ -8238,7 +8241,7 @@
       {
         "position": 3,
         "accumulated_points": 202,
-        "finish_time": 49275,
+        "time": 49275,
         "checkpoints": [
           5488,
           10392,
@@ -8256,7 +8259,7 @@
       {
         "position": 3,
         "accumulated_points": 232,
-        "finish_time": 49124,
+        "time": 49124,
         "checkpoints": [
           5468,
           10357,
@@ -8274,7 +8277,7 @@
       {
         "position": 3,
         "accumulated_points": 256,
-        "finish_time": 49136,
+        "time": 49136,
         "checkpoints": [
           5458,
           10342,
@@ -8292,7 +8295,7 @@
       {
         "position": 4,
         "accumulated_points": 438,
-        "finish_time": 49377,
+        "time": 49377,
         "checkpoints": [
           5451,
           10348,
@@ -8310,7 +8313,7 @@
       {
         "position": 3,
         "accumulated_points": 477,
-        "finish_time": 49280,
+        "time": 49280,
         "checkpoints": [
           5464,
           10338,
@@ -8328,7 +8331,7 @@
       {
         "position": 3,
         "accumulated_points": 510,
-        "finish_time": 49341,
+        "time": 49341,
         "checkpoints": [
           5474,
           10377,
@@ -8346,7 +8349,7 @@
       {
         "position": 3,
         "accumulated_points": 549,
-        "finish_time": 49622,
+        "time": 49622,
         "checkpoints": [
           5471,
           10383,
@@ -8364,7 +8367,7 @@
       {
         "position": 3,
         "accumulated_points": 605,
-        "finish_time": 49410,
+        "time": 49410,
         "checkpoints": [
           5451,
           10347,
@@ -8382,7 +8385,7 @@
       {
         "position": 5,
         "accumulated_points": 821,
-        "finish_time": 49323,
+        "time": 49323,
         "checkpoints": [
           5491,
           10378,
@@ -8400,7 +8403,7 @@
       {
         "position": 5,
         "accumulated_points": 851,
-        "finish_time": 49215,
+        "time": 49215,
         "checkpoints": [
           5478,
           10378,
@@ -8418,7 +8421,7 @@
       {
         "position": 9,
         "accumulated_points": 875,
-        "finish_time": 49310,
+        "time": 49310,
         "checkpoints": [
           5486,
           10385,
@@ -8436,7 +8439,7 @@
       {
         "position": 11,
         "accumulated_points": 908,
-        "finish_time": 49471,
+        "time": 49471,
         "checkpoints": [
           5481,
           10353,
@@ -8454,7 +8457,7 @@
       {
         "position": 15,
         "accumulated_points": 944,
-        "finish_time": 49722,
+        "time": 49722,
         "checkpoints": [
           5458,
           10370,
@@ -8478,7 +8481,7 @@
       {
         "position": 13,
         "accumulated_points": 174,
-        "finish_time": 49317,
+        "time": 49317,
         "checkpoints": [
           5471,
           10368,
@@ -8496,7 +8499,7 @@
       {
         "position": 14,
         "accumulated_points": 207,
-        "finish_time": 49345,
+        "time": 49345,
         "checkpoints": [
           5486,
           10403,
@@ -8514,7 +8517,7 @@
       {
         "position": 17,
         "accumulated_points": 252,
-        "finish_time": 50201,
+        "time": 50201,
         "checkpoints": [
           5464,
           10365,
@@ -8532,7 +8535,7 @@
       {
         "position": 14,
         "accumulated_points": 331,
-        "finish_time": 49316,
+        "time": 49316,
         "checkpoints": [
           5508,
           10425,
@@ -8550,7 +8553,7 @@
       {
         "position": 16,
         "accumulated_points": 373,
-        "finish_time": 49737,
+        "time": 49737,
         "checkpoints": [
           5511,
           10422,
@@ -8568,7 +8571,7 @@
       {
         "position": 7,
         "accumulated_points": 783,
-        "finish_time": 49162,
+        "time": 49162,
         "checkpoints": [
           5471,
           10385,
@@ -8586,7 +8589,7 @@
       {
         "position": 11,
         "accumulated_points": 807,
-        "finish_time": 49357,
+        "time": 49357,
         "checkpoints": [
           5491,
           10395,
@@ -8604,7 +8607,7 @@
       {
         "position": 13,
         "accumulated_points": 837,
-        "finish_time": 49864,
+        "time": 49864,
         "checkpoints": [
           5511,
           10428,
@@ -8622,7 +8625,7 @@
       {
         "position": 12,
         "accumulated_points": 907,
-        "finish_time": 49472,
+        "time": 49472,
         "checkpoints": [
           5486,
           10410,
@@ -8640,7 +8643,7 @@
       {
         "position": 14,
         "accumulated_points": 946,
-        "finish_time": 49717,
+        "time": 49717,
         "checkpoints": [
           5474,
           10390,
@@ -8664,7 +8667,7 @@
       {
         "position": 19,
         "accumulated_points": 63,
-        "finish_time": 49331,
+        "time": 49331,
         "checkpoints": [
           5508,
           10427,
@@ -8682,7 +8685,7 @@
       {
         "position": 19,
         "accumulated_points": 99,
-        "finish_time": 49232,
+        "time": 49232,
         "checkpoints": [
           5558,
           10497,
@@ -8700,7 +8703,7 @@
       {
         "position": 19,
         "accumulated_points": 129,
-        "finish_time": 49440,
+        "time": 49440,
         "checkpoints": [
           5531,
           10443,
@@ -8718,7 +8721,7 @@
       {
         "position": 19,
         "accumulated_points": 185,
-        "finish_time": 49664,
+        "time": 49664,
         "checkpoints": [
           5536,
           10418,
@@ -8736,7 +8739,7 @@
       {
         "position": 20,
         "accumulated_points": 245,
-        "finish_time": 50048,
+        "time": 50048,
         "checkpoints": [
           5546,
           10448,
@@ -8754,7 +8757,7 @@
       {
         "position": 16,
         "accumulated_points": 687,
-        "finish_time": 49668,
+        "time": 49668,
         "checkpoints": [
           5551,
           10492,
@@ -8772,7 +8775,7 @@
       {
         "position": 18,
         "accumulated_points": 753,
-        "finish_time": 50160,
+        "time": 50160,
         "checkpoints": [
           5538,
           10422,
@@ -8790,7 +8793,7 @@
       {
         "position": 14,
         "accumulated_points": 829,
-        "finish_time": 50056,
+        "time": 50056,
         "checkpoints": [
           5573,
           10470,
@@ -8808,7 +8811,7 @@
       {
         "position": 13,
         "accumulated_points": 906,
-        "finish_time": 49497,
+        "time": 49497,
         "checkpoints": [
           5536,
           10458,
@@ -8826,7 +8829,7 @@
       {
         "position": 13,
         "accumulated_points": 948,
-        "finish_time": 49708,
+        "time": 49708,
         "checkpoints": [
           5521,
           10425,
@@ -8850,7 +8853,7 @@
       {
         "position": 18,
         "accumulated_points": 128,
-        "finish_time": 49882,
+        "time": 49882,
         "checkpoints": [
           5488,
           10370,
@@ -8868,7 +8871,7 @@
       {
         "position": 16,
         "accumulated_points": 196,
-        "finish_time": 50304,
+        "time": 50304,
         "checkpoints": [
           5730,
           10407,
@@ -8886,7 +8889,7 @@
       {
         "position": 13,
         "accumulated_points": 272,
-        "finish_time": 49867,
+        "time": 49867,
         "checkpoints": [
           5488,
           10390,
@@ -8904,13 +8907,13 @@
       {
         "position": 11,
         "accumulated_points": 347,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       },
       {
         "position": 9,
         "accumulated_points": 457,
-        "finish_time": 49584,
+        "time": 49584,
         "checkpoints": [
           5501,
           10437,
@@ -8928,7 +8931,7 @@
       {
         "position": 12,
         "accumulated_points": 762,
-        "finish_time": 49178,
+        "time": 49178,
         "checkpoints": [
           5501,
           10378,
@@ -8946,7 +8949,7 @@
       {
         "position": 13,
         "accumulated_points": 789,
-        "finish_time": 49852,
+        "time": 49852,
         "checkpoints": [
           5510,
           10403,
@@ -8964,7 +8967,7 @@
       {
         "position": 12,
         "accumulated_points": 857,
-        "finish_time": 49805,
+        "time": 49805,
         "checkpoints": [
           5478,
           10378,
@@ -8982,7 +8985,7 @@
       {
         "position": 7,
         "accumulated_points": 923,
-        "finish_time": 49308,
+        "time": 49308,
         "checkpoints": [
           5473,
           10372,
@@ -9000,7 +9003,7 @@
       {
         "position": 12,
         "accumulated_points": 950,
-        "finish_time": 49685,
+        "time": 49685,
         "checkpoints": [
           5444,
           10367,
@@ -9024,7 +9027,7 @@
       {
         "position": 12,
         "accumulated_points": 177,
-        "finish_time": 49772,
+        "time": 49772,
         "checkpoints": [
           5506,
           10400,
@@ -9042,7 +9045,7 @@
       {
         "position": 11,
         "accumulated_points": 239,
-        "finish_time": 49341,
+        "time": 49341,
         "checkpoints": [
           5508,
           10407,
@@ -9060,7 +9063,7 @@
       {
         "position": 11,
         "accumulated_points": 281,
-        "finish_time": 49313,
+        "time": 49313,
         "checkpoints": [
           5516,
           10433,
@@ -9078,7 +9081,7 @@
       {
         "position": 15,
         "accumulated_points": 317,
-        "finish_time": 52094,
+        "time": 52094,
         "checkpoints": [
           5528,
           10487,
@@ -9096,7 +9099,7 @@
       {
         "position": 13,
         "accumulated_points": 407,
-        "finish_time": 49965,
+        "time": 49965,
         "checkpoints": [
           5474,
           10437,
@@ -9114,7 +9117,7 @@
       {
         "position": 6,
         "accumulated_points": 784,
-        "finish_time": 49377,
+        "time": 49377,
         "checkpoints": [
           5468,
           10393,
@@ -9132,7 +9135,7 @@
       {
         "position": 6,
         "accumulated_points": 826,
-        "finish_time": 49382,
+        "time": 49382,
         "checkpoints": [
           5526,
           10417,
@@ -9150,7 +9153,7 @@
       {
         "position": 11,
         "accumulated_points": 859,
-        "finish_time": 49374,
+        "time": 49374,
         "checkpoints": [
           5514,
           10403,
@@ -9168,7 +9171,7 @@
       {
         "position": 14,
         "accumulated_points": 904,
-        "finish_time": 49580,
+        "time": 49580,
         "checkpoints": [
           5524,
           10412,
@@ -9186,7 +9189,7 @@
       {
         "position": 11,
         "accumulated_points": 952,
-        "finish_time": 49637,
+        "time": 49637,
         "checkpoints": [
           5524,
           10420,
@@ -9210,7 +9213,7 @@
       {
         "position": 21,
         "accumulated_points": 48,
-        "finish_time": 49960,
+        "time": 49960,
         "checkpoints": [
           5456,
           10345,
@@ -9228,7 +9231,7 @@
       {
         "position": 21,
         "accumulated_points": 118,
-        "finish_time": 49595,
+        "time": 49595,
         "checkpoints": [
           5441,
           10393,
@@ -9246,7 +9249,7 @@
       {
         "position": 21,
         "accumulated_points": 178,
-        "finish_time": 49892,
+        "time": 49892,
         "checkpoints": [
           5446,
           10377,
@@ -9264,7 +9267,7 @@
       {
         "position": 21,
         "accumulated_points": 244,
-        "finish_time": 49923,
+        "time": 49923,
         "checkpoints": [
           5508,
           10427,
@@ -9282,7 +9285,7 @@
       {
         "position": 21,
         "accumulated_points": 658,
-        "finish_time": 49793,
+        "time": 49793,
         "checkpoints": [
           5466,
           10357,
@@ -9300,7 +9303,7 @@
       {
         "position": 21,
         "accumulated_points": 733,
-        "finish_time": 49614,
+        "time": 49614,
         "checkpoints": [
           5521,
           10422,
@@ -9318,7 +9321,7 @@
       {
         "position": 24,
         "accumulated_points": 787,
-        "finish_time": 50101,
+        "time": 50101,
         "checkpoints": [
           5511,
           10445,
@@ -9336,7 +9339,7 @@
       {
         "position": 20,
         "accumulated_points": 865,
-        "finish_time": 51514,
+        "time": 51514,
         "checkpoints": [
           5474,
           10358,
@@ -9354,7 +9357,7 @@
       {
         "position": 10,
         "accumulated_points": 955,
-        "finish_time": 49635,
+        "time": 49635,
         "checkpoints": [
           5508,
           10423,
@@ -9378,7 +9381,7 @@
       {
         "position": 14,
         "accumulated_points": 162,
-        "finish_time": 49810,
+        "time": 49810,
         "checkpoints": [
           5538,
           10425,
@@ -9396,7 +9399,7 @@
       {
         "position": 12,
         "accumulated_points": 228,
-        "finish_time": 49310,
+        "time": 49310,
         "checkpoints": [
           5524,
           10390,
@@ -9414,7 +9417,7 @@
       {
         "position": 14,
         "accumulated_points": 264,
-        "finish_time": 49360,
+        "time": 49360,
         "checkpoints": [
           5508,
           10382,
@@ -9432,7 +9435,7 @@
       {
         "position": 17,
         "accumulated_points": 309,
-        "finish_time": 56461,
+        "time": 56461,
         "checkpoints": [
           5508,
           10378,
@@ -9450,7 +9453,7 @@
       {
         "position": 14,
         "accumulated_points": 399,
-        "finish_time": 53058,
+        "time": 53058,
         "checkpoints": [
           5478,
           10378,
@@ -9468,7 +9471,7 @@
       {
         "position": 15,
         "accumulated_points": 703,
-        "finish_time": 49500,
+        "time": 49500,
         "checkpoints": [
           5496,
           10385,
@@ -9486,7 +9489,7 @@
       {
         "position": 16,
         "accumulated_points": 759,
-        "finish_time": 49464,
+        "time": 49464,
         "checkpoints": [
           5491,
           10360,
@@ -9504,7 +9507,7 @@
       {
         "position": 19,
         "accumulated_points": 804,
-        "finish_time": 49737,
+        "time": 49737,
         "checkpoints": [
           5501,
           10405,
@@ -9522,7 +9525,7 @@
       {
         "position": 18,
         "accumulated_points": 868,
-        "finish_time": 51807,
+        "time": 51807,
         "checkpoints": [
           5486,
           10362,
@@ -9540,7 +9543,7 @@
       {
         "position": 9,
         "accumulated_points": 958,
-        "finish_time": 49568,
+        "time": 49568,
         "checkpoints": [
           5524,
           10452,
@@ -9564,7 +9567,7 @@
       {
         "position": 8,
         "accumulated_points": 276,
-        "finish_time": 49645,
+        "time": 49645,
         "checkpoints": [
           5544,
           10412,
@@ -9582,7 +9585,7 @@
       {
         "position": 8,
         "accumulated_points": 332,
-        "finish_time": 49545,
+        "time": 49545,
         "checkpoints": [
           5531,
           10467,
@@ -9600,7 +9603,7 @@
       {
         "position": 9,
         "accumulated_points": 390,
-        "finish_time": 49381,
+        "time": 49381,
         "checkpoints": [
           5498,
           10377,
@@ -9618,7 +9621,7 @@
       {
         "position": 8,
         "accumulated_points": 438,
-        "finish_time": 55754,
+        "time": 55754,
         "checkpoints": [
           5554,
           10510,
@@ -9636,7 +9639,7 @@
       {
         "position": 6,
         "accumulated_points": 528,
-        "finish_time": 49530,
+        "time": 49530,
         "checkpoints": [
           5521,
           10437,
@@ -9654,7 +9657,7 @@
       {
         "position": 10,
         "accumulated_points": 765,
-        "finish_time": 49365,
+        "time": 49365,
         "checkpoints": [
           5506,
           10383,
@@ -9672,7 +9675,7 @@
       {
         "position": 12,
         "accumulated_points": 801,
-        "finish_time": 51218,
+        "time": 51218,
         "checkpoints": [
           5845,
           10970,
@@ -9690,7 +9693,7 @@
       {
         "position": 7,
         "accumulated_points": 891,
-        "finish_time": 49435,
+        "time": 49435,
         "checkpoints": [
           5521,
           10393,
@@ -9708,7 +9711,7 @@
       {
         "position": 3,
         "accumulated_points": 941,
-        "finish_time": 49187,
+        "time": 49187,
         "checkpoints": [
           5504,
           10398,
@@ -9726,7 +9729,7 @@
       {
         "position": 8,
         "accumulated_points": 961,
-        "finish_time": 49535,
+        "time": 49535,
         "checkpoints": [
           5548,
           10427,
@@ -9750,7 +9753,7 @@
       {
         "position": 15,
         "accumulated_points": 158,
-        "finish_time": 49425,
+        "time": 49425,
         "checkpoints": [
           5514,
           10433,
@@ -9768,7 +9771,7 @@
       {
         "position": 15,
         "accumulated_points": 203,
-        "finish_time": 50008,
+        "time": 50008,
         "checkpoints": [
           5491,
           10383,
@@ -9786,7 +9789,7 @@
       {
         "position": 12,
         "accumulated_points": 275,
-        "finish_time": 49777,
+        "time": 49777,
         "checkpoints": [
           5476,
           10415,
@@ -9804,7 +9807,7 @@
       {
         "position": 13,
         "accumulated_points": 343,
-        "finish_time": 49878,
+        "time": 49878,
         "checkpoints": [
           5516,
           10403,
@@ -9822,7 +9825,7 @@
       {
         "position": 12,
         "accumulated_points": 407,
-        "finish_time": 49428,
+        "time": 49428,
         "checkpoints": [
           5491,
           10387,
@@ -9840,7 +9843,7 @@
       {
         "position": 11,
         "accumulated_points": 763,
-        "finish_time": 49442,
+        "time": 49442,
         "checkpoints": [
           5501,
           10363,
@@ -9858,7 +9861,7 @@
       {
         "position": 9,
         "accumulated_points": 811,
-        "finish_time": 49566,
+        "time": 49566,
         "checkpoints": [
           5491,
           10420,
@@ -9876,7 +9879,7 @@
       {
         "position": 10,
         "accumulated_points": 861,
-        "finish_time": 49581,
+        "time": 49581,
         "checkpoints": [
           5514,
           10407,
@@ -9894,7 +9897,7 @@
       {
         "position": 8,
         "accumulated_points": 919,
-        "finish_time": 49505,
+        "time": 49505,
         "checkpoints": [
           5518,
           10392,
@@ -9912,7 +9915,7 @@
       {
         "position": 7,
         "accumulated_points": 964,
-        "finish_time": 49511,
+        "time": 49511,
         "checkpoints": [
           5521,
           10373,
@@ -9936,7 +9939,7 @@
       {
         "position": 7,
         "accumulated_points": 30,
-        "finish_time": 49532,
+        "time": 49532,
         "checkpoints": [
           5474,
           10362,
@@ -9954,7 +9957,7 @@
       {
         "position": 7,
         "accumulated_points": 332,
-        "finish_time": 49306,
+        "time": 49306,
         "checkpoints": [
           5454,
           10363,
@@ -9972,7 +9975,7 @@
       {
         "position": 7,
         "accumulated_points": 362,
-        "finish_time": 49542,
+        "time": 49542,
         "checkpoints": [
           5448,
           10352,
@@ -9990,7 +9993,7 @@
       {
         "position": 7,
         "accumulated_points": 418,
-        "finish_time": 49407,
+        "time": 49407,
         "checkpoints": [
           5468,
           10392,
@@ -10008,7 +10011,7 @@
       {
         "position": 6,
         "accumulated_points": 468,
-        "finish_time": 49166,
+        "time": 49166,
         "checkpoints": [
           5461,
           10367,
@@ -10026,7 +10029,7 @@
       {
         "position": 7,
         "accumulated_points": 495,
-        "finish_time": 49248,
+        "time": 49248,
         "checkpoints": [
           5454,
           10363,
@@ -10044,7 +10047,7 @@
       {
         "position": 9,
         "accumulated_points": 767,
-        "finish_time": 49460,
+        "time": 49460,
         "checkpoints": [
           5478,
           10402,
@@ -10062,7 +10065,7 @@
       {
         "position": 8,
         "accumulated_points": 819,
-        "finish_time": 49622,
+        "time": 49622,
         "checkpoints": [
           5454,
           10413,
@@ -10080,7 +10083,7 @@
       {
         "position": 8,
         "accumulated_points": 877,
-        "finish_time": 49341,
+        "time": 49341,
         "checkpoints": [
           5461,
           10398,
@@ -10098,7 +10101,7 @@
       {
         "position": 10,
         "accumulated_points": 913,
-        "finish_time": 49663,
+        "time": 49663,
         "checkpoints": [
           5446,
           10410,
@@ -10116,7 +10119,7 @@
       {
         "position": 6,
         "accumulated_points": 967,
-        "finish_time": 49494,
+        "time": 49494,
         "checkpoints": [
           5491,
           10462,
@@ -10140,7 +10143,7 @@
       {
         "position": 9,
         "accumulated_points": 249,
-        "finish_time": 49468,
+        "time": 49468,
         "checkpoints": [
           5493,
           10405,
@@ -10158,7 +10161,7 @@
       {
         "position": 10,
         "accumulated_points": 297,
-        "finish_time": 49362,
+        "time": 49362,
         "checkpoints": [
           5501,
           10415,
@@ -10176,7 +10179,7 @@
       {
         "position": 10,
         "accumulated_points": 345,
-        "finish_time": 49408,
+        "time": 49408,
         "checkpoints": [
           5491,
           10397,
@@ -10194,7 +10197,7 @@
       {
         "position": 10,
         "accumulated_points": 397,
-        "finish_time": 49302,
+        "time": 49302,
         "checkpoints": [
           5466,
           10377,
@@ -10212,7 +10215,7 @@
       {
         "position": 11,
         "accumulated_points": 436,
-        "finish_time": 49596,
+        "time": 49596,
         "checkpoints": [
           5514,
           10453,
@@ -10230,7 +10233,7 @@
       {
         "position": 4,
         "accumulated_points": 823,
-        "finish_time": 49324,
+        "time": 49324,
         "checkpoints": [
           5464,
           10395,
@@ -10248,7 +10251,7 @@
       {
         "position": 4,
         "accumulated_points": 856,
-        "finish_time": 49431,
+        "time": 49431,
         "checkpoints": [
           5551,
           10470,
@@ -10266,7 +10269,7 @@
       {
         "position": 5,
         "accumulated_points": 895,
-        "finish_time": 49357,
+        "time": 49357,
         "checkpoints": [
           5484,
           10362,
@@ -10284,7 +10287,7 @@
       {
         "position": 4,
         "accumulated_points": 937,
-        "finish_time": 49385,
+        "time": 49385,
         "checkpoints": [
           5478,
           10402,
@@ -10302,7 +10305,7 @@
       {
         "position": 5,
         "accumulated_points": 970,
-        "finish_time": 49410,
+        "time": 49410,
         "checkpoints": [
           5531,
           10520,
@@ -10326,7 +10329,7 @@
       {
         "position": 6,
         "accumulated_points": 51,
-        "finish_time": 49365,
+        "time": 49365,
         "checkpoints": [
           5486,
           10393,
@@ -10344,7 +10347,7 @@
       {
         "position": 6,
         "accumulated_points": 81,
-        "finish_time": 49154,
+        "time": 49154,
         "checkpoints": [
           5514,
           10422,
@@ -10362,7 +10365,7 @@
       {
         "position": 6,
         "accumulated_points": 105,
-        "finish_time": 49137,
+        "time": 49137,
         "checkpoints": [
           5476,
           10402,
@@ -10380,7 +10383,7 @@
       {
         "position": 6,
         "accumulated_points": 129,
-        "finish_time": 49255,
+        "time": 49255,
         "checkpoints": [
           5494,
           10392,
@@ -10398,7 +10401,7 @@
       {
         "position": 6,
         "accumulated_points": 162,
-        "finish_time": 49185,
+        "time": 49185,
         "checkpoints": [
           5461,
           10375,
@@ -10416,7 +10419,7 @@
       {
         "position": 5,
         "accumulated_points": 401,
-        "finish_time": 49112,
+        "time": 49112,
         "checkpoints": [
           5516,
           10380,
@@ -10434,7 +10437,7 @@
       {
         "position": 5,
         "accumulated_points": 421,
-        "finish_time": 49338,
+        "time": 49338,
         "checkpoints": [
           5496,
           10390,
@@ -10452,7 +10455,7 @@
       {
         "position": 5,
         "accumulated_points": 460,
-        "finish_time": 49344,
+        "time": 49344,
         "checkpoints": [
           5491,
           10413,
@@ -10470,7 +10473,7 @@
       {
         "position": 5,
         "accumulated_points": 502,
-        "finish_time": 49416,
+        "time": 49416,
         "checkpoints": [
           5488,
           10383,
@@ -10488,7 +10491,7 @@
       {
         "position": 5,
         "accumulated_points": 550,
-        "finish_time": 49567,
+        "time": 49567,
         "checkpoints": [
           5518,
           10478,
@@ -10506,7 +10509,7 @@
       {
         "position": 3,
         "accumulated_points": 856,
-        "finish_time": 49365,
+        "time": 49365,
         "checkpoints": [
           5484,
           10412,
@@ -10524,7 +10527,7 @@
       {
         "position": 2,
         "accumulated_points": 895,
-        "finish_time": 49291,
+        "time": 49291,
         "checkpoints": [
           5466,
           10405,
@@ -10542,7 +10545,7 @@
       {
         "position": 1,
         "accumulated_points": 922,
-        "finish_time": 49207,
+        "time": 49207,
         "checkpoints": [
           5468,
           10362,
@@ -10560,7 +10563,7 @@
       {
         "position": 2,
         "accumulated_points": 949,
-        "finish_time": 49302,
+        "time": 49302,
         "checkpoints": [
           5501,
           10423,
@@ -10578,7 +10581,7 @@
       {
         "position": 4,
         "accumulated_points": 973,
-        "finish_time": 49287,
+        "time": 49287,
         "checkpoints": [
           5498,
           10372,
@@ -10602,7 +10605,7 @@
       {
         "position": 1,
         "accumulated_points": 193,
-        "finish_time": 48938,
+        "time": 48938,
         "checkpoints": [
           5494,
           10380,
@@ -10620,7 +10623,7 @@
       {
         "position": 1,
         "accumulated_points": 208,
-        "finish_time": 53010,
+        "time": 53010,
         "checkpoints": [
           5518,
           10470,
@@ -10638,7 +10641,7 @@
       {
         "position": 1,
         "accumulated_points": 228,
-        "finish_time": 48953,
+        "time": 48953,
         "checkpoints": [
           5484,
           10352,
@@ -10656,7 +10659,7 @@
       {
         "position": 1,
         "accumulated_points": 243,
-        "finish_time": 48978,
+        "time": 48978,
         "checkpoints": [
           5498,
           10440,
@@ -10674,7 +10677,7 @@
       {
         "position": 1,
         "accumulated_points": 258,
-        "finish_time": 49164,
+        "time": 49164,
         "checkpoints": [
           5524,
           10413,
@@ -10692,7 +10695,7 @@
       {
         "position": 1,
         "accumulated_points": 400,
-        "finish_time": 49184,
+        "time": 49184,
         "checkpoints": [
           5504,
           10405,
@@ -10710,7 +10713,7 @@
       {
         "position": 1,
         "accumulated_points": 420,
-        "finish_time": 49368,
+        "time": 49368,
         "checkpoints": [
           5524,
           10447,
@@ -10728,7 +10731,7 @@
       {
         "position": 1,
         "accumulated_points": 447,
-        "finish_time": 49405,
+        "time": 49405,
         "checkpoints": [
           5504,
           10417,
@@ -10746,7 +10749,7 @@
       {
         "position": 1,
         "accumulated_points": 480,
-        "finish_time": 48945,
+        "time": 48945,
         "checkpoints": [
           5538,
           10422,
@@ -10764,7 +10767,7 @@
       {
         "position": 1,
         "accumulated_points": 500,
-        "finish_time": 49287,
+        "time": 49287,
         "checkpoints": [
           5544,
           10552,
@@ -10782,7 +10785,7 @@
       {
         "position": 1,
         "accumulated_points": 612,
-        "finish_time": 51728,
+        "time": 51728,
         "checkpoints": [
           5508,
           10420,
@@ -10800,7 +10803,7 @@
       {
         "position": 1,
         "accumulated_points": 682,
-        "finish_time": 49022,
+        "time": 49022,
         "checkpoints": [
           5476,
           10377,
@@ -10818,7 +10821,7 @@
       {
         "position": 1,
         "accumulated_points": 702,
-        "finish_time": 49226,
+        "time": 49226,
         "checkpoints": [
           5494,
           10395,
@@ -10836,7 +10839,7 @@
       {
         "position": 1,
         "accumulated_points": 729,
-        "finish_time": 49254,
+        "time": 49254,
         "checkpoints": [
           5496,
           10397,
@@ -10854,7 +10857,7 @@
       {
         "position": 1,
         "accumulated_points": 759,
-        "finish_time": 48988,
+        "time": 48988,
         "checkpoints": [
           5514,
           10442,
@@ -10872,7 +10875,7 @@
       {
         "position": 2,
         "accumulated_points": 859,
-        "finish_time": 48997,
+        "time": 48997,
         "checkpoints": [
           5524,
           10490,
@@ -10890,7 +10893,7 @@
       {
         "position": 3,
         "accumulated_points": 874,
-        "finish_time": 49128,
+        "time": 49128,
         "checkpoints": [
           5498,
           10418,
@@ -10908,7 +10911,7 @@
       {
         "position": 6,
         "accumulated_points": 894,
-        "finish_time": 49152,
+        "time": 49152,
         "checkpoints": [
           5486,
           10402,
@@ -10926,7 +10929,7 @@
       {
         "position": 9,
         "accumulated_points": 918,
-        "finish_time": 49691,
+        "time": 49691,
         "checkpoints": [
           5531,
           10497,
@@ -10944,7 +10947,7 @@
       {
         "position": 3,
         "accumulated_points": 976,
-        "finish_time": 49284,
+        "time": 49284,
         "checkpoints": [
           5494,
           10452,
@@ -10968,7 +10971,7 @@
       {
         "position": 4,
         "accumulated_points": 13,
-        "finish_time": 61900,
+        "time": 61900,
         "checkpoints": [
           5514,
           10395,
@@ -10986,7 +10989,7 @@
       {
         "position": 3,
         "accumulated_points": 150,
-        "finish_time": 49352,
+        "time": 49352,
         "checkpoints": [
           5540,
           10443,
@@ -11004,7 +11007,7 @@
       {
         "position": 3,
         "accumulated_points": 177,
-        "finish_time": 48931,
+        "time": 48931,
         "checkpoints": [
           5481,
           10383,
@@ -11022,7 +11025,7 @@
       {
         "position": 5,
         "accumulated_points": 192,
-        "finish_time": 49004,
+        "time": 49004,
         "checkpoints": [
           5493,
           10392,
@@ -11040,7 +11043,7 @@
       {
         "position": 5,
         "accumulated_points": 212,
-        "finish_time": 49222,
+        "time": 49222,
         "checkpoints": [
           5488,
           10423,
@@ -11058,7 +11061,7 @@
       {
         "position": 5,
         "accumulated_points": 242,
-        "finish_time": 51735,
+        "time": 51735,
         "checkpoints": [
           5476,
           10422,
@@ -11076,7 +11079,7 @@
       {
         "position": 6,
         "accumulated_points": 383,
-        "finish_time": 48957,
+        "time": 48957,
         "checkpoints": [
           5484,
           10345,
@@ -11094,7 +11097,7 @@
       {
         "position": 6,
         "accumulated_points": 398,
-        "finish_time": 49210,
+        "time": 49210,
         "checkpoints": [
           5493,
           10392,
@@ -11112,7 +11115,7 @@
       {
         "position": 6,
         "accumulated_points": 425,
-        "finish_time": 49196,
+        "time": 49196,
         "checkpoints": [
           5536,
           10427,
@@ -11130,7 +11133,7 @@
       {
         "position": 7,
         "accumulated_points": 449,
-        "finish_time": 49106,
+        "time": 49106,
         "checkpoints": [
           5504,
           10440,
@@ -11148,7 +11151,7 @@
       {
         "position": 8,
         "accumulated_points": 469,
-        "finish_time": 49810,
+        "time": 49810,
         "checkpoints": [
           5518,
           10432,
@@ -11166,7 +11169,7 @@
       {
         "position": 14,
         "accumulated_points": 736,
-        "finish_time": 49761,
+        "time": 49761,
         "checkpoints": [
           5508,
           10440,
@@ -11184,13 +11187,13 @@
       {
         "position": 10,
         "accumulated_points": 810,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       },
       {
         "position": 2,
         "accumulated_points": 920,
-        "finish_time": 49230,
+        "time": 49230,
         "checkpoints": [
           5531,
           10420,
@@ -11208,7 +11211,7 @@
       {
         "position": 1,
         "accumulated_points": 950,
-        "finish_time": 49367,
+        "time": 49367,
         "checkpoints": [
           5478,
           10382,
@@ -11226,7 +11229,7 @@
       {
         "position": 2,
         "accumulated_points": 980,
-        "finish_time": 49250,
+        "time": 49250,
         "checkpoints": [
           5518,
           10380,
@@ -11250,7 +11253,7 @@
       {
         "position": 2,
         "accumulated_points": 117,
-        "finish_time": 48982,
+        "time": 48982,
         "checkpoints": [
           5478,
           10358,
@@ -11268,7 +11271,7 @@
       {
         "position": 2,
         "accumulated_points": 137,
-        "finish_time": 48827,
+        "time": 48827,
         "checkpoints": [
           5481,
           10368,
@@ -11286,7 +11289,7 @@
       {
         "position": 2,
         "accumulated_points": 152,
-        "finish_time": 49008,
+        "time": 49008,
         "checkpoints": [
           5491,
           10367,
@@ -11304,7 +11307,7 @@
       {
         "position": 2,
         "accumulated_points": 172,
-        "finish_time": 49230,
+        "time": 49230,
         "checkpoints": [
           5471,
           10395,
@@ -11322,7 +11325,7 @@
       {
         "position": 2,
         "accumulated_points": 199,
-        "finish_time": 48947,
+        "time": 48947,
         "checkpoints": [
           5493,
           10385,
@@ -11340,7 +11343,7 @@
       {
         "position": 2,
         "accumulated_points": 339,
-        "finish_time": 49156,
+        "time": 49156,
         "checkpoints": [
           5471,
           10350,
@@ -11358,7 +11361,7 @@
       {
         "position": 2,
         "accumulated_points": 354,
-        "finish_time": 49030,
+        "time": 49030,
         "checkpoints": [
           5458,
           10373,
@@ -11376,7 +11379,7 @@
       {
         "position": 2,
         "accumulated_points": 374,
-        "finish_time": 48830,
+        "time": 48830,
         "checkpoints": [
           5484,
           10387,
@@ -11394,7 +11397,7 @@
       {
         "position": 2,
         "accumulated_points": 389,
-        "finish_time": 48918,
+        "time": 48918,
         "checkpoints": [
           5474,
           10353,
@@ -11412,7 +11415,7 @@
       {
         "position": 2,
         "accumulated_points": 404,
-        "finish_time": 48928,
+        "time": 48928,
         "checkpoints": [
           5491,
           10382,
@@ -11430,13 +11433,13 @@
       {
         "position": 2,
         "accumulated_points": 563,
-        "finish_time": -1,
+        "time": -1,
         "checkpoints": null
       },
       {
         "position": 2,
         "accumulated_points": 673,
-        "finish_time": 48972,
+        "time": 48972,
         "checkpoints": [
           5474,
           10362,
@@ -11454,7 +11457,7 @@
       {
         "position": 2,
         "accumulated_points": 688,
-        "finish_time": 48956,
+        "time": 48956,
         "checkpoints": [
           5466,
           10350,
@@ -11472,7 +11475,7 @@
       {
         "position": 2,
         "accumulated_points": 703,
-        "finish_time": 48880,
+        "time": 48880,
         "checkpoints": [
           5478,
           10358,
@@ -11490,7 +11493,7 @@
       {
         "position": 2,
         "accumulated_points": 718,
-        "finish_time": 48965,
+        "time": 48965,
         "checkpoints": [
           5508,
           10460,
@@ -11508,7 +11511,7 @@
       {
         "position": 1,
         "accumulated_points": 879,
-        "finish_time": 49074,
+        "time": 49074,
         "checkpoints": [
           5494,
           10357,
@@ -11526,7 +11529,7 @@
       {
         "position": 1,
         "accumulated_points": 899,
-        "finish_time": 49074,
+        "time": 49074,
         "checkpoints": [
           5476,
           10360,
@@ -11544,7 +11547,7 @@
       {
         "position": 3,
         "accumulated_points": 914,
-        "finish_time": 48917,
+        "time": 48917,
         "checkpoints": [
           5498,
           10408,
@@ -11562,7 +11565,7 @@
       {
         "position": 5,
         "accumulated_points": 929,
-        "finish_time": 49690,
+        "time": 49690,
         "checkpoints": [
           5506,
           10425,
@@ -11580,7 +11583,7 @@
       {
         "position": 1,
         "accumulated_points": 985,
-        "finish_time": 49184,
+        "time": 49184,
         "checkpoints": [
           5474,
           10375,

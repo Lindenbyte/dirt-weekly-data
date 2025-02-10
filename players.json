@@ -1,7 +1,13 @@
 [
   {
     "player_id": "JV1ISYjtRnWA1qgp6QePJw",
-    "player_name": "Fliegzeug"
+    "player_name": "Fliegzeug",
+    "zone": {
+      "continent": "",
+      "country": "",
+      "state": "",
+      "city": ""
+    }
   },
   {
     "player_id": "KW7LMG2XRfaMfYsVGdgPfA",

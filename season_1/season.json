@@ -1,56 +1,51 @@
 {
+    "current_week": 1,
     "maps": [
         {
             "name": "MayThe4th",
             "author": "Presets",
             "tmx_id": 111111,
-            "released": true,
-            "week": 1
+            "medals": {
+                "author": 3,
+                "gold": 6,
+                "silver": 66,
+                "bronze": 222
+            }
         },
         {
             "name": "Sparkles",
             "author": "Palli",
-            "tmx_id": 111111,
-            "released": true,
-            "week": 2
+            "tmx_id": 111111
         },
         {
             "name": "Mama",
             "author": "Joe",
-            "tmx_id": 111111,
-            "released": true,
-            "active": true,
-            "week": 3
+            "tmx_id": 111111
         },
         {
             "name": "TBA",
             "author": "TBA",
-            "tmx_id": 111111,
-            "week": 4
+            "tmx_id": 111111
         },
         {
             "name": "TBA",
             "author": "TBA",
-            "tmx_id": 111111,
-            "week": 5
+            "tmx_id": 111111
         },
         {
             "name": "TBA",
             "author": "TBA",
-            "tmx_id": 111111,
-            "week": 6
+            "tmx_id": 111111
         },
         {
             "name": "TBA",
             "author": "TBA",
-            "tmx_id": 111111,
-            "week": 7
+            "tmx_id": 111111
         },
         {
             "name": "TBA",
             "author": "TBA",
-            "tmx_id": 111111,
-            "week": 8
+            "tmx_id": 111111
         }
     ]
 }
