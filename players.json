@@ -1,40 +1,40 @@
 [
   {
-    "player_id": "17868d60-b494-4b88-81df-f4ddfdae1cf1",
-    "player_name": "Evo.Chris92",
+    "id": "3467014a-c1cc-4aae-99fe-6beb5eca232a",
+    "name": "Mr.Joermungandr",
     "zone": {
-      "continent": "Germany",
-      "country": "Bayern",
-      "state": "Passau",
-      "city": "Passau"
-    }
-  },
-  {
-    "player_id": "3467014a-c1cc-4aae-99fe-6beb5eca232a",
-    "player_name": "Mr.Joermungandr",
-    "zone": {
-      "continent": "Germany",
-      "country": "Bayern",
-      "state": "München",
+      "continent": "Europe",
+      "country": "Germany",
+      "state": "Bayern",
       "city": "München"
     }
   },
   {
-    "player_id": "8b80148d-72a7-45fb-86b8-730e6972cfef",
-    "player_name": "Linden.CC",
+    "id": "8b80148d-72a7-45fb-86b8-730e6972cfef",
+    "name": "Linden.CC",
     "zone": {
-      "continent": "Sweden",
-      "country": null,
+      "continent": "Europe",
+      "country": "Sweden",
       "state": null,
       "city": null
     }
   },
   {
-    "player_id": "0c4df246-cd29-409f-8a7c-327214d79acd",
-    "player_name": "Evo.Palli",
+    "id": "17868d60-b494-4b88-81df-f4ddfdae1cf1",
+    "name": "Evo.Chris92",
     "zone": {
-      "continent": "Denmark",
-      "country": null,
+      "continent": "Europe",
+      "country": "Germany",
+      "state": "Bayern",
+      "city": "Passau"
+    }
+  },
+  {
+    "id": "0c4df246-cd29-409f-8a7c-327214d79acd",
+    "name": "Evo.Palli",
+    "zone": {
+      "continent": "Europe",
+      "country": "Denmark",
       "state": null,
       "city": null
     }
