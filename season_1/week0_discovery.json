@@ -116,7 +116,7 @@
         ]
       },
       {
-        "position": 1,
+        "position": null,
         "points": 1955,
         "time": null,
         "checkpoints": []
@@ -136,19 +136,19 @@
         ]
       },
       {
-        "position": 1,
+        "position": null,
         "points": 2205,
         "time": null,
         "checkpoints": []
       },
       {
-        "position": 1,
+        "position": null,
         "points": 2205,
         "time": null,
         "checkpoints": []
       },
       {
-        "position": 1,
+        "position": null,
         "points": 2205,
         "time": null,
         "checkpoints": []
@@ -182,7 +182,7 @@
         ]
       },
       {
-        "position": 1,
+        "position": null,
         "points": 2705,
         "time": null,
         "checkpoints": []
@@ -194,7 +194,7 @@
     "total_points": 2100,
     "rounds": [
       {
-        "position": 4,
+        "position": null,
         "points": 0,
         "time": null,
         "checkpoints": []
@@ -228,7 +228,7 @@
         ]
       },
       {
-        "position": 3,
+        "position": null,
         "points": 440,
         "time": null,
         "checkpoints": []
@@ -304,25 +304,25 @@
         ]
       },
       {
-        "position": 2,
+        "position": null,
         "points": 1645,
         "time": null,
         "checkpoints": []
       },
       {
-        "position": 2,
+        "position": null,
         "points": 1645,
         "time": null,
         "checkpoints": []
       },
       {
-        "position": 2,
+        "position": null,
         "points": 1645,
         "time": null,
         "checkpoints": []
       },
       {
-        "position": 2,
+        "position": null,
         "points": 1645,
         "time": null,
         "checkpoints": []
@@ -356,7 +356,7 @@
         ]
       },
       {
-        "position": 2,
+        "position": null,
         "points": 2100,
         "time": null,
         "checkpoints": []
@@ -368,7 +368,7 @@
     "total_points": 1995,
     "rounds": [
       {
-        "position": 3,
+        "position": null,
         "points": 0,
         "time": null,
         "checkpoints": []
@@ -402,13 +402,13 @@
         ]
       },
       {
-        "position": 2,
+        "position": null,
         "points": 470,
         "time": null,
         "checkpoints": []
       },
       {
-        "position": 3,
+        "position": null,
         "points": 470,
         "time": null,
         "checkpoints": []
@@ -428,7 +428,7 @@
         ]
       },
       {
-        "position": 4,
+        "position": null,
         "points": 675,
         "time": null,
         "checkpoints": []
@@ -476,7 +476,7 @@
         ]
       },
       {
-        "position": 3,
+        "position": null,
         "points": 1350,
         "time": null,
         "checkpoints": []
@@ -496,7 +496,7 @@
         ]
       },
       {
-        "position": 3,
+        "position": null,
         "points": 1585,
         "time": null,
         "checkpoints": []
@@ -530,7 +530,7 @@
         ]
       },
       {
-        "position": 3,
+        "position": null,
         "points": 1995,
         "time": null,
         "checkpoints": []
@@ -556,19 +556,19 @@
         ]
       },
       {
-        "position": 2,
+        "position": null,
         "points": 250,
         "time": null,
         "checkpoints": []
       },
       {
-        "position": 4,
+        "position": null,
         "points": 250,
         "time": null,
         "checkpoints": []
       },
       {
-        "position": 4,
+        "position": null,
         "points": 250,
         "time": null,
         "checkpoints": []
@@ -602,13 +602,13 @@
         ]
       },
       {
-        "position": 3,
+        "position": null,
         "points": 690,
         "time": null,
         "checkpoints": []
       },
       {
-        "position": 4,
+        "position": null,
         "points": 690,
         "time": null,
         "checkpoints": []
@@ -628,13 +628,13 @@
         ]
       },
       {
-        "position": 4,
+        "position": null,
         "points": 940,
         "time": null,
         "checkpoints": []
       },
       {
-        "position": 4,
+        "position": null,
         "points": 940,
         "time": null,
         "checkpoints": []
@@ -654,7 +654,7 @@
         ]
       },
       {
-        "position": 4,
+        "position": null,
         "points": 1190,
         "time": null,
         "checkpoints": []
