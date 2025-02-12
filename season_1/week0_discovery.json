@@ -1,72 +1,704 @@
 [
   {
-    "id": "17868d60-b494-4b88-81df-f4ddfdae1cf1",
-    "total_points": 1100,
+    "id": "3f9c1ad1-98f8-4c69-86d8-0c93ea18b9c2",
+    "total_points": 2705,
     "rounds": [
       {
-        "position": 1,
-        "points": 550,
-        "time": 11931,
+        "position": 2,
+        "points": 235,
+        "time": 42419,
         "checkpoints": [
-          7045,
-          11931
+          5278,
+          12235,
+          16330,
+          24525,
+          27972,
+          33468,
+          42419
         ]
       },
       {
         "position": 1,
-        "points": 1100,
-        "time": 11876,
+        "points": 485,
+        "time": 38818,
         "checkpoints": [
-          7015,
-          11876
+          6468,
+          13838,
+          17998,
+          26233,
+          29711,
+          35088,
+          38818
         ]
+      },
+      {
+        "position": 1,
+        "points": 735,
+        "time": 37988,
+        "checkpoints": [
+          5281,
+          12262,
+          16335,
+          24915,
+          28421,
+          33911,
+          37988
+        ]
+      },
+      {
+        "position": 1,
+        "points": 985,
+        "time": 38618,
+        "checkpoints": [
+          5265,
+          12215,
+          16914,
+          25743,
+          29254,
+          34690,
+          38618
+        ]
+      },
+      {
+        "position": 1,
+        "points": 1235,
+        "time": 39258,
+        "checkpoints": [
+          5260,
+          13165,
+          17338,
+          25921,
+          29377,
+          35102,
+          39258
+        ]
+      },
+      {
+        "position": 1,
+        "points": 1470,
+        "time": 38958,
+        "checkpoints": [
+          5257,
+          12211,
+          16388,
+          25485,
+          29109,
+          34987,
+          38958
+        ]
+      },
+      {
+        "position": 1,
+        "points": 1720,
+        "time": 38522,
+        "checkpoints": [
+          5521,
+          12557,
+          16670,
+          25288,
+          28837,
+          34579,
+          38522
+        ]
+      },
+      {
+        "position": 1,
+        "points": 1955,
+        "time": 41108,
+        "checkpoints": [
+          7954,
+          16198,
+          20290,
+          28670,
+          32133,
+          37442,
+          41108
+        ]
+      },
+      {
+        "position": 1,
+        "points": 1955,
+        "time": null,
+        "checkpoints": []
+      },
+      {
+        "position": 1,
+        "points": 2205,
+        "time": 37735,
+        "checkpoints": [
+          5294,
+          12331,
+          16492,
+          25194,
+          28714,
+          34058,
+          37735
+        ]
+      },
+      {
+        "position": 1,
+        "points": 2205,
+        "time": null,
+        "checkpoints": []
+      },
+      {
+        "position": 1,
+        "points": 2205,
+        "time": null,
+        "checkpoints": []
+      },
+      {
+        "position": 1,
+        "points": 2205,
+        "time": null,
+        "checkpoints": []
+      },
+      {
+        "position": 1,
+        "points": 2455,
+        "time": 37858,
+        "checkpoints": [
+          5265,
+          12588,
+          16727,
+          24916,
+          28387,
+          33914,
+          37858
+        ]
+      },
+      {
+        "position": 1,
+        "points": 2705,
+        "time": 37288,
+        "checkpoints": [
+          5245,
+          12337,
+          16487,
+          24666,
+          28107,
+          33405,
+          37288
+        ]
+      },
+      {
+        "position": 1,
+        "points": 2705,
+        "time": null,
+        "checkpoints": []
       }
     ]
   },
   {
     "id": "0c4df246-cd29-409f-8a7c-327214d79acd",
-    "total_points": 950,
+    "total_points": 2100,
     "rounds": [
       {
-        "position": 3,
-        "points": 450,
-        "time": 13871,
+        "position": 4,
+        "points": 0,
+        "time": null,
+        "checkpoints": []
+      },
+      {
+        "position": 4,
+        "points": 220,
+        "time": 45432,
         "checkpoints": [
-          7087,
-          13871
+          5332,
+          12645,
+          17118,
+          26562,
+          31066,
+          36808,
+          45432
+        ]
+      },
+      {
+        "position": 3,
+        "points": 440,
+        "time": 40075,
+        "checkpoints": [
+          6129,
+          13513,
+          17815,
+          27000,
+          30657,
+          36338,
+          40075
+        ]
+      },
+      {
+        "position": 3,
+        "points": 440,
+        "time": null,
+        "checkpoints": []
+      },
+      {
+        "position": 2,
+        "points": 675,
+        "time": 39582,
+        "checkpoints": [
+          5380,
+          12615,
+          17345,
+          26368,
+          29918,
+          35557,
+          39582
         ]
       },
       {
         "position": 2,
-        "points": 950,
-        "time": 12802,
+        "points": 925,
+        "time": 38887,
         "checkpoints": [
-          7035,
-          12802
+          5343,
+          12451,
+          16772,
+          25738,
+          29328,
+          34884,
+          38887
         ]
+      },
+      {
+        "position": 2,
+        "points": 1160,
+        "time": 39207,
+        "checkpoints": [
+          5388,
+          12474,
+          16862,
+          25408,
+          29339,
+          35147,
+          39207
+        ]
+      },
+      {
+        "position": 2,
+        "points": 1410,
+        "time": 38348,
+        "checkpoints": [
+          5426,
+          12700,
+          16885,
+          25632,
+          29094,
+          34454,
+          38348
+        ]
+      },
+      {
+        "position": 2,
+        "points": 1645,
+        "time": 39582,
+        "checkpoints": [
+          5350,
+          12448,
+          17155,
+          25704,
+          29809,
+          35597,
+          39582
+        ]
+      },
+      {
+        "position": 2,
+        "points": 1645,
+        "time": null,
+        "checkpoints": []
+      },
+      {
+        "position": 2,
+        "points": 1645,
+        "time": null,
+        "checkpoints": []
+      },
+      {
+        "position": 2,
+        "points": 1645,
+        "time": null,
+        "checkpoints": []
+      },
+      {
+        "position": 2,
+        "points": 1645,
+        "time": null,
+        "checkpoints": []
+      },
+      {
+        "position": 2,
+        "points": 1865,
+        "time": 40159,
+        "checkpoints": [
+          6004,
+          13103,
+          17478,
+          26661,
+          30299,
+          36128,
+          40159
+        ]
+      },
+      {
+        "position": 2,
+        "points": 2100,
+        "time": 50689,
+        "checkpoints": [
+          5535,
+          12741,
+          17127,
+          25807,
+          29349,
+          35264,
+          50689
+        ]
+      },
+      {
+        "position": 2,
+        "points": 2100,
+        "time": null,
+        "checkpoints": []
       }
     ]
   },
   {
     "id": "3467014a-c1cc-4aae-99fe-6beb5eca232a",
-    "total_points": 950,
+    "total_points": 1995,
     "rounds": [
       {
-        "position": 2,
-        "points": 500,
-        "time": 13755,
+        "position": 3,
+        "points": 0,
+        "time": null,
+        "checkpoints": []
+      },
+      {
+        "position": 3,
+        "points": 235,
+        "time": 45218,
         "checkpoints": [
-          8620,
-          13755
+          5300,
+          12332,
+          16484,
+          25733,
+          29312,
+          41188,
+          45218
+        ]
+      },
+      {
+        "position": 2,
+        "points": 470,
+        "time": 38181,
+        "checkpoints": [
+          5278,
+          12336,
+          16602,
+          25262,
+          28771,
+          34227,
+          38181
+        ]
+      },
+      {
+        "position": 2,
+        "points": 470,
+        "time": null,
+        "checkpoints": []
+      },
+      {
+        "position": 3,
+        "points": 470,
+        "time": null,
+        "checkpoints": []
+      },
+      {
+        "position": 4,
+        "points": 675,
+        "time": 39905,
+        "checkpoints": [
+          5268,
+          12344,
+          16453,
+          26349,
+          30144,
+          36058,
+          39905
+        ]
+      },
+      {
+        "position": 4,
+        "points": 675,
+        "time": null,
+        "checkpoints": []
+      },
+      {
+        "position": 3,
+        "points": 895,
+        "time": 52532,
+        "checkpoints": [
+          9661,
+          17148,
+          21625,
+          30596,
+          34176,
+          39620,
+          52532
         ]
       },
       {
         "position": 3,
-        "points": 950,
-        "time": 12818,
+        "points": 1115,
+        "time": 42224,
         "checkpoints": [
-          7010,
-          12818
+          9745,
+          16832,
+          21162,
+          29834,
+          33259,
+          38515,
+          42224
+        ]
+      },
+      {
+        "position": 3,
+        "points": 1350,
+        "time": 37991,
+        "checkpoints": [
+          5304,
+          12405,
+          16788,
+          25290,
+          28704,
+          34065,
+          37991
+        ]
+      },
+      {
+        "position": 3,
+        "points": 1350,
+        "time": null,
+        "checkpoints": []
+      },
+      {
+        "position": 3,
+        "points": 1585,
+        "time": 44632,
+        "checkpoints": [
+          5318,
+          12460,
+          16702,
+          25510,
+          29046,
+          40722,
+          44632
+        ]
+      },
+      {
+        "position": 3,
+        "points": 1585,
+        "time": null,
+        "checkpoints": []
+      },
+      {
+        "position": 3,
+        "points": 1790,
+        "time": 48944,
+        "checkpoints": [
+          5287,
+          12321,
+          16668,
+          25672,
+          29165,
+          34527,
+          48944
+        ]
+      },
+      {
+        "position": 3,
+        "points": 1995,
+        "time": 54562,
+        "checkpoints": [
+          5312,
+          12482,
+          16586,
+          25808,
+          29332,
+          50812,
+          54562
+        ]
+      },
+      {
+        "position": 3,
+        "points": 1995,
+        "time": null,
+        "checkpoints": []
+      }
+    ]
+  },
+  {
+    "id": "17868d60-b494-4b88-81df-f4ddfdae1cf1",
+    "total_points": 1895,
+    "rounds": [
+      {
+        "position": 1,
+        "points": 250,
+        "time": 39742,
+        "checkpoints": [
+          5320,
+          12461,
+          16828,
+          25710,
+          29852,
+          35791,
+          39742
+        ]
+      },
+      {
+        "position": 2,
+        "points": 250,
+        "time": null,
+        "checkpoints": []
+      },
+      {
+        "position": 4,
+        "points": 250,
+        "time": null,
+        "checkpoints": []
+      },
+      {
+        "position": 4,
+        "points": 250,
+        "time": null,
+        "checkpoints": []
+      },
+      {
+        "position": 4,
+        "points": 470,
+        "time": 39635,
+        "checkpoints": [
+          5391,
+          12656,
+          17074,
+          26087,
+          29973,
+          35622,
+          39635
+        ]
+      },
+      {
+        "position": 3,
+        "points": 690,
+        "time": 39564,
+        "checkpoints": [
+          5378,
+          12660,
+          17098,
+          26065,
+          29691,
+          35442,
+          39564
+        ]
+      },
+      {
+        "position": 3,
+        "points": 690,
+        "time": null,
+        "checkpoints": []
+      },
+      {
+        "position": 4,
+        "points": 690,
+        "time": null,
+        "checkpoints": []
+      },
+      {
+        "position": 4,
+        "points": 940,
+        "time": 39278,
+        "checkpoints": [
+          5284,
+          12340,
+          16688,
+          25060,
+          29241,
+          35278,
+          39278
+        ]
+      },
+      {
+        "position": 4,
+        "points": 940,
+        "time": null,
+        "checkpoints": []
+      },
+      {
+        "position": 4,
+        "points": 940,
+        "time": null,
+        "checkpoints": []
+      },
+      {
+        "position": 4,
+        "points": 1190,
+        "time": 39147,
+        "checkpoints": [
+          5268,
+          12367,
+          16698,
+          25580,
+          29212,
+          34945,
+          39147
+        ]
+      },
+      {
+        "position": 4,
+        "points": 1190,
+        "time": null,
+        "checkpoints": []
+      },
+      {
+        "position": 4,
+        "points": 1425,
+        "time": 38965,
+        "checkpoints": [
+          5285,
+          12453,
+          16795,
+          26134,
+          29796,
+          35141,
+          38965
+        ]
+      },
+      {
+        "position": 4,
+        "points": 1645,
+        "time": 53857,
+        "checkpoints": [
+          5300,
+          12467,
+          16765,
+          25824,
+          29397,
+          35385,
+          53857
+        ]
+      },
+      {
+        "position": 4,
+        "points": 1895,
+        "time": 44928,
+        "checkpoints": [
+          10247,
+          17576,
+          22024,
+          31271,
+          34962,
+          40792,
+          44928
         ]
       }
     ]
