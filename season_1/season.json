@@ -2,50 +2,35 @@
     "current_week": 1,
     "maps": [
         {
-            "name": "MayThe4th",
-            "author": "Presets",
-            "tmx_id": 111111,
+            "name": "Drojobis",
+            "author": "oPresets",
+            "tmx_id": 160721,
             "medals": {
-                "author": 3,
-                "gold": 6,
-                "silver": 66,
-                "bronze": 222
+                "author": 41792,
+                "gold": 45000,
+                "silver": 51000,
+                "bronze": 63000
             }
-        },
-        {
-            "name": "Sparkles",
-            "author": "Palli",
-            "tmx_id": 111111
-        },
-        {
-            "name": "Mama",
-            "author": "Joe",
-            "tmx_id": 111111
-        },
-        {
-            "name": "TBA",
-            "author": "TBA",
-            "tmx_id": 111111
-        },
-        {
-            "name": "TBA",
-            "author": "TBA",
-            "tmx_id": 111111
-        },
-        {
-            "name": "TBA",
-            "author": "TBA",
-            "tmx_id": 111111
-        },
-        {
-            "name": "TBA",
-            "author": "TBA",
-            "tmx_id": 111111
-        },
-        {
-            "name": "TBA",
-            "author": "TBA",
-            "tmx_id": 111111
+        }, {
+            "name": "HUMBLE.",
+            "author": "mime.wp",
+            "tmx_id": 224700,
+            "medals": {
+                "author": 49858,
+                "gold": 53000,
+                "silver": 60000,
+                "bronze": 75000
+            }
+        }, {
+            "name": "Colors ft' sqlc, mime",
+            "author": "speq",
+            "tmx_id": 216943,
+            "medals": {
+                "author": 47984,
+                "gold": 51000,
+                "silver": 58000,
+                "bronze": 72000
+            }
         }
     ]
 }
