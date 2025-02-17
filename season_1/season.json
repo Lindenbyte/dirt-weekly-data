@@ -1,36 +1,53 @@
 {
-    "current_week": 3,
+    "current_week": 0,
     "maps": [
         {
-            "name": "Drojobis",
-            "author": "oPresets",
-            "tmx_id": 160721,
-            "medals": {
-                "author": 41792,
-                "gold": 45000,
-                "silver": 51000,
-                "bronze": 63000
-            }
-        }, {
-            "name": "HUMBLE.",
-            "author": "mime.wp",
-            "tmx_id": 224700,
-            "medals": {
-                "author": 49858,
-                "gold": 53000,
-                "silver": 60000,
-                "bronze": 75000
-            }
-        }, {
-            "name": "Colors ft' sqlc, mime",
+            "name": "TBA",
+            "author": "mime",
+            "tmx_id": null,
+            "medals": null
+        },
+        {
+            "name": "TBA",
+            "author": "Doogie",
+            "tmx_id": null,
+            "medals": null
+        },
+        {
+            "name": "TBA",
             "author": "speq",
-            "tmx_id": 216943,
-            "medals": {
-                "author": 47984,
-                "gold": 51000,
-                "silver": 58000,
-                "bronze": 72000
-            }
+            "tmx_id": null,
+            "medals": null
+        },
+        {
+            "name": "TBA",
+            "author": "Thounej",
+            "tmx_id": null,
+            "medals": null
+        },
+        {
+            "name": "TBA",
+            "author": "Flüffel",
+            "tmx_id": null,
+            "medals": null
+        },
+        {
+            "name": "TBA",
+            "author": "velv",
+            "tmx_id": null,
+            "medals": null
+        },
+        {
+            "name": "TBA",
+            "author": "Sqlc",
+            "tmx_id": null,
+            "medals": null
+        },
+        {
+            "name": "TBA",
+            "author": "Sqweegel",
+            "tmx_id": null,
+            "medals": null
         }
     ]
 }
