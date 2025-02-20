@@ -1,3 +1,53 @@
 {
-    "current_week": 0
+    "current_week": 0,
+    "maps": [
+        {
+            "name": "TBA",
+            "author": "mime",
+            "tmx_id": null,
+            "medals": null
+        },
+        {
+            "name": "TBA",
+            "author": "Doogie",
+            "tmx_id": null,
+            "medals": null
+        },
+        {
+            "name": "TBA",
+            "author": "speq",
+            "tmx_id": null,
+            "medals": null
+        },
+        {
+            "name": "TBA",
+            "author": "Thounej",
+            "tmx_id": null,
+            "medals": null
+        },
+        {
+            "name": "TBA",
+            "author": "Flüffel",
+            "tmx_id": null,
+            "medals": null
+        },
+        {
+            "name": "TBA",
+            "author": "velv",
+            "tmx_id": null,
+            "medals": null
+        },
+        {
+            "name": "TBA",
+            "author": "Sqlc",
+            "tmx_id": null,
+            "medals": null
+        },
+        {
+            "name": "TBA",
+            "author": "Sqweegel",
+            "tmx_id": null,
+            "medals": null
+        }
+    ]
 }
