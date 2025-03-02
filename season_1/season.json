@@ -4,6 +4,8 @@
         {
             "name": "Drojobis",
             "author": "oPresets",
+            "author_id": "iugnhiufdhuhgniudfbnhg",
+            "map_uid": "LErkJnoPnX3Jcca_IThO9vLLQ5b",
             "tmx_id": 160721,
             "medals": {
                 "author": 41792,
@@ -11,9 +13,12 @@
                 "silver": 51000,
                 "bronze": 63000
             }
-        }, {
+        },
+        {
             "name": "HUMBLE.",
             "author": "mime.wp",
+            "author_id": "iugnhiufdhuhgniudfbnhg",
+            "map_uid": "LErkJnoPnX3Jcca_IThO9vLLQ5b",
             "tmx_id": 224700,
             "medals": {
                 "author": 49858,
@@ -21,9 +26,12 @@
                 "silver": 60000,
                 "bronze": 75000
             }
-        }, {
+        },
+        {
             "name": "Colors ft' sqlc, mime",
             "author": "speq",
+            "author_id": "iugnhiufdhuhgniudfbnhg",
+            "map_uid": "LErkJnoPnX3Jcca_IThO9vLLQ5b",
             "tmx_id": 216943,
             "medals": {
                 "author": 47984,
