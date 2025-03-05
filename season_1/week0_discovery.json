@@ -2,11 +2,13 @@
   {
     "id": "3f9c1ad1-98f8-4c69-86d8-0c93ea18b9c2",
     "total_points": 2705,
+    "best_time": 37288,
     "rounds": [
       {
         "position": 2,
         "points": 235,
         "time": 42419,
+        "best_time": 42419,
         "checkpoints": [
           5278,
           12235,
@@ -21,6 +23,7 @@
         "position": 1,
         "points": 485,
         "time": 38818,
+        "best_time": 38818,
         "checkpoints": [
           6468,
           13838,
@@ -35,6 +38,7 @@
         "position": 1,
         "points": 735,
         "time": 37988,
+        "best_time": 37988,
         "checkpoints": [
           5281,
           12262,
@@ -49,6 +53,7 @@
         "position": 1,
         "points": 985,
         "time": 38618,
+        "best_time": 37988,
         "checkpoints": [
           5265,
           12215,
@@ -63,6 +68,7 @@
         "position": 1,
         "points": 1235,
         "time": 39258,
+        "best_time": 37988,
         "checkpoints": [
           5260,
           13165,
@@ -77,6 +83,7 @@
         "position": 1,
         "points": 1470,
         "time": 38958,
+        "best_time": 37988,
         "checkpoints": [
           5257,
           12211,
@@ -91,6 +98,7 @@
         "position": 1,
         "points": 1720,
         "time": 38522,
+        "best_time": 37988,
         "checkpoints": [
           5521,
           12557,
@@ -105,6 +113,7 @@
         "position": 1,
         "points": 1955,
         "time": 41108,
+        "best_time": 37988,
         "checkpoints": [
           7954,
           16198,
@@ -119,12 +128,14 @@
         "position": null,
         "points": 1955,
         "time": null,
+        "best_time": 37988,
         "checkpoints": []
       },
       {
         "position": 1,
         "points": 2205,
         "time": 37735,
+        "best_time": 37735,
         "checkpoints": [
           5294,
           12331,
@@ -139,24 +150,28 @@
         "position": null,
         "points": 2205,
         "time": null,
+        "best_time": 37735,
         "checkpoints": []
       },
       {
         "position": null,
         "points": 2205,
         "time": null,
+        "best_time": 37735,
         "checkpoints": []
       },
       {
         "position": null,
         "points": 2205,
         "time": null,
+        "best_time": 37735,
         "checkpoints": []
       },
       {
         "position": 1,
         "points": 2455,
         "time": 37858,
+        "best_time": 37735,
         "checkpoints": [
           5265,
           12588,
@@ -171,6 +186,7 @@
         "position": 1,
         "points": 2705,
         "time": 37288,
+        "best_time": 37288,
         "checkpoints": [
           5245,
           12337,
@@ -185,6 +201,7 @@
         "position": null,
         "points": 2705,
         "time": null,
+        "best_time": 37288,
         "checkpoints": []
       }
     ]
@@ -192,17 +209,20 @@
   {
     "id": "0c4df246-cd29-409f-8a7c-327214d79acd",
     "total_points": 2100,
+    "best_time": 38348,
     "rounds": [
       {
         "position": null,
         "points": 0,
         "time": null,
+        "best_time": null,
         "checkpoints": []
       },
       {
         "position": 4,
         "points": 220,
         "time": 45432,
+        "best_time": 45432,
         "checkpoints": [
           5332,
           12645,
@@ -217,6 +237,7 @@
         "position": 3,
         "points": 440,
         "time": 40075,
+        "best_time": 40075,
         "checkpoints": [
           6129,
           13513,
@@ -231,12 +252,14 @@
         "position": null,
         "points": 440,
         "time": null,
+        "best_time": 40075,
         "checkpoints": []
       },
       {
         "position": 2,
         "points": 675,
         "time": 39582,
+        "best_time": 39582,
         "checkpoints": [
           5380,
           12615,
@@ -251,6 +274,7 @@
         "position": 2,
         "points": 925,
         "time": 38887,
+        "best_time": 38887,
         "checkpoints": [
           5343,
           12451,
@@ -265,6 +289,7 @@
         "position": 2,
         "points": 1160,
         "time": 39207,
+        "best_time": 38887,
         "checkpoints": [
           5388,
           12474,
@@ -279,6 +304,7 @@
         "position": 2,
         "points": 1410,
         "time": 38348,
+        "best_time": 38348,
         "checkpoints": [
           5426,
           12700,
@@ -293,6 +319,7 @@
         "position": 2,
         "points": 1645,
         "time": 39582,
+        "best_time": 38348,
         "checkpoints": [
           5350,
           12448,
@@ -307,30 +334,35 @@
         "position": null,
         "points": 1645,
         "time": null,
+        "best_time": 38348,
         "checkpoints": []
       },
       {
         "position": null,
         "points": 1645,
         "time": null,
+        "best_time": 38348,
         "checkpoints": []
       },
       {
         "position": null,
         "points": 1645,
         "time": null,
+        "best_time": 38348,
         "checkpoints": []
       },
       {
         "position": null,
         "points": 1645,
         "time": null,
+        "best_time": 38348,
         "checkpoints": []
       },
       {
         "position": 2,
         "points": 1865,
         "time": 40159,
+        "best_time": 38348,
         "checkpoints": [
           6004,
           13103,
@@ -345,6 +377,7 @@
         "position": 2,
         "points": 2100,
         "time": 50689,
+        "best_time": 38348,
         "checkpoints": [
           5535,
           12741,
@@ -359,6 +392,7 @@
         "position": null,
         "points": 2100,
         "time": null,
+        "best_time": 38348,
         "checkpoints": []
       }
     ]
@@ -366,17 +400,20 @@
   {
     "id": "3467014a-c1cc-4aae-99fe-6beb5eca232a",
     "total_points": 1995,
+    "best_time": 37991,
     "rounds": [
       {
         "position": null,
         "points": 0,
         "time": null,
+        "best_time": null,
         "checkpoints": []
       },
       {
         "position": 3,
         "points": 235,
         "time": 45218,
+        "best_time": 45218,
         "checkpoints": [
           5300,
           12332,
@@ -391,6 +428,7 @@
         "position": 2,
         "points": 470,
         "time": 38181,
+        "best_time": 38181,
         "checkpoints": [
           5278,
           12336,
@@ -405,18 +443,21 @@
         "position": null,
         "points": 470,
         "time": null,
+        "best_time": 38181,
         "checkpoints": []
       },
       {
         "position": null,
         "points": 470,
         "time": null,
+        "best_time": 38181,
         "checkpoints": []
       },
       {
         "position": 4,
         "points": 675,
         "time": 39905,
+        "best_time": 38181,
         "checkpoints": [
           5268,
           12344,
@@ -431,12 +472,14 @@
         "position": null,
         "points": 675,
         "time": null,
+        "best_time": 38181,
         "checkpoints": []
       },
       {
         "position": 3,
         "points": 895,
         "time": 52532,
+        "best_time": 38181,
         "checkpoints": [
           9661,
           17148,
@@ -451,6 +494,7 @@
         "position": 3,
         "points": 1115,
         "time": 42224,
+        "best_time": 38181,
         "checkpoints": [
           9745,
           16832,
@@ -465,6 +509,7 @@
         "position": 3,
         "points": 1350,
         "time": 37991,
+        "best_time": 37991,
         "checkpoints": [
           5304,
           12405,
@@ -479,12 +524,14 @@
         "position": null,
         "points": 1350,
         "time": null,
+        "best_time": 37991,
         "checkpoints": []
       },
       {
         "position": 3,
         "points": 1585,
         "time": 44632,
+        "best_time": 37991,
         "checkpoints": [
           5318,
           12460,
@@ -499,12 +546,14 @@
         "position": null,
         "points": 1585,
         "time": null,
+        "best_time": 37991,
         "checkpoints": []
       },
       {
         "position": 3,
         "points": 1790,
         "time": 48944,
+        "best_time": 37991,
         "checkpoints": [
           5287,
           12321,
@@ -519,6 +568,7 @@
         "position": 3,
         "points": 1995,
         "time": 54562,
+        "best_time": 37991,
         "checkpoints": [
           5312,
           12482,
@@ -533,6 +583,7 @@
         "position": null,
         "points": 1995,
         "time": null,
+        "best_time": 37991,
         "checkpoints": []
       }
     ]
@@ -540,11 +591,13 @@
   {
     "id": "17868d60-b494-4b88-81df-f4ddfdae1cf1",
     "total_points": 1895,
+    "best_time": 38965,
     "rounds": [
       {
         "position": 1,
         "points": 250,
         "time": 39742,
+        "best_time": 39742,
         "checkpoints": [
           5320,
           12461,
@@ -559,24 +612,28 @@
         "position": null,
         "points": 250,
         "time": null,
+        "best_time": 39742,
         "checkpoints": []
       },
       {
         "position": null,
         "points": 250,
         "time": null,
+        "best_time": 39742,
         "checkpoints": []
       },
       {
         "position": null,
         "points": 250,
         "time": null,
+        "best_time": 39742,
         "checkpoints": []
       },
       {
         "position": 4,
         "points": 470,
         "time": 39635,
+        "best_time": 39635,
         "checkpoints": [
           5391,
           12656,
@@ -591,6 +648,7 @@
         "position": 3,
         "points": 690,
         "time": 39564,
+        "best_time": 39564,
         "checkpoints": [
           5378,
           12660,
@@ -605,18 +663,21 @@
         "position": null,
         "points": 690,
         "time": null,
+        "best_time": 39564,
         "checkpoints": []
       },
       {
         "position": null,
         "points": 690,
         "time": null,
+        "best_time": 39564,
         "checkpoints": []
       },
       {
         "position": 4,
         "points": 940,
         "time": 39278,
+        "best_time": 39278,
         "checkpoints": [
           5284,
           12340,
@@ -631,18 +692,21 @@
         "position": null,
         "points": 940,
         "time": null,
+        "best_time": 39278,
         "checkpoints": []
       },
       {
         "position": null,
         "points": 940,
         "time": null,
+        "best_time": 39278,
         "checkpoints": []
       },
       {
         "position": 4,
         "points": 1190,
         "time": 39147,
+        "best_time": 39147,
         "checkpoints": [
           5268,
           12367,
@@ -657,12 +721,14 @@
         "position": null,
         "points": 1190,
         "time": null,
+        "best_time": 39147,
         "checkpoints": []
       },
       {
         "position": 4,
         "points": 1425,
         "time": 38965,
+        "best_time": 38965,
         "checkpoints": [
           5285,
           12453,
@@ -677,6 +743,7 @@
         "position": 4,
         "points": 1645,
         "time": 53857,
+        "best_time": 38965,
         "checkpoints": [
           5300,
           12467,
@@ -691,6 +758,7 @@
         "position": 4,
         "points": 1895,
         "time": 44928,
+        "best_time": 38965,
         "checkpoints": [
           10247,
           17576,
