@@ -1,11 +1,18 @@
 {
-    "current_week": 0,
+    "current_week": 1,
     "maps": [
         {
-            "name": "TBA",
+            "name": "Sugar",
             "author": "mime",
-            "tmx_id": null,
-            "medals": null
+            "author_id": "fb678553-f730-442a-a035-dfc50f4a5b7b",
+            "tmx_id": 229237,
+            "map_uid": "awG5iLLQONap4IMigEhGqPThgNm",
+            "medals": {
+                "author": 47617,
+                "gold": 51000,
+                "silver": 58000,
+                "bronze": 112000
+            }
         },
         {
             "name": "TBA",
