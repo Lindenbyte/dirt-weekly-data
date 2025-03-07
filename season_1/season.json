@@ -2,16 +2,42 @@
     "current_week": 1,
     "maps": [
         {
-            "name": "DW25 - Sugar",
-            "author": "mime.wp",
-            "author_id": "iugnhiufdhuhgniudfbnhg",
-            "map_uid": "LErkJnoPnX3Jcca_IThO9vLLQ5b",
+            "name": "Sugar",
+            "author": "mime",
+            "author_id": "fb678553-f730-442a-a035-dfc50f4a5b7b",
+            "map_uid": "awG5iLLQONap4IMigEhGqPThgNm",
             "tmx_id": 229237,
             "medals": {
-                "author": 41792,
-                "gold": 45000,
-                "silver": 51000,
-                "bronze": 63000
+                "author": 47617,
+                "gold": 51000,
+                "silver": 58000,
+                "bronze": 112000
+            }
+        },
+        {
+            "name": "HUMBLE.",
+            "author": "mime.wp",
+            "author_id": "iugnhiufdhuhgniudfbnhg",
+            "map_uid": "LOy5YvDS_SMipe3IzCmGizu041d",
+            "tmx_id": 224700,
+            "medals": {
+                "author": 49858,
+                "gold": 53000,
+                "silver": 60000,
+                "bronze": 75000
+            }
+        },
+        {
+            "name": "Colors ft' sqlc, mime",
+            "author": "speq",
+            "author_id": "iugnhiufdhuhgniudfbnhg",
+            "map_uid": "LErkJnoPnX3Jcca_IThO9vLLQ5b",
+            "tmx_id": 216943,
+            "medals": {
+                "author": 47984,
+                "gold": 51000,
+                "silver": 58000,
+                "bronze": 72000
             }
         }
     ]
