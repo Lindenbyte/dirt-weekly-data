@@ -1,1 +1,3293 @@
-[]
+[
+  {
+    "id": "933bd9f0-a738-49b8-b7b1-b55fe315aef4",
+    "total_points": 4413,
+    "best_time": 11805,
+    "rounds": [
+      {
+        "position": 5,
+        "round_position": 5,
+        "points": 443,
+        "time": 11911,
+        "best_time": 11911,
+        "checkpoints": [
+          6965,
+          11911
+        ]
+      },
+      {
+        "position": 2,
+        "round_position": 2,
+        "points": 943,
+        "time": 11822,
+        "best_time": 11822,
+        "checkpoints": [
+          6961,
+          11822
+        ]
+      },
+      {
+        "position": 1,
+        "round_position": 1,
+        "points": 1428,
+        "time": 11854,
+        "best_time": 11822,
+        "checkpoints": [
+          6958,
+          11854
+        ]
+      },
+      {
+        "position": 1,
+        "round_position": 1,
+        "points": 1928,
+        "time": 11848,
+        "best_time": 11822,
+        "checkpoints": [
+          6952,
+          11848
+        ]
+      },
+      {
+        "position": 1,
+        "round_position": 1,
+        "points": 2413,
+        "time": 11842,
+        "best_time": 11822,
+        "checkpoints": [
+          6951,
+          11842
+        ]
+      },
+      {
+        "position": 1,
+        "round_position": 1,
+        "points": 2913,
+        "time": 11805,
+        "best_time": 11805,
+        "checkpoints": [
+          6958,
+          11805
+        ]
+      },
+      {
+        "position": 1,
+        "round_position": 1,
+        "points": 3413,
+        "time": 11822,
+        "best_time": 11805,
+        "checkpoints": [
+          6955,
+          11822
+        ]
+      },
+      {
+        "position": 1,
+        "round_position": 1,
+        "points": 3913,
+        "time": 11815,
+        "best_time": 11805,
+        "checkpoints": [
+          6968,
+          11815
+        ]
+      },
+      {
+        "position": 1,
+        "round_position": 1,
+        "points": 4413,
+        "time": 11828,
+        "best_time": 11805,
+        "checkpoints": [
+          6964,
+          11828
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c93a6d0f-b756-4c0e-acaf-02d554d892f1",
+    "total_points": 4228,
+    "best_time": 11825,
+    "rounds": [
+      {
+        "position": 1,
+        "round_position": 1,
+        "points": 500,
+        "time": 11878,
+        "best_time": 11878,
+        "checkpoints": [
+          6995,
+          11878
+        ]
+      },
+      {
+        "position": 3,
+        "round_position": 3,
+        "points": 943,
+        "time": 11924,
+        "best_time": 11878,
+        "checkpoints": [
+          6998,
+          11924
+        ]
+      },
+      {
+        "position": 2,
+        "round_position": 2,
+        "points": 1363,
+        "time": 11881,
+        "best_time": 11878,
+        "checkpoints": [
+          6975,
+          11881
+        ]
+      },
+      {
+        "position": 2,
+        "round_position": 2,
+        "points": 1833,
+        "time": 11886,
+        "best_time": 11878,
+        "checkpoints": [
+          6978,
+          11886
+        ]
+      },
+      {
+        "position": 2,
+        "round_position": 2,
+        "points": 2288,
+        "time": 11891,
+        "best_time": 11878,
+        "checkpoints": [
+          7005,
+          11891
+        ]
+      },
+      {
+        "position": 2,
+        "round_position": 2,
+        "points": 2773,
+        "time": 11852,
+        "best_time": 11852,
+        "checkpoints": [
+          6985,
+          11852
+        ]
+      },
+      {
+        "position": 2,
+        "round_position": 2,
+        "points": 3258,
+        "time": 11825,
+        "best_time": 11825,
+        "checkpoints": [
+          6970,
+          11825
+        ]
+      },
+      {
+        "position": 2,
+        "round_position": 2,
+        "points": 3743,
+        "time": 11825,
+        "best_time": 11825,
+        "checkpoints": [
+          6975,
+          11825
+        ]
+      },
+      {
+        "position": 2,
+        "round_position": 2,
+        "points": 4228,
+        "time": 11855,
+        "best_time": 11825,
+        "checkpoints": [
+          6992,
+          11855
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ad433ad7-a6c9-49b2-8d7b-08585f7e3b52",
+    "total_points": 3656,
+    "best_time": 11844,
+    "rounds": [
+      {
+        "position": 11,
+        "round_position": 11,
+        "points": 381,
+        "time": 11978,
+        "best_time": 11978,
+        "checkpoints": [
+          7075,
+          11978
+        ]
+      },
+      {
+        "position": 10,
+        "round_position": 10,
+        "points": 739,
+        "time": 12115,
+        "best_time": 11978,
+        "checkpoints": [
+          7015,
+          12115
+        ]
+      },
+      {
+        "position": 10,
+        "round_position": 10,
+        "points": 1104,
+        "time": 11936,
+        "best_time": 11936,
+        "checkpoints": [
+          7070,
+          11936
+        ]
+      },
+      {
+        "position": 11,
+        "round_position": 11,
+        "points": 1503,
+        "time": 11924,
+        "best_time": 11924,
+        "checkpoints": [
+          7058,
+          11924
+        ]
+      },
+      {
+        "position": 10,
+        "round_position": 10,
+        "points": 1841,
+        "time": 12108,
+        "best_time": 11924,
+        "checkpoints": [
+          6992,
+          12108
+        ]
+      },
+      {
+        "position": 9,
+        "round_position": 9,
+        "points": 2296,
+        "time": 11868,
+        "best_time": 11868,
+        "checkpoints": [
+          7002,
+          11868
+        ]
+      },
+      {
+        "position": 7,
+        "round_position": 7,
+        "points": 2716,
+        "time": 11881,
+        "best_time": 11868,
+        "checkpoints": [
+          6984,
+          11881
+        ]
+      },
+      {
+        "position": 5,
+        "round_position": 5,
+        "points": 3186,
+        "time": 11844,
+        "best_time": 11844,
+        "checkpoints": [
+          6987,
+          11844
+        ]
+      },
+      {
+        "position": 3,
+        "round_position": 3,
+        "points": 3656,
+        "time": 11874,
+        "best_time": 11844,
+        "checkpoints": [
+          6957,
+          11874
+        ]
+      }
+    ]
+  },
+  {
+    "id": "16571370-19b3-449f-9ce0-bc69f8ccf765",
+    "total_points": 3622,
+    "best_time": 11878,
+    "rounds": [
+      {
+        "position": 7,
+        "round_position": 7,
+        "points": 420,
+        "time": 11938,
+        "best_time": 11938,
+        "checkpoints": [
+          7018,
+          11938
+        ]
+      },
+      {
+        "position": 8,
+        "round_position": 8,
+        "points": 764,
+        "time": 12575,
+        "best_time": 11938,
+        "checkpoints": [
+          7392,
+          12575
+        ]
+      },
+      {
+        "position": 9,
+        "round_position": 9,
+        "points": 1163,
+        "time": 11901,
+        "best_time": 11901,
+        "checkpoints": [
+          7004,
+          11901
+        ]
+      },
+      {
+        "position": 7,
+        "round_position": 7,
+        "points": 1594,
+        "time": 11891,
+        "best_time": 11891,
+        "checkpoints": [
+          7002,
+          11891
+        ]
+      },
+      {
+        "position": 9,
+        "round_position": 9,
+        "points": 1916,
+        "time": 12605,
+        "best_time": 11891,
+        "checkpoints": [
+          7241,
+          12605
+        ]
+      },
+      {
+        "position": 7,
+        "round_position": 7,
+        "points": 2359,
+        "time": 11896,
+        "best_time": 11891,
+        "checkpoints": [
+          6997,
+          11896
+        ]
+      },
+      {
+        "position": 5,
+        "round_position": 5,
+        "points": 2758,
+        "time": 11898,
+        "best_time": 11891,
+        "checkpoints": [
+          7013,
+          11898
+        ]
+      },
+      {
+        "position": 6,
+        "round_position": 6,
+        "points": 3167,
+        "time": 11891,
+        "best_time": 11891,
+        "checkpoints": [
+          7012,
+          11891
+        ]
+      },
+      {
+        "position": 4,
+        "round_position": 4,
+        "points": 3622,
+        "time": 11878,
+        "best_time": 11878,
+        "checkpoints": [
+          7008,
+          11878
+        ]
+      }
+    ]
+  },
+  {
+    "id": "459cd6eb-ddd3-4198-80f8-3a4cf75f69c3",
+    "total_points": 3574,
+    "best_time": 11815,
+    "rounds": [
+      {
+        "position": 9,
+        "round_position": 9,
+        "points": 399,
+        "time": 11971,
+        "best_time": 11971,
+        "checkpoints": [
+          6961,
+          11971
+        ]
+      },
+      {
+        "position": 4,
+        "round_position": 4,
+        "points": 884,
+        "time": 11886,
+        "best_time": 11886,
+        "checkpoints": [
+          6968,
+          11886
+        ]
+      },
+      {
+        "position": 5,
+        "round_position": 5,
+        "points": 1257,
+        "time": 11926,
+        "best_time": 11886,
+        "checkpoints": [
+          6948,
+          11926
+        ]
+      },
+      {
+        "position": 5,
+        "round_position": 5,
+        "points": 1666,
+        "time": 11921,
+        "best_time": 11886,
+        "checkpoints": [
+          6947,
+          11921
+        ]
+      },
+      {
+        "position": 4,
+        "round_position": 4,
+        "points": 2166,
+        "time": 11815,
+        "best_time": 11815,
+        "checkpoints": [
+          6952,
+          11815
+        ]
+      },
+      {
+        "position": 4,
+        "round_position": 4,
+        "points": 2498,
+        "time": 12518,
+        "best_time": 11815,
+        "checkpoints": [
+          6958,
+          12518
+        ]
+      },
+      {
+        "position": 4,
+        "round_position": 4,
+        "points": 2789,
+        "time": 12962,
+        "best_time": 11815,
+        "checkpoints": [
+          7024,
+          12962
+        ]
+      },
+      {
+        "position": 4,
+        "round_position": 4,
+        "points": 3209,
+        "time": 11888,
+        "best_time": 11815,
+        "checkpoints": [
+          6957,
+          11888
+        ]
+      },
+      {
+        "position": 5,
+        "round_position": 5,
+        "points": 3574,
+        "time": 12582,
+        "best_time": 11815,
+        "checkpoints": [
+          7211,
+          12582
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6780e5d4-66fd-4224-bf13-057e32d7ade7",
+    "total_points": 3501,
+    "best_time": 11856,
+    "rounds": [
+      {
+        "position": 16,
+        "round_position": 16,
+        "points": 344,
+        "time": 12602,
+        "best_time": 12602,
+        "checkpoints": [
+          7042,
+          12602
+        ]
+      },
+      {
+        "position": 9,
+        "round_position": 9,
+        "points": 753,
+        "time": 11944,
+        "best_time": 11944,
+        "checkpoints": [
+          7021,
+          11944
+        ]
+      },
+      {
+        "position": 6,
+        "round_position": 6,
+        "points": 1223,
+        "time": 11856,
+        "best_time": 11856,
+        "checkpoints": [
+          6978,
+          11856
+        ]
+      },
+      {
+        "position": 10,
+        "round_position": 10,
+        "points": 1535,
+        "time": 13792,
+        "best_time": 11856,
+        "checkpoints": [
+          8387,
+          13792
+        ]
+      },
+      {
+        "position": 8,
+        "round_position": 8,
+        "points": 1916,
+        "time": 11938,
+        "best_time": 11856,
+        "checkpoints": [
+          7005,
+          11938
+        ]
+      },
+      {
+        "position": 6,
+        "round_position": 6,
+        "points": 2386,
+        "time": 11858,
+        "best_time": 11856,
+        "checkpoints": [
+          6990,
+          11858
+        ]
+      },
+      {
+        "position": 6,
+        "round_position": 6,
+        "points": 2744,
+        "time": 11948,
+        "best_time": 11856,
+        "checkpoints": [
+          7025,
+          11948
+        ]
+      },
+      {
+        "position": 7,
+        "round_position": 7,
+        "points": 3143,
+        "time": 11906,
+        "best_time": 11856,
+        "checkpoints": [
+          6998,
+          11906
+        ]
+      },
+      {
+        "position": 6,
+        "round_position": 6,
+        "points": 3501,
+        "time": 12938,
+        "best_time": 11856,
+        "checkpoints": [
+          7525,
+          12938
+        ]
+      }
+    ]
+  },
+  {
+    "id": "52e35154-52a6-4648-a81f-78a67691eaf5",
+    "total_points": 3460,
+    "best_time": 11842,
+    "rounds": [
+      {
+        "position": 10,
+        "round_position": 10,
+        "points": 390,
+        "time": 11978,
+        "best_time": 11978,
+        "checkpoints": [
+          7048,
+          11978
+        ]
+      },
+      {
+        "position": 7,
+        "round_position": 7,
+        "points": 845,
+        "time": 11906,
+        "best_time": 11906,
+        "checkpoints": [
+          7003,
+          11906
+        ]
+      },
+      {
+        "position": 4,
+        "round_position": 4,
+        "points": 1276,
+        "time": 11871,
+        "best_time": 11871,
+        "checkpoints": [
+          6992,
+          11871
+        ]
+      },
+      {
+        "position": 4,
+        "round_position": 4,
+        "points": 1731,
+        "time": 11888,
+        "best_time": 11871,
+        "checkpoints": [
+          6982,
+          11888
+        ]
+      },
+      {
+        "position": 3,
+        "round_position": 3,
+        "points": 2201,
+        "time": 11874,
+        "best_time": 11871,
+        "checkpoints": [
+          6980,
+          11874
+        ]
+      },
+      {
+        "position": 3,
+        "round_position": 3,
+        "points": 2600,
+        "time": 11926,
+        "best_time": 11871,
+        "checkpoints": [
+          6968,
+          11926
+        ]
+      },
+      {
+        "position": 3,
+        "round_position": 3,
+        "points": 3070,
+        "time": 11842,
+        "best_time": 11842,
+        "checkpoints": [
+          6970,
+          11842
+        ]
+      },
+      {
+        "position": 3,
+        "round_position": 3,
+        "points": 3460,
+        "time": 11914,
+        "best_time": 11842,
+        "checkpoints": [
+          6962,
+          11914
+        ]
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 3460,
+        "time": null,
+        "best_time": 11842,
+        "checkpoints": []
+      }
+    ]
+  },
+  {
+    "id": "a16f2c0d-bca5-4dcf-8132-7cddd6182b28",
+    "total_points": 3438,
+    "best_time": 11884,
+    "rounds": [
+      {
+        "position": 13,
+        "round_position": 13,
+        "points": 365,
+        "time": 12074,
+        "best_time": 12074,
+        "checkpoints": [
+          7042,
+          12074
+        ]
+      },
+      {
+        "position": 13,
+        "round_position": 13,
+        "points": 703,
+        "time": 12625,
+        "best_time": 12074,
+        "checkpoints": [
+          7032,
+          12625
+        ]
+      },
+      {
+        "position": 11,
+        "round_position": 11,
+        "points": 1084,
+        "time": 11921,
+        "best_time": 11921,
+        "checkpoints": [
+          7042,
+          11921
+        ]
+      },
+      {
+        "position": 9,
+        "round_position": 9,
+        "points": 1569,
+        "time": 11884,
+        "best_time": 11884,
+        "checkpoints": [
+          7032,
+          11884
+        ]
+      },
+      {
+        "position": 6,
+        "round_position": 6,
+        "points": 2012,
+        "time": 11906,
+        "best_time": 11884,
+        "checkpoints": [
+          7014,
+          11906
+        ]
+      },
+      {
+        "position": 5,
+        "round_position": 5,
+        "points": 2393,
+        "time": 11944,
+        "best_time": 11884,
+        "checkpoints": [
+          7042,
+          11944
+        ]
+      },
+      {
+        "position": 8,
+        "round_position": 8,
+        "points": 2697,
+        "time": 12171,
+        "best_time": 11884,
+        "checkpoints": [
+          7017,
+          12171
+        ]
+      },
+      {
+        "position": 8,
+        "round_position": 8,
+        "points": 3048,
+        "time": 12051,
+        "best_time": 11884,
+        "checkpoints": [
+          7014,
+          12051
+        ]
+      },
+      {
+        "position": 8,
+        "round_position": 8,
+        "points": 3438,
+        "time": 11956,
+        "best_time": 11884,
+        "checkpoints": [
+          7030,
+          11956
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bc11649f-bb4e-4e0e-b228-b403b52b5c90",
+    "total_points": 3311,
+    "best_time": 11856,
+    "rounds": [
+      {
+        "position": 15,
+        "round_position": 15,
+        "points": 351,
+        "time": 12514,
+        "best_time": 12514,
+        "checkpoints": [
+          7004,
+          12514
+        ]
+      },
+      {
+        "position": 11,
+        "round_position": 11,
+        "points": 732,
+        "time": 11984,
+        "best_time": 11984,
+        "checkpoints": [
+          7032,
+          11984
+        ]
+      },
+      {
+        "position": 8,
+        "round_position": 8,
+        "points": 1187,
+        "time": 11856,
+        "best_time": 11856,
+        "checkpoints": [
+          7002,
+          11856
+        ]
+      },
+      {
+        "position": 8,
+        "round_position": 8,
+        "points": 1577,
+        "time": 11926,
+        "best_time": 11856,
+        "checkpoints": [
+          7004,
+          11926
+        ]
+      },
+      {
+        "position": 7,
+        "round_position": 7,
+        "points": 1967,
+        "time": 11931,
+        "best_time": 11856,
+        "checkpoints": [
+          7045,
+          11931
+        ]
+      },
+      {
+        "position": 8,
+        "round_position": 8,
+        "points": 2311,
+        "time": 12174,
+        "best_time": 11856,
+        "checkpoints": [
+          7121,
+          12174
+        ]
+      },
+      {
+        "position": 10,
+        "round_position": 10,
+        "points": 2638,
+        "time": 11991,
+        "best_time": 11856,
+        "checkpoints": [
+          7015,
+          11991
+        ]
+      },
+      {
+        "position": 9,
+        "round_position": 9,
+        "points": 2938,
+        "time": 14328,
+        "best_time": 11856,
+        "checkpoints": [
+          7402,
+          14328
+        ]
+      },
+      {
+        "position": 9,
+        "round_position": 9,
+        "points": 3311,
+        "time": 12114,
+        "best_time": 11856,
+        "checkpoints": [
+          7272,
+          12114
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2cd42e42-6a6f-4d11-b1aa-3457ae030cfd",
+    "total_points": 3279,
+    "best_time": 11888,
+    "rounds": [
+      {
+        "position": 12,
+        "round_position": 12,
+        "points": 373,
+        "time": 12014,
+        "best_time": 12014,
+        "checkpoints": [
+          7075,
+          12014
+        ]
+      },
+      {
+        "position": 12,
+        "round_position": 12,
+        "points": 705,
+        "time": 12644,
+        "best_time": 12014,
+        "checkpoints": [
+          6985,
+          12644
+        ]
+      },
+      {
+        "position": 14,
+        "round_position": 14,
+        "points": 1032,
+        "time": 12985,
+        "best_time": 12014,
+        "checkpoints": [
+          7164,
+          12985
+        ]
+      },
+      {
+        "position": 13,
+        "round_position": 13,
+        "points": 1370,
+        "time": 12051,
+        "best_time": 12014,
+        "checkpoints": [
+          7065,
+          12051
+        ]
+      },
+      {
+        "position": 13,
+        "round_position": 13,
+        "points": 1735,
+        "time": 12024,
+        "best_time": 12014,
+        "checkpoints": [
+          7022,
+          12024
+        ]
+      },
+      {
+        "position": 13,
+        "round_position": 13,
+        "points": 2086,
+        "time": 12064,
+        "best_time": 12014,
+        "checkpoints": [
+          7068,
+          12064
+        ]
+      },
+      {
+        "position": 14,
+        "round_position": 14,
+        "points": 2467,
+        "time": 11934,
+        "best_time": 11934,
+        "checkpoints": [
+          7063,
+          11934
+        ]
+      },
+      {
+        "position": 11,
+        "round_position": 11,
+        "points": 2848,
+        "time": 11928,
+        "best_time": 11928,
+        "checkpoints": [
+          7030,
+          11928
+        ]
+      },
+      {
+        "position": 10,
+        "round_position": 10,
+        "points": 3279,
+        "time": 11888,
+        "best_time": 11888,
+        "checkpoints": [
+          7021,
+          11888
+        ]
+      }
+    ]
+  },
+  {
+    "id": "39a38ee1-e0a0-49a0-93f5-8024cf1b7f9b",
+    "total_points": 3246,
+    "best_time": 11852,
+    "rounds": [
+      {
+        "position": 3,
+        "round_position": 3,
+        "points": 470,
+        "time": 11904,
+        "best_time": 11904,
+        "checkpoints": [
+          6968,
+          11904
+        ]
+      },
+      {
+        "position": 5,
+        "round_position": 5,
+        "points": 860,
+        "time": 11962,
+        "best_time": 11904,
+        "checkpoints": [
+          6965,
+          11962
+        ]
+      },
+      {
+        "position": 3,
+        "round_position": 3,
+        "points": 1360,
+        "time": 11852,
+        "best_time": 11852,
+        "checkpoints": [
+          6985,
+          11852
+        ]
+      },
+      {
+        "position": 3,
+        "round_position": 3,
+        "points": 1733,
+        "time": 11952,
+        "best_time": 11852,
+        "checkpoints": [
+          6953,
+          11952
+        ]
+      },
+      {
+        "position": 5,
+        "round_position": 5,
+        "points": 2164,
+        "time": 11908,
+        "best_time": 11852,
+        "checkpoints": [
+          6962,
+          11908
+        ]
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 2164,
+        "time": null,
+        "best_time": 11852,
+        "checkpoints": []
+      },
+      {
+        "position": 12,
+        "round_position": 12,
+        "points": 2476,
+        "time": 12055,
+        "best_time": 11852,
+        "checkpoints": [
+          6962,
+          12055
+        ]
+      },
+      {
+        "position": 13,
+        "round_position": 13,
+        "points": 2803,
+        "time": 12481,
+        "best_time": 11852,
+        "checkpoints": [
+          6968,
+          12481
+        ]
+      },
+      {
+        "position": 11,
+        "round_position": 11,
+        "points": 3246,
+        "time": 11888,
+        "best_time": 11852,
+        "checkpoints": [
+          7002,
+          11888
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6a79abb8-0ffc-4d93-a6e7-2087cc2fd27a",
+    "total_points": 3200,
+    "best_time": 11911,
+    "rounds": [
+      {
+        "position": 21,
+        "round_position": 21,
+        "points": 317,
+        "time": 13255,
+        "best_time": 13255,
+        "checkpoints": [
+          7868,
+          13255
+        ]
+      },
+      {
+        "position": 15,
+        "round_position": 15,
+        "points": 690,
+        "time": 11984,
+        "best_time": 11984,
+        "checkpoints": [
+          7058,
+          11984
+        ]
+      },
+      {
+        "position": 12,
+        "round_position": 12,
+        "points": 1080,
+        "time": 11911,
+        "best_time": 11911,
+        "checkpoints": [
+          7045,
+          11911
+        ]
+      },
+      {
+        "position": 12,
+        "round_position": 12,
+        "points": 1431,
+        "time": 11966,
+        "best_time": 11911,
+        "checkpoints": [
+          7087,
+          11966
+        ]
+      },
+      {
+        "position": 11,
+        "round_position": 11,
+        "points": 1830,
+        "time": 11931,
+        "best_time": 11911,
+        "checkpoints": [
+          7008,
+          11931
+        ]
+      },
+      {
+        "position": 12,
+        "round_position": 12,
+        "points": 2127,
+        "time": 16315,
+        "best_time": 11911,
+        "checkpoints": [
+          11285,
+          16315
+        ]
+      },
+      {
+        "position": 11,
+        "round_position": 11,
+        "points": 2500,
+        "time": 11938,
+        "best_time": 11911,
+        "checkpoints": [
+          7045,
+          11938
+        ]
+      },
+      {
+        "position": 10,
+        "round_position": 10,
+        "points": 2873,
+        "time": 11931,
+        "best_time": 11911,
+        "checkpoints": [
+          7034,
+          11931
+        ]
+      },
+      {
+        "position": 12,
+        "round_position": 12,
+        "points": 3200,
+        "time": 24422,
+        "best_time": 11911,
+        "checkpoints": [
+          17815,
+          24422
+        ]
+      }
+    ]
+  },
+  {
+    "id": "f46b8742-e352-405d-a9e5-0d208f667023",
+    "total_points": 3182,
+    "best_time": 11848,
+    "rounds": [
+      {
+        "position": 17,
+        "round_position": 17,
+        "points": 338,
+        "time": 12899,
+        "best_time": 12899,
+        "checkpoints": [
+          6974,
+          12899
+        ]
+      },
+      {
+        "position": 20,
+        "round_position": 20,
+        "points": 646,
+        "time": 23872,
+        "best_time": 12899,
+        "checkpoints": [
+          18706,
+          23872
+        ]
+      },
+      {
+        "position": 13,
+        "round_position": 13,
+        "points": 1055,
+        "time": 11898,
+        "best_time": 11898,
+        "checkpoints": [
+          6978,
+          11898
+        ]
+      },
+      {
+        "position": 15,
+        "round_position": 15,
+        "points": 1352,
+        "time": 21196,
+        "best_time": 11898,
+        "checkpoints": [
+          16252,
+          21196
+        ]
+      },
+      {
+        "position": 18,
+        "round_position": 18,
+        "points": 1652,
+        "time": 32034,
+        "best_time": 11898,
+        "checkpoints": [
+          24885,
+          32034
+        ]
+      },
+      {
+        "position": 19,
+        "round_position": 19,
+        "points": 1956,
+        "time": 14041,
+        "best_time": 11898,
+        "checkpoints": [
+          9155,
+          14041
+        ]
+      },
+      {
+        "position": 19,
+        "round_position": 19,
+        "points": 2307,
+        "time": 11954,
+        "best_time": 11898,
+        "checkpoints": [
+          6968,
+          11954
+        ]
+      },
+      {
+        "position": 14,
+        "round_position": 14,
+        "points": 2762,
+        "time": 11848,
+        "best_time": 11848,
+        "checkpoints": [
+          6975,
+          11848
+        ]
+      },
+      {
+        "position": 13,
+        "round_position": 13,
+        "points": 3182,
+        "time": 11906,
+        "best_time": 11848,
+        "checkpoints": [
+          6965,
+          11906
+        ]
+      }
+    ]
+  },
+  {
+    "id": "17868d60-b494-4b88-81df-f4ddfdae1cf1",
+    "total_points": 3038,
+    "best_time": 11946,
+    "rounds": [
+      {
+        "position": 14,
+        "round_position": 14,
+        "points": 358,
+        "time": 12108,
+        "best_time": 12108,
+        "checkpoints": [
+          7047,
+          12108
+        ]
+      },
+      {
+        "position": 18,
+        "round_position": 18,
+        "points": 670,
+        "time": 18248,
+        "best_time": 12108,
+        "checkpoints": [
+          13231,
+          18248
+        ]
+      },
+      {
+        "position": 18,
+        "round_position": 18,
+        "points": 982,
+        "time": 13768,
+        "best_time": 12108,
+        "checkpoints": [
+          8578,
+          13768
+        ]
+      },
+      {
+        "position": 17,
+        "round_position": 17,
+        "points": 1326,
+        "time": 12022,
+        "best_time": 12022,
+        "checkpoints": [
+          7070,
+          12022
+        ]
+      },
+      {
+        "position": 14,
+        "round_position": 14,
+        "points": 1677,
+        "time": 12034,
+        "best_time": 12022,
+        "checkpoints": [
+          7108,
+          12034
+        ]
+      },
+      {
+        "position": 17,
+        "round_position": 17,
+        "points": 1977,
+        "time": 14241,
+        "best_time": 12022,
+        "checkpoints": [
+          7677,
+          14241
+        ]
+      },
+      {
+        "position": 18,
+        "round_position": 18,
+        "points": 2342,
+        "time": 11946,
+        "best_time": 11946,
+        "checkpoints": [
+          7071,
+          11946
+        ]
+      },
+      {
+        "position": 17,
+        "round_position": 17,
+        "points": 2639,
+        "time": 16451,
+        "best_time": 11946,
+        "checkpoints": [
+          11565,
+          16451
+        ]
+      },
+      {
+        "position": 14,
+        "round_position": 14,
+        "points": 3038,
+        "time": 11946,
+        "best_time": 11946,
+        "checkpoints": [
+          7060,
+          11946
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4052a4e4-4287-4383-86dc-fcd7eb1c9a87",
+    "total_points": 3025,
+    "best_time": 11971,
+    "rounds": [
+      {
+        "position": 23,
+        "round_position": 23,
+        "points": 308,
+        "time": 14116,
+        "best_time": 14116,
+        "checkpoints": [
+          8786,
+          14116
+        ]
+      },
+      {
+        "position": 16,
+        "round_position": 16,
+        "points": 673,
+        "time": 12068,
+        "best_time": 12068,
+        "checkpoints": [
+          7141,
+          12068
+        ]
+      },
+      {
+        "position": 17,
+        "round_position": 17,
+        "points": 990,
+        "time": 13598,
+        "best_time": 12068,
+        "checkpoints": [
+          8500,
+          13598
+        ]
+      },
+      {
+        "position": 19,
+        "round_position": 19,
+        "points": 1312,
+        "time": 12955,
+        "best_time": 12068,
+        "checkpoints": [
+          7025,
+          12955
+        ]
+      },
+      {
+        "position": 16,
+        "round_position": 16,
+        "points": 1656,
+        "time": 12054,
+        "best_time": 12054,
+        "checkpoints": [
+          7065,
+          12054
+        ]
+      },
+      {
+        "position": 15,
+        "round_position": 15,
+        "points": 2021,
+        "time": 11971,
+        "best_time": 11971,
+        "checkpoints": [
+          7078,
+          11971
+        ]
+      },
+      {
+        "position": 17,
+        "round_position": 17,
+        "points": 2343,
+        "time": 12003,
+        "best_time": 11971,
+        "checkpoints": [
+          7034,
+          12003
+        ]
+      },
+      {
+        "position": 15,
+        "round_position": 15,
+        "points": 2687,
+        "time": 12175,
+        "best_time": 11971,
+        "checkpoints": [
+          7020,
+          12175
+        ]
+      },
+      {
+        "position": 15,
+        "round_position": 15,
+        "points": 3025,
+        "time": 13757,
+        "best_time": 11971,
+        "checkpoints": [
+          8476,
+          13757
+        ]
+      }
+    ]
+  },
+  {
+    "id": "18c0c4e6-989a-4aef-b619-6313654f8f48",
+    "total_points": 2862,
+    "best_time": 11958,
+    "rounds": [
+      {
+        "position": 25,
+        "round_position": 25,
+        "points": 300,
+        "time": 22291,
+        "best_time": 22291,
+        "checkpoints": [
+          17371,
+          22291
+        ]
+      },
+      {
+        "position": 14,
+        "round_position": 14,
+        "points": 699,
+        "time": 11958,
+        "best_time": 11958,
+        "checkpoints": [
+          7042,
+          11958
+        ]
+      },
+      {
+        "position": 15,
+        "round_position": 15,
+        "points": 1031,
+        "time": 12847,
+        "best_time": 11958,
+        "checkpoints": [
+          7112,
+          12847
+        ]
+      },
+      {
+        "position": 16,
+        "round_position": 16,
+        "points": 1335,
+        "time": 14414,
+        "best_time": 11958,
+        "checkpoints": [
+          8681,
+          14414
+        ]
+      },
+      {
+        "position": 19,
+        "round_position": 19,
+        "points": 1647,
+        "time": 13037,
+        "best_time": 11958,
+        "checkpoints": [
+          7186,
+          13037
+        ]
+      },
+      {
+        "position": 20,
+        "round_position": 20,
+        "points": 1938,
+        "time": 28326,
+        "best_time": 11958,
+        "checkpoints": [
+          10066,
+          28326
+        ]
+      },
+      {
+        "position": 20,
+        "round_position": 20,
+        "points": 2232,
+        "time": 12888,
+        "best_time": 11958,
+        "checkpoints": [
+          7314,
+          12888
+        ]
+      },
+      {
+        "position": 18,
+        "round_position": 18,
+        "points": 2540,
+        "time": 13502,
+        "best_time": 11958,
+        "checkpoints": [
+          7047,
+          13502
+        ]
+      },
+      {
+        "position": 16,
+        "round_position": 16,
+        "points": 2862,
+        "time": 30862,
+        "best_time": 11958,
+        "checkpoints": [
+          25331,
+          30862
+        ]
+      }
+    ]
+  },
+  {
+    "id": "62604021-851b-460f-9b4b-db04b6cf11b8",
+    "total_points": 2847,
+    "best_time": 12028,
+    "rounds": [
+      {
+        "position": 22,
+        "round_position": 22,
+        "points": 312,
+        "time": 13942,
+        "best_time": 13942,
+        "checkpoints": [
+          8655,
+          13942
+        ]
+      },
+      {
+        "position": 21,
+        "round_position": 21,
+        "points": 629,
+        "time": 13788,
+        "best_time": 13788,
+        "checkpoints": [
+          8631,
+          13788
+        ]
+      },
+      {
+        "position": 21,
+        "round_position": 21,
+        "points": 951,
+        "time": 13151,
+        "best_time": 13151,
+        "checkpoints": [
+          8278,
+          13151
+        ]
+      },
+      {
+        "position": 20,
+        "round_position": 20,
+        "points": 1259,
+        "time": 14281,
+        "best_time": 13151,
+        "checkpoints": [
+          7062,
+          14281
+        ]
+      },
+      {
+        "position": 21,
+        "round_position": 21,
+        "points": 1567,
+        "time": 13871,
+        "best_time": 13151,
+        "checkpoints": [
+          7055,
+          13871
+        ]
+      },
+      {
+        "position": 21,
+        "round_position": 21,
+        "points": 1875,
+        "time": 13731,
+        "best_time": 13151,
+        "checkpoints": [
+          7135,
+          13731
+        ]
+      },
+      {
+        "position": 21,
+        "round_position": 21,
+        "points": 2192,
+        "time": 12028,
+        "best_time": 12028,
+        "checkpoints": [
+          7017,
+          12028
+        ]
+      },
+      {
+        "position": 19,
+        "round_position": 19,
+        "points": 2496,
+        "time": 13702,
+        "best_time": 12028,
+        "checkpoints": [
+          8531,
+          13702
+        ]
+      },
+      {
+        "position": 17,
+        "round_position": 17,
+        "points": 2847,
+        "time": 12941,
+        "best_time": 12028,
+        "checkpoints": [
+          7138,
+          12941
+        ]
+      }
+    ]
+  },
+  {
+    "id": "9168c060-e562-4b63-a8e2-5618be910c59",
+    "total_points": 2838,
+    "best_time": 11871,
+    "rounds": [
+      {
+        "position": 4,
+        "round_position": 4,
+        "points": 455,
+        "time": 11908,
+        "best_time": 11908,
+        "checkpoints": [
+          6957,
+          11908
+        ]
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 455,
+        "time": null,
+        "best_time": 11908,
+        "checkpoints": []
+      },
+      {
+        "position": 23,
+        "round_position": 23,
+        "points": 793,
+        "time": 12832,
+        "best_time": 11908,
+        "checkpoints": [
+          6962,
+          12832
+        ]
+      },
+      {
+        "position": 22,
+        "round_position": 22,
+        "points": 1213,
+        "time": 11911,
+        "best_time": 11908,
+        "checkpoints": [
+          6961,
+          11911
+        ]
+      },
+      {
+        "position": 20,
+        "round_position": 20,
+        "points": 1586,
+        "time": 11964,
+        "best_time": 11908,
+        "checkpoints": [
+          6978,
+          11964
+        ]
+      },
+      {
+        "position": 18,
+        "round_position": 18,
+        "points": 1976,
+        "time": 11926,
+        "best_time": 11908,
+        "checkpoints": [
+          7055,
+          11926
+        ]
+      },
+      {
+        "position": 16,
+        "round_position": 16,
+        "points": 2407,
+        "time": 11871,
+        "best_time": 11871,
+        "checkpoints": [
+          6971,
+          11871
+        ]
+      },
+      {
+        "position": 12,
+        "round_position": 12,
+        "points": 2838,
+        "time": 11882,
+        "best_time": 11871,
+        "checkpoints": [
+          6958,
+          11882
+        ]
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 2838,
+        "time": null,
+        "best_time": 11871,
+        "checkpoints": []
+      }
+    ]
+  },
+  {
+    "id": "8d7e7185-1ed6-4475-a53b-eb9e7c86c8fb",
+    "total_points": 2639,
+    "best_time": 11866,
+    "rounds": [
+      {
+        "position": 19,
+        "round_position": 19,
+        "points": 327,
+        "time": 13078,
+        "best_time": 13078,
+        "checkpoints": [
+          7008,
+          13078
+        ]
+      },
+      {
+        "position": 19,
+        "round_position": 19,
+        "points": 654,
+        "time": 12862,
+        "best_time": 12862,
+        "checkpoints": [
+          7308,
+          12862
+        ]
+      },
+      {
+        "position": 16,
+        "round_position": 16,
+        "points": 998,
+        "time": 12162,
+        "best_time": 12162,
+        "checkpoints": [
+          7047,
+          12162
+        ]
+      },
+      {
+        "position": 14,
+        "round_position": 14,
+        "points": 1356,
+        "time": 11964,
+        "best_time": 11964,
+        "checkpoints": [
+          7068,
+          11964
+        ]
+      },
+      {
+        "position": 12,
+        "round_position": 12,
+        "points": 1765,
+        "time": 11921,
+        "best_time": 11921,
+        "checkpoints": [
+          7004,
+          11921
+        ]
+      },
+      {
+        "position": 10,
+        "round_position": 10,
+        "points": 2196,
+        "time": 11898,
+        "best_time": 11898,
+        "checkpoints": [
+          7004,
+          11898
+        ]
+      },
+      {
+        "position": 9,
+        "round_position": 9,
+        "points": 2639,
+        "time": 11866,
+        "best_time": 11866,
+        "checkpoints": [
+          6994,
+          11866
+        ]
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 2639,
+        "time": null,
+        "best_time": 11866,
+        "checkpoints": []
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 2639,
+        "time": null,
+        "best_time": 11866,
+        "checkpoints": []
+      }
+    ]
+  },
+  {
+    "id": "11d6f37c-b5cc-4bf6-88fc-f8d90956b281",
+    "total_points": 2630,
+    "best_time": 12032,
+    "rounds": [
+      {
+        "position": 20,
+        "round_position": 20,
+        "points": 322,
+        "time": 13238,
+        "best_time": 13238,
+        "checkpoints": [
+          8174,
+          13238
+        ]
+      },
+      {
+        "position": 17,
+        "round_position": 17,
+        "points": 673,
+        "time": 12234,
+        "best_time": 12234,
+        "checkpoints": [
+          7235,
+          12234
+        ]
+      },
+      {
+        "position": 19,
+        "round_position": 19,
+        "points": 981,
+        "time": 14082,
+        "best_time": 12234,
+        "checkpoints": [
+          8596,
+          14082
+        ]
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 981,
+        "time": null,
+        "best_time": 12234,
+        "checkpoints": []
+      },
+      {
+        "position": 24,
+        "round_position": 24,
+        "points": 1308,
+        "time": 12325,
+        "best_time": 12234,
+        "checkpoints": [
+          7205,
+          12325
+        ]
+      },
+      {
+        "position": 24,
+        "round_position": 24,
+        "points": 1620,
+        "time": 13388,
+        "best_time": 12234,
+        "checkpoints": [
+          7998,
+          13388
+        ]
+      },
+      {
+        "position": 24,
+        "round_position": 24,
+        "points": 1917,
+        "time": 12742,
+        "best_time": 12234,
+        "checkpoints": [
+          7451,
+          12742
+        ]
+      },
+      {
+        "position": 23,
+        "round_position": 23,
+        "points": 2249,
+        "time": 12354,
+        "best_time": 12234,
+        "checkpoints": [
+          7228,
+          12354
+        ]
+      },
+      {
+        "position": 20,
+        "round_position": 20,
+        "points": 2630,
+        "time": 12032,
+        "best_time": 12032,
+        "checkpoints": [
+          7103,
+          12032
+        ]
+      }
+    ]
+  },
+  {
+    "id": "d9ddf0b5-89bd-451a-af3a-5add98956be9",
+    "total_points": 2468,
+    "best_time": 11854,
+    "rounds": [
+      {
+        "position": null,
+        "round_position": null,
+        "points": 0,
+        "time": null,
+        "best_time": null,
+        "checkpoints": []
+      },
+      {
+        "position": 24,
+        "round_position": 24,
+        "points": 431,
+        "time": 11924,
+        "best_time": 11924,
+        "checkpoints": [
+          7063,
+          11924
+        ]
+      },
+      {
+        "position": 22,
+        "round_position": 22,
+        "points": 874,
+        "time": 11864,
+        "best_time": 11864,
+        "checkpoints": [
+          7017,
+          11864
+        ]
+      },
+      {
+        "position": 21,
+        "round_position": 21,
+        "points": 1255,
+        "time": 11931,
+        "best_time": 11864,
+        "checkpoints": [
+          7007,
+          11931
+        ]
+      },
+      {
+        "position": 15,
+        "round_position": 15,
+        "points": 1675,
+        "time": 11916,
+        "best_time": 11864,
+        "checkpoints": [
+          7003,
+          11916
+        ]
+      },
+      {
+        "position": 16,
+        "round_position": 16,
+        "points": 2013,
+        "time": 12458,
+        "best_time": 11864,
+        "checkpoints": [
+          7308,
+          12458
+        ]
+      },
+      {
+        "position": 13,
+        "round_position": 13,
+        "points": 2468,
+        "time": 11854,
+        "best_time": 11854,
+        "checkpoints": [
+          6998,
+          11854
+        ]
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 2468,
+        "time": null,
+        "best_time": 11854,
+        "checkpoints": []
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 2468,
+        "time": null,
+        "best_time": 11854,
+        "checkpoints": []
+      }
+    ]
+  },
+  {
+    "id": "3f9c1ad1-98f8-4c69-86d8-0c93ea18b9c2",
+    "total_points": 2422,
+    "best_time": 11881,
+    "rounds": [
+      {
+        "position": 2,
+        "round_position": 2,
+        "points": 485,
+        "time": 11904,
+        "best_time": 11904,
+        "checkpoints": [
+          6964,
+          11904
+        ]
+      },
+      {
+        "position": 1,
+        "round_position": 1,
+        "points": 955,
+        "time": 11906,
+        "best_time": 11904,
+        "checkpoints": [
+          6981,
+          11906
+        ]
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 955,
+        "time": null,
+        "best_time": 11904,
+        "checkpoints": []
+      },
+      {
+        "position": 18,
+        "round_position": 18,
+        "points": 1320,
+        "time": 11956,
+        "best_time": 11904,
+        "checkpoints": [
+          6991,
+          11956
+        ]
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 1320,
+        "time": null,
+        "best_time": 11904,
+        "checkpoints": []
+      },
+      {
+        "position": 23,
+        "round_position": 23,
+        "points": 1647,
+        "time": 12555,
+        "best_time": 11904,
+        "checkpoints": [
+          6968,
+          12555
+        ]
+      },
+      {
+        "position": 23,
+        "round_position": 23,
+        "points": 1979,
+        "time": 11968,
+        "best_time": 11904,
+        "checkpoints": [
+          6980,
+          11968
+        ]
+      },
+      {
+        "position": 21,
+        "round_position": 21,
+        "points": 2422,
+        "time": 11881,
+        "best_time": 11881,
+        "checkpoints": [
+          6958,
+          11881
+        ]
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 2422,
+        "time": null,
+        "best_time": 11881,
+        "checkpoints": []
+      }
+    ]
+  },
+  {
+    "id": "8b80148d-72a7-45fb-86b8-730e6972cfef",
+    "total_points": 2416,
+    "best_time": 11891,
+    "rounds": [
+      {
+        "position": 6,
+        "round_position": 6,
+        "points": 431,
+        "time": 11928,
+        "best_time": 11928,
+        "checkpoints": [
+          7045,
+          11928
+        ]
+      },
+      {
+        "position": 6,
+        "round_position": 6,
+        "points": 851,
+        "time": 11928,
+        "best_time": 11928,
+        "checkpoints": [
+          7038,
+          11928
+        ]
+      },
+      {
+        "position": 7,
+        "round_position": 7,
+        "points": 1209,
+        "time": 11958,
+        "best_time": 11928,
+        "checkpoints": [
+          7015,
+          11958
+        ]
+      },
+      {
+        "position": 6,
+        "round_position": 6,
+        "points": 1652,
+        "time": 11891,
+        "best_time": 11891,
+        "checkpoints": [
+          6988,
+          11891
+        ]
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 1652,
+        "time": null,
+        "best_time": 11891,
+        "checkpoints": []
+      },
+      {
+        "position": 14,
+        "round_position": 14,
+        "points": 2072,
+        "time": 11911,
+        "best_time": 11891,
+        "checkpoints": [
+          7015,
+          11911
+        ]
+      },
+      {
+        "position": 15,
+        "round_position": 15,
+        "points": 2416,
+        "time": 11956,
+        "best_time": 11891,
+        "checkpoints": [
+          7035,
+          11956
+        ]
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 2416,
+        "time": null,
+        "best_time": 11891,
+        "checkpoints": []
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 2416,
+        "time": null,
+        "best_time": 11891,
+        "checkpoints": []
+      }
+    ]
+  },
+  {
+    "id": "b89466f8-61aa-42b6-bbd0-a211cac68fbb",
+    "total_points": 2079,
+    "best_time": 11951,
+    "rounds": [
+      {
+        "position": 18,
+        "round_position": 18,
+        "points": 332,
+        "time": 12952,
+        "best_time": 12952,
+        "checkpoints": [
+          7047,
+          12952
+        ]
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 332,
+        "time": null,
+        "best_time": 12952,
+        "checkpoints": []
+      },
+      {
+        "position": 24,
+        "round_position": 24,
+        "points": 683,
+        "time": 12145,
+        "best_time": 12145,
+        "checkpoints": [
+          7080,
+          12145
+        ]
+      },
+      {
+        "position": 23,
+        "round_position": 23,
+        "points": 1010,
+        "time": 12909,
+        "best_time": 12145,
+        "checkpoints": [
+          7023,
+          12909
+        ]
+      },
+      {
+        "position": 22,
+        "round_position": 22,
+        "points": 1368,
+        "time": 12028,
+        "best_time": 12028,
+        "checkpoints": [
+          7100,
+          12028
+        ]
+      },
+      {
+        "position": 22,
+        "round_position": 22,
+        "points": 1741,
+        "time": 11951,
+        "best_time": 11951,
+        "checkpoints": [
+          7052,
+          11951
+        ]
+      },
+      {
+        "position": 22,
+        "round_position": 22,
+        "points": 2079,
+        "time": 11961,
+        "best_time": 11951,
+        "checkpoints": [
+          7028,
+          11961
+        ]
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 2079,
+        "time": null,
+        "best_time": 11951,
+        "checkpoints": []
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 2079,
+        "time": null,
+        "best_time": 11951,
+        "checkpoints": []
+      }
+    ]
+  },
+  {
+    "id": "3467014a-c1cc-4aae-99fe-6beb5eca232a",
+    "total_points": 2047,
+    "best_time": 11888,
+    "rounds": [
+      {
+        "position": 24,
+        "round_position": 24,
+        "points": 304,
+        "time": 17198,
+        "best_time": 17198,
+        "checkpoints": [
+          11590,
+          17198
+        ]
+      },
+      {
+        "position": 22,
+        "round_position": 22,
+        "points": 626,
+        "time": 13541,
+        "best_time": 13541,
+        "checkpoints": [
+          7134,
+          13541
+        ]
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 626,
+        "time": null,
+        "best_time": 13541,
+        "checkpoints": []
+      },
+      {
+        "position": 25,
+        "round_position": 25,
+        "points": 958,
+        "time": 12300,
+        "best_time": 12300,
+        "checkpoints": [
+          7035,
+          12300
+        ]
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 958,
+        "time": null,
+        "best_time": 12300,
+        "checkpoints": []
+      },
+      {
+        "position": 26,
+        "round_position": 26,
+        "points": 1316,
+        "time": 12016,
+        "best_time": 12016,
+        "checkpoints": [
+          7085,
+          12016
+        ]
+      },
+      {
+        "position": 25,
+        "round_position": 25,
+        "points": 1725,
+        "time": 11888,
+        "best_time": 11888,
+        "checkpoints": [
+          7021,
+          11888
+        ]
+      },
+      {
+        "position": 25,
+        "round_position": 25,
+        "points": 2047,
+        "time": 12542,
+        "best_time": 11888,
+        "checkpoints": [
+          7058,
+          12542
+        ]
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 2047,
+        "time": null,
+        "best_time": 11888,
+        "checkpoints": []
+      }
+    ]
+  },
+  {
+    "id": "5f9c2a43-593f-4e84-a64d-82319058dd3a",
+    "total_points": 1985,
+    "best_time": 11921,
+    "rounds": [
+      {
+        "position": null,
+        "round_position": null,
+        "points": 0,
+        "time": null,
+        "best_time": null,
+        "checkpoints": null
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 0,
+        "time": null,
+        "best_time": null,
+        "checkpoints": []
+      },
+      {
+        "position": 27,
+        "round_position": 27,
+        "points": 304,
+        "time": 14082,
+        "best_time": 14082,
+        "checkpoints": [
+          8770,
+          14082
+        ]
+      },
+      {
+        "position": 26,
+        "round_position": 26,
+        "points": 621,
+        "time": 13062,
+        "best_time": 13062,
+        "checkpoints": [
+          7097,
+          13062
+        ]
+      },
+      {
+        "position": 26,
+        "round_position": 26,
+        "points": 938,
+        "time": 12814,
+        "best_time": 12814,
+        "checkpoints": [
+          7022,
+          12814
+        ]
+      },
+      {
+        "position": 25,
+        "round_position": 25,
+        "points": 1347,
+        "time": 11921,
+        "best_time": 11921,
+        "checkpoints": [
+          7090,
+          11921
+        ]
+      },
+      {
+        "position": 26,
+        "round_position": 26,
+        "points": 1647,
+        "time": 12734,
+        "best_time": 11921,
+        "checkpoints": [
+          7022,
+          12734
+        ]
+      },
+      {
+        "position": 26,
+        "round_position": 26,
+        "points": 1985,
+        "time": 12246,
+        "best_time": 11921,
+        "checkpoints": [
+          7278,
+          12246
+        ]
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 1985,
+        "time": null,
+        "best_time": 11921,
+        "checkpoints": []
+      }
+    ]
+  },
+  {
+    "id": "a1248325-1f77-4230-b3c0-0fd72203246b",
+    "total_points": 1960,
+    "best_time": 11916,
+    "rounds": [
+      {
+        "position": null,
+        "round_position": null,
+        "points": 0,
+        "time": null,
+        "best_time": null,
+        "checkpoints": null
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 0,
+        "time": null,
+        "best_time": null,
+        "checkpoints": null
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 0,
+        "time": null,
+        "best_time": null,
+        "checkpoints": []
+      },
+      {
+        "position": 28,
+        "round_position": 28,
+        "points": 300,
+        "time": 15671,
+        "best_time": 15671,
+        "checkpoints": [
+          8720,
+          15671
+        ]
+      },
+      {
+        "position": 27,
+        "round_position": 27,
+        "points": 632,
+        "time": 12168,
+        "best_time": 12168,
+        "checkpoints": [
+          7121,
+          12168
+        ]
+      },
+      {
+        "position": 27,
+        "round_position": 27,
+        "points": 949,
+        "time": 12998,
+        "best_time": 12168,
+        "checkpoints": [
+          7002,
+          12998
+        ]
+      },
+      {
+        "position": 27,
+        "round_position": 27,
+        "points": 1234,
+        "time": 21934,
+        "best_time": 12168,
+        "checkpoints": [
+          17011,
+          21934
+        ]
+      },
+      {
+        "position": 27,
+        "round_position": 27,
+        "points": 1551,
+        "time": 12952,
+        "best_time": 12168,
+        "checkpoints": [
+          7248,
+          12952
+        ]
+      },
+      {
+        "position": 27,
+        "round_position": 27,
+        "points": 1960,
+        "time": 11916,
+        "best_time": 11916,
+        "checkpoints": [
+          7024,
+          11916
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2b7689cf-b37e-45b1-b431-1dfe59679b41",
+    "total_points": 1414,
+    "best_time": 11914,
+    "rounds": [
+      {
+        "position": null,
+        "round_position": null,
+        "points": 0,
+        "time": null,
+        "best_time": null,
+        "checkpoints": null
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 0,
+        "time": null,
+        "best_time": null,
+        "checkpoints": null
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 0,
+        "time": null,
+        "best_time": null,
+        "checkpoints": null
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 0,
+        "time": null,
+        "best_time": null,
+        "checkpoints": null
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 0,
+        "time": null,
+        "best_time": null,
+        "checkpoints": []
+      },
+      {
+        "position": 30,
+        "round_position": 30,
+        "points": 322,
+        "time": 12732,
+        "best_time": 12732,
+        "checkpoints": [
+          7091,
+          12732
+        ]
+      },
+      {
+        "position": 29,
+        "round_position": 29,
+        "points": 712,
+        "time": 11914,
+        "best_time": 11914,
+        "checkpoints": [
+          7028,
+          11914
+        ]
+      },
+      {
+        "position": 29,
+        "round_position": 29,
+        "points": 1070,
+        "time": 11976,
+        "best_time": 11914,
+        "checkpoints": [
+          6995,
+          11976
+        ]
+      },
+      {
+        "position": 28,
+        "round_position": 28,
+        "points": 1414,
+        "time": 13074,
+        "best_time": 11914,
+        "checkpoints": [
+          7320,
+          13074
+        ]
+      }
+    ]
+  },
+  {
+    "id": "a3a47aa2-249a-405f-9b52-b7331953099a",
+    "total_points": 1271,
+    "best_time": 11976,
+    "rounds": [
+      {
+        "position": null,
+        "round_position": null,
+        "points": 0,
+        "time": null,
+        "best_time": null,
+        "checkpoints": null
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 0,
+        "time": null,
+        "best_time": null,
+        "checkpoints": null
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 0,
+        "time": null,
+        "best_time": null,
+        "checkpoints": null
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 0,
+        "time": null,
+        "best_time": null,
+        "checkpoints": null
+      },
+      {
+        "position": 29,
+        "round_position": 29,
+        "points": 304,
+        "time": 26951,
+        "best_time": 26951,
+        "checkpoints": [
+          21020,
+          26951
+        ]
+      },
+      {
+        "position": 28,
+        "round_position": 28,
+        "points": 598,
+        "time": 20381,
+        "best_time": 20381,
+        "checkpoints": [
+          15206,
+          20381
+        ]
+      },
+      {
+        "position": 28,
+        "round_position": 28,
+        "points": 906,
+        "time": 12098,
+        "best_time": 12098,
+        "checkpoints": [
+          7045,
+          12098
+        ]
+      },
+      {
+        "position": 28,
+        "round_position": 28,
+        "points": 1271,
+        "time": 11976,
+        "best_time": 11976,
+        "checkpoints": [
+          6987,
+          11976
+        ]
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 1271,
+        "time": null,
+        "best_time": 11976,
+        "checkpoints": []
+      }
+    ]
+  },
+  {
+    "id": "cf3e115d-7b7e-47ef-8d1c-013b37d308b1",
+    "total_points": 600,
+    "best_time": 13211,
+    "rounds": [
+      {
+        "position": null,
+        "round_position": null,
+        "points": 0,
+        "time": null,
+        "best_time": null,
+        "checkpoints": null
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 0,
+        "time": null,
+        "best_time": null,
+        "checkpoints": null
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 0,
+        "time": null,
+        "best_time": null,
+        "checkpoints": null
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 0,
+        "time": null,
+        "best_time": null,
+        "checkpoints": null
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 0,
+        "time": null,
+        "best_time": null,
+        "checkpoints": []
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 0,
+        "time": null,
+        "best_time": null,
+        "checkpoints": []
+      },
+      {
+        "position": 31,
+        "round_position": 31,
+        "points": 288,
+        "time": 14778,
+        "best_time": 14778,
+        "checkpoints": [
+          8685,
+          14778
+        ]
+      },
+      {
+        "position": 30,
+        "round_position": 30,
+        "points": 600,
+        "time": 13211,
+        "best_time": 13211,
+        "checkpoints": [
+          7174,
+          13211
+        ]
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 600,
+        "time": null,
+        "best_time": 13211,
+        "checkpoints": []
+      }
+    ]
+  },
+  {
+    "id": "83fa4750-c3b4-42f5-9cff-a7e54df505f3",
+    "total_points": 409,
+    "best_time": 11968,
+    "rounds": [
+      {
+        "position": 8,
+        "round_position": 8,
+        "points": 409,
+        "time": 11968,
+        "best_time": 11968,
+        "checkpoints": [
+          7025,
+          11968
+        ]
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 409,
+        "time": null,
+        "best_time": 11968,
+        "checkpoints": []
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 409,
+        "time": null,
+        "best_time": 11968,
+        "checkpoints": []
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 409,
+        "time": null,
+        "best_time": 11968,
+        "checkpoints": []
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 409,
+        "time": null,
+        "best_time": 11968,
+        "checkpoints": []
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 409,
+        "time": null,
+        "best_time": 11968,
+        "checkpoints": []
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 409,
+        "time": null,
+        "best_time": 11968,
+        "checkpoints": []
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 409,
+        "time": null,
+        "best_time": 11968,
+        "checkpoints": []
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 409,
+        "time": null,
+        "best_time": 11968,
+        "checkpoints": []
+      }
+    ]
+  },
+  {
+    "id": "d7bd086e-7bc3-4a73-84e9-166bbfb0e554",
+    "total_points": 332,
+    "best_time": 13795,
+    "rounds": [
+      {
+        "position": null,
+        "round_position": null,
+        "points": 0,
+        "time": null,
+        "best_time": null,
+        "checkpoints": null
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 0,
+        "time": null,
+        "best_time": null,
+        "checkpoints": null
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 0,
+        "time": null,
+        "best_time": null,
+        "checkpoints": null
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 0,
+        "time": null,
+        "best_time": null,
+        "checkpoints": null
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 0,
+        "time": null,
+        "best_time": null,
+        "checkpoints": null
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 0,
+        "time": null,
+        "best_time": null,
+        "checkpoints": null
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 0,
+        "time": null,
+        "best_time": null,
+        "checkpoints": null
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 0,
+        "time": null,
+        "best_time": null,
+        "checkpoints": []
+      },
+      {
+        "position": 32,
+        "round_position": 32,
+        "points": 332,
+        "time": 13795,
+        "best_time": 13795,
+        "checkpoints": [
+          8546,
+          13795
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6f67d602-f64b-4bed-a608-347adcf8cad1",
+    "total_points": 294,
+    "best_time": 17856,
+    "rounds": [
+      {
+        "position": null,
+        "round_position": null,
+        "points": 0,
+        "time": null,
+        "best_time": null,
+        "checkpoints": []
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 0,
+        "time": null,
+        "best_time": null,
+        "checkpoints": []
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 0,
+        "time": null,
+        "best_time": null,
+        "checkpoints": []
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 0,
+        "time": null,
+        "best_time": null,
+        "checkpoints": []
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 0,
+        "time": null,
+        "best_time": null,
+        "checkpoints": []
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 0,
+        "time": null,
+        "best_time": null,
+        "checkpoints": []
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 0,
+        "time": null,
+        "best_time": null,
+        "checkpoints": []
+      },
+      {
+        "position": 32,
+        "round_position": 32,
+        "points": 294,
+        "time": 17856,
+        "best_time": 17856,
+        "checkpoints": [
+          11041,
+          17856
+        ]
+      },
+      {
+        "position": null,
+        "round_position": null,
+        "points": 294,
+        "time": null,
+        "best_time": 17856,
+        "checkpoints": []
+      }
+    ]
+  }
+]
