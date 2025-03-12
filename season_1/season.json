@@ -1,31 +1,31 @@
 {
-    "current_week": 2,
-    "maps": [
-        {
-            "name": "Sugar",
-            "author": "mime",
-            "author_id": "fb678553-f730-442a-a035-dfc50f4a5b7b",
-            "tmx_id": 229237,
-            "map_uid": "awG5iLLQONap4IMigEhGqPThgNm",
-            "medals": {
-                "author": 47617,
-                "gold": 51000,
-                "silver": 58000,
-                "bronze": 112000
-            }
-        },
-        {
-            "name": "Mongoose",
-            "author": "Doogie",
-			"author_id": "8e8ea58e-72b1-42eb-bd63-8183bf3add50",
-			"tmx_id": 231001,
-			"map_uid": "DCQsjXTkrrThd8z3U60g6SQv_Eg",
-			"medals": {
-				"author": 49380,
-				"gold": 53000,
-				"silver": 60000,
-				"bronze": 75000
-			}
-        }
-    ]
+  "current_week": 2,
+  "maps": [
+    {
+      "name": "Sugar",
+      "author": "mime",
+      "author_id": "fb678553-f730-442a-a035-dfc50f4a5b7b",
+      "tmx_id": 229237,
+      "map_uid": "awG5iLLQONap4IMigEhGqPThgNm",
+      "medals": {
+        "author": 47617,
+        "gold": 51000,
+        "silver": 58000,
+        "bronze": 112000
+      }
+    },
+    {
+      "name": "Mongoose",
+      "author": "Doogie",
+      "author_id": "8e8ea58e-72b1-42eb-bd63-8183bf3add50",
+      "tmx_id": 231001,
+      "map_uid": "PbvoWxIpKX1XHEww6Udhpf3gFW9",
+      "medals": {
+        "author": 49380,
+        "gold": 53000,
+        "silver": 60000,
+        "bronze": 75000
+      }
+    }
+  ]
 }
