@@ -13,48 +13,6 @@
                 "silver": 58000,
                 "bronze": 112000
             }
-        },
-        {
-            "name": "TBA",
-            "author": "Doogie",
-            "tmx_id": null,
-            "medals": null
-        },
-        {
-            "name": "TBA",
-            "author": "speq",
-            "tmx_id": null,
-            "medals": null
-        },
-        {
-            "name": "TBA",
-            "author": "Thounej",
-            "tmx_id": null,
-            "medals": null
-        },
-        {
-            "name": "TBA",
-            "author": "Flüffel",
-            "tmx_id": null,
-            "medals": null
-        },
-        {
-            "name": "TBA",
-            "author": "velv",
-            "tmx_id": null,
-            "medals": null
-        },
-        {
-            "name": "TBA",
-            "author": "Sqlc",
-            "tmx_id": null,
-            "medals": null
-        },
-        {
-            "name": "TBA",
-            "author": "Sqweegel",
-            "tmx_id": null,
-            "medals": null
         }
     ]
 }
