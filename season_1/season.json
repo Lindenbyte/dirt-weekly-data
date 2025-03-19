@@ -1,5 +1,5 @@
 {
-  "current_week": 2,
+  "current_week": 3,
   "maps": [
     {
       "name": "Sugar",
@@ -25,6 +25,19 @@
         "gold": 53000,
         "silver": 60000,
         "bronze": 75000
+      }
+    },
+    {
+      "name": "my cat built this",
+      "author": "sPeq",
+      "author_id": "7599d4de-2ced-46d0-abf6-91612e1dca30",
+      "tmx_id": 231919,
+      "map_uid": "j5IEqekQa_WoYgjRbdnzhgeSeyc",
+      "medals": {
+        "author": 57234,
+        "gold": 61000,
+        "silver": 69000,
+        "bronze": 86000
       }
     }
   ]
