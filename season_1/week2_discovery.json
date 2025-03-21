@@ -367,8 +367,8 @@
   },
   {
     "id": "bffdcb66-f114-47c7-8bb9-7d1a90c4ecf7",
-    "total_points": 3907,
-    "best_time": 6721,
+    "total_points": 6721,
+    "best_time": 57103,
     "rounds": [
       {
         "round_position": 7,
@@ -9517,7 +9517,7 @@
   },
   {
     "id": "dd088f9e-ccb3-495f-84ec-ead784d4d9d8",
-    "total_points": 3652,
+    "total_points": 3682,
     "best_time": 60703,
     "rounds": [
       {
