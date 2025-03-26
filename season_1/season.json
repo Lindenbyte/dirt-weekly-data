@@ -1,5 +1,5 @@
 {
-  "current_week": 3,
+  "current_week": 4,
   "maps": [
     {
       "name": "Sugar",
@@ -39,6 +39,19 @@
         "silver": 69000,
         "bronze": 86000
       }
-    }
+    },
+	{
+		"name": "Diagram",
+		"author": "Thounej",
+		"author_id": "0011d4b9-a323-474d-9fe2-92cb38b9fd05",
+		"tmx_id": 233306,
+		"map_uid": "UgmzpEric7j7pOg3JyyEaIppR97",
+		"medals": {
+		  "author": 49092,
+		  "gold": 53000,
+		  "silver": 59000,
+		  "bronze": 74000
+		}
+	  }
   ]
 }
