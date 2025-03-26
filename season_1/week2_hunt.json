@@ -1,1 +1,392 @@
-[]
+[
+  {
+    "id": "2eeb3522-ae19-41e1-89b6-0e84c100e994",
+    "points": 6772,
+    "rank": 1,
+    "time": 56317
+  },
+  {
+    "id": "26f45a76-8b19-4be4-9950-f9e0367e4860",
+    "points": 6721,
+    "rank": 2,
+    "time": 56487
+  },
+  {
+    "id": "6e7d8686-b5f1-4843-a516-011250267bb7",
+    "points": 6450,
+    "rank": 3,
+    "time": 56611
+  },
+  {
+    "id": "1e9eaf8f-a16e-4c78-874b-bc727996159a",
+    "points": 6286,
+    "rank": 4,
+    "time": 56612
+  },
+  {
+    "id": "31e283e1-5e91-40c7-81cd-cd2f1d36ffb3",
+    "points": 6204,
+    "rank": 5,
+    "time": 56648
+  },
+  {
+    "id": "3df7cf03-b13e-435b-843f-9f1e8f8a0c25",
+    "points": 6179,
+    "rank": 6,
+    "time": 56661
+  },
+  {
+    "id": "45bcd4c6-7261-4dbb-b83f-ff8292083d02",
+    "points": 5858,
+    "rank": 7,
+    "time": 56671
+  },
+  {
+    "id": "8c14f490-b9b5-44b3-ab01-a3c4937f3000",
+    "points": 5629,
+    "rank": 8,
+    "time": 56685
+  },
+  {
+    "id": "3f9c1ad1-98f8-4c69-86d8-0c93ea18b9c2",
+    "points": 5610,
+    "rank": 9,
+    "time": 56698
+  },
+  {
+    "id": "c5a3ddc4-ff88-4bfb-9ff1-4f85a82f29c4",
+    "points": 5581,
+    "rank": 10,
+    "time": 56717
+  },
+  {
+    "id": "87e8a0b9-fe8f-42e0-a08d-8f39ed56541b",
+    "points": 5504,
+    "rank": 11,
+    "time": 56720
+  },
+  {
+    "id": "989671fb-a1fd-4bab-8e97-de902809d971",
+    "points": 5424,
+    "rank": 12,
+    "time": 56752
+  },
+  {
+    "id": "e54cee6f-e52a-4cb4-bfa3-cb19017a2015",
+    "points": 5410,
+    "rank": 13,
+    "time": 56758
+  },
+  {
+    "id": "b89e8368-945b-457e-ab88-d9250f75eabd",
+    "points": 5314,
+    "rank": 14,
+    "time": 56765
+  },
+  {
+    "id": "d85fd2cc-bf6a-44a7-88cc-9d8695b82b88",
+    "points": 5191,
+    "rank": 15,
+    "time": 56795
+  },
+  {
+    "id": "76ecd80b-33e0-4ac0-923c-ea2c05926eeb",
+    "points": 5167,
+    "rank": 16,
+    "time": 56798
+  },
+  {
+    "id": "56ae5937-6f5f-4bf9-90c7-c3994886dd9c",
+    "points": 5145,
+    "rank": 17,
+    "time": 56820
+  },
+  {
+    "id": "dadbaf28-e7b5-429b-bf37-8c8c1419fcf4",
+    "points": 5080,
+    "rank": 18,
+    "time": 56854
+  },
+  {
+    "id": "7277226c-7111-4977-95a6-595938d9654c",
+    "points": 4984,
+    "rank": 19,
+    "time": 56871
+  },
+  {
+    "id": "794a286c-44d9-4276-83ce-431cba7bab74",
+    "points": 4963,
+    "rank": 20,
+    "time": 56890
+  },
+  {
+    "id": "42b792dd-ec82-414d-a9e4-41f26c22207f",
+    "points": 4940,
+    "rank": 21,
+    "time": 56915
+  },
+  {
+    "id": "c918a06c-c622-49e4-b66b-6bcb6488db4c",
+    "points": 4863,
+    "rank": 22,
+    "time": 56931
+  },
+  {
+    "id": "b32b0ab3-c131-4f0d-8691-983cfd0fc266",
+    "points": 4835,
+    "rank": 23,
+    "time": 56968
+  },
+  {
+    "id": "f8f7c280-8419-472e-9329-6436fe3d04c3",
+    "points": 4824,
+    "rank": 24,
+    "time": 56988
+  },
+  {
+    "id": "bffdcb66-f114-47c7-8bb9-7d1a90c4ecf7",
+    "points": 4819,
+    "rank": 25,
+    "time": 57001
+  },
+  {
+    "id": "3b0ab42a-3ac5-4ed8-81a6-30db8699ca89",
+    "points": 4807,
+    "rank": 26,
+    "time": 57015
+  },
+  {
+    "id": "cd60df4e-7552-468c-9599-a8905458dcb0",
+    "points": 4794,
+    "rank": 27,
+    "time": 57035
+  },
+  {
+    "id": "37d1a9f9-600a-4165-8406-2d001bade819",
+    "points": 4446,
+    "rank": 28,
+    "time": 57036
+  },
+  {
+    "id": "5ed3bea7-3134-4489-94b0-7f8d5a3baf40",
+    "points": 4337,
+    "rank": 29,
+    "time": 57058
+  },
+  {
+    "id": "b09527f2-b61d-4d9a-8cdc-73484590f81f",
+    "points": 4254,
+    "rank": 30,
+    "time": 57101
+  },
+  {
+    "id": "28cd1756-dfb9-4dc3-8547-4fd13fe4acb5",
+    "points": 4239,
+    "rank": 31,
+    "time": 57101
+  },
+  {
+    "id": "09747490-4eeb-410c-aa49-58ee38481760",
+    "points": 4231,
+    "rank": 32,
+    "time": 57120
+  },
+  {
+    "id": "00bb4311-3d6b-4db7-a86f-7150dc486592",
+    "points": 4222,
+    "rank": 33,
+    "time": 57122
+  },
+  {
+    "id": "6780e5d4-66fd-4224-bf13-057e32d7ade7",
+    "points": 4132,
+    "rank": 34,
+    "time": 57148
+  },
+  {
+    "id": "5c9f57d9-2b40-4560-8a6f-3140905a9e4e",
+    "points": 4104,
+    "rank": 35,
+    "time": 57165
+  },
+  {
+    "id": "679c132e-637f-4960-99d3-026345bbd947",
+    "points": 4010,
+    "rank": 36,
+    "time": 57195
+  },
+  {
+    "id": "6933414c-0b53-4558-a41d-76fdcfe41ccc",
+    "points": 4000,
+    "rank": 37,
+    "time": 57195
+  },
+  {
+    "id": "4e060bc3-d7e2-45c3-9f80-0f6facdce3b2",
+    "points": 3959,
+    "rank": 38,
+    "time": 57228
+  },
+  {
+    "id": "699084ea-ce76-4d42-b3ac-3bde263b7ef3",
+    "points": 3933,
+    "rank": 39,
+    "time": 57231
+  },
+  {
+    "id": "bfcbe019-bc7f-4ee2-a405-a6c0ca7ee7b1",
+    "points": 3915,
+    "rank": 40,
+    "time": 57345
+  },
+  {
+    "id": "57fbd6c0-cc5b-42a3-b41a-00d8b4adf34e",
+    "points": 3893,
+    "rank": 42,
+    "time": 57390
+  },
+  {
+    "id": "16571370-19b3-449f-9ce0-bc69f8ccf765",
+    "points": 3794,
+    "rank": 43,
+    "time": 57494
+  },
+  {
+    "id": "f46b8742-e352-405d-a9e5-0d208f667023",
+    "points": 3788,
+    "rank": 44,
+    "time": 57498
+  },
+  {
+    "id": "10261213-d389-4fd6-9f40-548e1210befd",
+    "points": 3788,
+    "rank": 45,
+    "time": 57515
+  },
+  {
+    "id": "7784b2c5-b8b6-4c74-9a95-5427b758617a",
+    "points": 3785,
+    "rank": 46,
+    "time": 57553
+  },
+  {
+    "id": "d299677d-c23c-4d44-813d-199c8106c8fb",
+    "points": 3784,
+    "rank": 47,
+    "time": 57608
+  },
+  {
+    "id": "2c049ff8-d3d4-4a6d-9595-6395e96df26c",
+    "points": 3743,
+    "rank": 48,
+    "time": 57646
+  },
+  {
+    "id": "a3a47aa2-249a-405f-9b52-b7331953099a",
+    "points": 3715,
+    "rank": 49,
+    "time": 57658
+  },
+  {
+    "id": "48b938f5-3236-4991-a403-922e69ebac8d",
+    "points": 3682,
+    "rank": 50,
+    "time": 57695
+  },
+  {
+    "id": "a074b540-8ecb-4eda-8b78-9c96178f4b99",
+    "points": 3588,
+    "rank": 52,
+    "time": 57768
+  },
+  {
+    "id": "c050a94b-e2f2-4df9-827e-8dcefea21c02",
+    "points": 3559,
+    "rank": 53,
+    "time": 57778
+  },
+  {
+    "id": "7dcf29cc-2f87-41e5-8970-049e8841359e",
+    "points": 3551,
+    "rank": 54,
+    "time": 57844
+  },
+  {
+    "id": "19bab0d9-8905-43d1-971e-a797c7209990",
+    "points": 3503,
+    "rank": 55,
+    "time": 57913
+  },
+  {
+    "id": "dead8c34-0248-4a1e-a0e8-edb309e27634",
+    "points": 3366,
+    "rank": 56,
+    "time": 57958
+  },
+  {
+    "id": "a470cb5d-3747-4952-a4f9-709160a22182",
+    "points": 2933,
+    "rank": 57,
+    "time": 58038
+  },
+  {
+    "id": "3532743a-86fa-4615-a343-d0fa7867bb59",
+    "points": 2814,
+    "rank": 58,
+    "time": 58125
+  },
+  {
+    "id": "5e8425b3-3103-4d31-b1f2-e43b99e93fbf",
+    "points": 2682,
+    "rank": 59,
+    "time": 58243
+  },
+  {
+    "id": "d7dc9589-e9b8-48ef-b553-d45f80b06321",
+    "points": 2163,
+    "rank": 61,
+    "time": 58285
+  },
+  {
+    "id": "f7dcc340-9e11-47fb-af72-52d004a80725",
+    "points": 1819,
+    "rank": 62,
+    "time": 58351
+  },
+  {
+    "id": "8f08302a-f670-463b-9f71-fbfacffb8bd1",
+    "points": 1364,
+    "rank": 63,
+    "time": 58370
+  },
+  {
+    "id": "2b7689cf-b37e-45b1-b431-1dfe59679b41",
+    "points": 810,
+    "rank": 64,
+    "time": 58418
+  },
+  {
+    "id": "4f76ecad-70e8-4876-b117-3ab83c6de7cb",
+    "points": 793,
+    "rank": 65,
+    "time": 58435
+  },
+  {
+    "id": "f93ab105-c293-42cf-bc22-712cc4e0b87b",
+    "points": 524,
+    "rank": 66,
+    "time": 58545
+  },
+  {
+    "id": "0700eaa1-b65f-49e5-a7ab-88a509ebe0f1",
+    "points": 140,
+    "rank": 67,
+    "time": 58561
+  },
+  {
+    "id": "ff8436ae-8efe-463c-95c9-a8caa39ea72c",
+    "points": 123,
+    "rank": 68,
+    "time": 58572
+  }
+]
