@@ -1,5 +1,5 @@
 {
-  "current_week": 4,
+  "current_week": 5,
   "maps": [
     {
       "name": "Sugar",
@@ -52,6 +52,19 @@
 		  "silver": 59000,
 		  "bronze": 74000
 		}
-	  }
+	},
+	{
+		"name": "Methode",
+		"author": "Flüffel",
+		"author_id": "45bcd4c6-7261-4dbb-b83f-ff8292083d02",
+		"tmx_id": 234080,
+		"map_uid": "jWPhzLJGafQDPSoXtnLT6PZfmH2",
+		"medals": {
+		  "author": 46102,
+		  "gold": 49000,
+		  "silver": 56000,
+		  "bronze": 70000
+		}
+	}
   ]
 }
