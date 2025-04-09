@@ -2993,5 +2993,25 @@
     "id": "2f5cb84a-dc61-4b46-9419-f3ff382a1ed5",
     "name": "xGuull",
     "zone": null
+  },
+  {
+    "id": "3a07ad9f-98b1-4299-808e-768a00ff7dc9",
+    "name": "Norbinarius",
+    "zone": {
+      "continent": "Europe",
+      "country": "Russia",
+      "state": "Центральный федеральный округ",
+      "city": "Москва"
+    }
+  },
+  {
+    "id": "a524c4ac-79c4-4a94-b516-63a1b03f2fe0",
+    "name": "Navi.wp",
+    "zone": {
+      "continent": "Europe",
+      "country": "France",
+      "state": "Nouvelle-Aquitaine",
+      "city": "Gironde"
+    }
   }
 ]
