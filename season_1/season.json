@@ -1,5 +1,5 @@
 {
-  "current_week": 5,
+  "current_week": 6,
   "maps": [
     {
       "name": "Sugar",
@@ -64,6 +64,19 @@
 		  "gold": 49000,
 		  "silver": 56000,
 		  "bronze": 70000
+		}
+	},
+	{
+		"name": "Boa Crusher",
+		"author": "velv",
+		"author_id": "37800878-70ee-469f-bf6e-168631a5c133",
+		"tmx_id": 235758,
+		"map_uid": "oLGW9eZS6IYIP730zXMVwRdKxod",
+		"medals": {
+		  "author": 47555,
+		  "gold": 51000,
+		  "silver": 58000,
+		  "bronze": 72000
 		}
 	}
   ]
