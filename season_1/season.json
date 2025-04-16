@@ -78,6 +78,19 @@
 		  "silver": 58000,
 		  "bronze": 72000
 		}
+	},
+	{
+		"name": "Acchitchi",
+		"author": "Sqlc",
+		"author_id": "8b23a52e-a6fb-4cc9-a53b-0c46c08768fa",
+		"tmx_id": 237664,
+		"map_uid": "vjyNNUu997cC5PW8e3x7Y9RsAF0",
+		"medals": {
+			"author": 47498,
+			"gold": 51000,
+			"silver": 57000,
+			"bronze": 72000
+		}
 	}
   ]
 }
