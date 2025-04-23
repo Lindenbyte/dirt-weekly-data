@@ -1,5 +1,5 @@
 {
-  "current_week": 7,
+  "current_week": 8,
   "maps": [
     {
       "name": "Sugar",
@@ -90,6 +90,19 @@
 			"gold": 51000,
 			"silver": 57000,
 			"bronze": 72000
+		}
+	},
+	{
+		"name": "In Lockstep with the Universe",
+		"author": "Sqweegel",
+		"author_id": "02ffe7da-3eaa-4ffe-a2de-155bc8638af9",
+		"tmx_id": 239170,
+		"map_uid": "Fw7sGUQv5bQo9JvlIup8DdWIBbe",
+		"medals": {
+			"author": 52998,
+			"gold": 57000,
+			"silver": 64000,
+			"bronze": 80000
 		}
 	}
   ]
