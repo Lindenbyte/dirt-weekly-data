@@ -3323,5 +3323,35 @@
     "id": "0050f1b3-ae6e-4b9e-aaf1-7906dfadbdd6",
     "name": "Erxcraft",
     "zone": null
+  },
+  {
+    "id": "075d14a1-2e3f-4e7d-a03a-3b6df37839f8",
+    "name": "Pudgeot",
+    "zone": {
+      "continent": "Europe",
+      "country": "Germany",
+      "state": "Bremen",
+      "city": null
+    }
+  },
+  {
+    "id": "fa2edba0-9422-4796-a063-334b4e8964a6",
+    "name": "whatever-TM",
+    "zone": {
+      "continent": "Europe",
+      "country": "Czechia",
+      "state": "Liberecký kraj",
+      "city": null
+    }
+  },
+  {
+    "id": "01981816-c06e-4d88-8682-bf24610df643",
+    "name": "MattT_tm",
+    "zone": {
+      "continent": "Europe",
+      "country": "United Kingdom",
+      "state": "England",
+      "city": "East Midlands"
+    }
   }
 ]
