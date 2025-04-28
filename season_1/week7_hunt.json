@@ -1,1 +1,218 @@
-[]
+[
+  {
+    "id": "7ccc9d81-bc43-4faa-b454-46bed6b6d4f5",
+    "points": 7192,
+    "rank": 1,
+    "time": 52147
+  },
+  {
+    "id": "45bcd4c6-7261-4dbb-b83f-ff8292083d02",
+    "points": 6533,
+    "rank": 2,
+    "time": 52175
+  },
+  {
+    "id": "fb678553-f730-442a-a035-dfc50f4a5b7b",
+    "points": 6461,
+    "rank": 3,
+    "time": 52313
+  },
+  {
+    "id": "8c14f490-b9b5-44b3-ab01-a3c4937f3000",
+    "points": 6330,
+    "rank": 4,
+    "time": 52338
+  },
+  {
+    "id": "6f67d602-f64b-4bed-a608-347adcf8cad1",
+    "points": 6315,
+    "rank": 5,
+    "time": 52358
+  },
+  {
+    "id": "2c049ff8-d3d4-4a6d-9595-6395e96df26c",
+    "points": 6160,
+    "rank": 6,
+    "time": 52374
+  },
+  {
+    "id": "1e9eaf8f-a16e-4c78-874b-bc727996159a",
+    "points": 6137,
+    "rank": 7,
+    "time": 52381
+  },
+  {
+    "id": "76ecd80b-33e0-4ac0-923c-ea2c05926eeb",
+    "points": 5895,
+    "rank": 8,
+    "time": 52427
+  },
+  {
+    "id": "5c9f57d9-2b40-4560-8a6f-3140905a9e4e",
+    "points": 5722,
+    "rank": 10,
+    "time": 52455
+  },
+  {
+    "id": "3f9c1ad1-98f8-4c69-86d8-0c93ea18b9c2",
+    "points": 5543,
+    "rank": 11,
+    "time": 52460
+  },
+  {
+    "id": "01981816-c06e-4d88-8682-bf24610df643",
+    "points": 5519,
+    "rank": 12,
+    "time": 52485
+  },
+  {
+    "id": "c918a06c-c622-49e4-b66b-6bcb6488db4c",
+    "points": 5484,
+    "rank": 13,
+    "time": 52521
+  },
+  {
+    "id": "fa2edba0-9422-4796-a063-334b4e8964a6",
+    "points": 5416,
+    "rank": 14,
+    "time": 52536
+  },
+  {
+    "id": "6780e5d4-66fd-4224-bf13-057e32d7ade7",
+    "points": 5407,
+    "rank": 15,
+    "time": 52565
+  },
+  {
+    "id": "fb334f08-cda5-4976-86ee-6e6cde426218",
+    "points": 5381,
+    "rank": 16,
+    "time": 52573
+  },
+  {
+    "id": "57fbd6c0-cc5b-42a3-b41a-00d8b4adf34e",
+    "points": 5261,
+    "rank": 17,
+    "time": 52627
+  },
+  {
+    "id": "989671fb-a1fd-4bab-8e97-de902809d971",
+    "points": 5196,
+    "rank": 18,
+    "time": 52690
+  },
+  {
+    "id": "b792256a-912b-461c-9f8d-662a040a15ce",
+    "points": 5150,
+    "rank": 19,
+    "time": 52720
+  },
+  {
+    "id": "d83627a4-2c7c-4be9-969c-1ab41f2f79fa",
+    "points": 5128,
+    "rank": 20,
+    "time": 52722
+  },
+  {
+    "id": "d11bb874-d79b-43cd-93c1-8f02b0b5d636",
+    "points": 4993,
+    "rank": 21,
+    "time": 52771
+  },
+  {
+    "id": "42b792dd-ec82-414d-a9e4-41f26c22207f",
+    "points": 4953,
+    "rank": 22,
+    "time": 52791
+  },
+  {
+    "id": "794a286c-44d9-4276-83ce-431cba7bab74",
+    "points": 4771,
+    "rank": 23,
+    "time": 52808
+  },
+  {
+    "id": "d1fca126-ccd2-44f2-81b2-697408b1c6f1",
+    "points": 4769,
+    "rank": 25,
+    "time": 52832
+  },
+  {
+    "id": "504285c2-1dd0-4dcb-82aa-67f42ff54594",
+    "points": 4751,
+    "rank": 26,
+    "time": 52835
+  },
+  {
+    "id": "16571370-19b3-449f-9ce0-bc69f8ccf765",
+    "points": 4606,
+    "rank": 27,
+    "time": 52843
+  },
+  {
+    "id": "7277226c-7111-4977-95a6-595938d9654c",
+    "points": 4425,
+    "rank": 28,
+    "time": 52845
+  },
+  {
+    "id": "a470cb5d-3747-4952-a4f9-709160a22182",
+    "points": 4420,
+    "rank": 30,
+    "time": 52851
+  },
+  {
+    "id": "d87c56c0-268b-44cc-bfc9-b239a1e15ad3",
+    "points": 4405,
+    "rank": 31,
+    "time": 52853
+  },
+  {
+    "id": "dbae1198-f8ec-455e-ad68-1b419a7c2249",
+    "points": 4049,
+    "rank": 32,
+    "time": 52881
+  },
+  {
+    "id": "6aa30f33-8720-4ffd-a534-1b4cae328cf2",
+    "points": 3674,
+    "rank": 33,
+    "time": 52938
+  },
+  {
+    "id": "5693c0d8-d3b8-4e09-bc9c-faa0be204c43",
+    "points": 3263,
+    "rank": 34,
+    "time": 52945
+  },
+  {
+    "id": "6933414c-0b53-4558-a41d-76fdcfe41ccc",
+    "points": 2558,
+    "rank": 35,
+    "time": 52972
+  },
+  {
+    "id": "a3a47aa2-249a-405f-9b52-b7331953099a",
+    "points": 2435,
+    "rank": 36,
+    "time": 52977
+  },
+  {
+    "id": "d463616b-0ad6-475f-9489-9d494784e216",
+    "points": 2055,
+    "rank": 37,
+    "time": 52990
+  },
+  {
+    "id": "d5512a43-0770-4b7b-88ee-e581e582ba24",
+    "points": 556,
+    "rank": 38,
+    "time": 53024
+  },
+  {
+    "id": "b89e8368-945b-457e-ab88-d9250f75eabd",
+    "points": 274,
+    "rank": 39,
+    "time": 53034
+  }
+]
